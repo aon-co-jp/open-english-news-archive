@@ -1,6 +1,6 @@
 # open-english ニュースアーカイブ 索引 / News Archive Index
 
-国別ページ(Wikipedia風)。見出しとリンクのみを公開しています。 / One page per country; headlines and links only.
+国別ページ(Wikipedia風)。 / One page per country.
 
 ## 国一覧 / Countries
 
@@ -27,7 +27,7 @@
 - [Tajikistan](wiki/Tajikistan.md)
 - [Thailand](wiki/Thailand.md)
 - [Ukraine](wiki/Ukraine.md)
-- [United States](wiki/United States.md)
 - [United+Kingdom](wiki/United+Kingdom.md)
+- [United States](wiki/United States.md)
 - [United+States](wiki/United+States.md)
 - [Vietnam](wiki/Vietnam.md)
