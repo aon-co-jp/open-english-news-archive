@@ -4,7 +4,6 @@
 
 ## 国一覧 / Countries
 
-- [22_29 BSTWatch_ The arms race in space and how the UK is defending itself. Video, 00_01_40, published at 22_29 BSTWatch_ The arms race in space and how the UK is defending itself](wiki/22_29 BSTWatch_ The arms race in space and how the UK is defending itself. Video, 00_01_40, published at 22_29 BSTWatch_ The arms race in space and how the UK is defending itself.md)
 - [Afghanistan](wiki/Afghanistan.md)
 - [Austria](wiki/Austria.md)
 - [Brazil](wiki/Brazil.md)
@@ -16,7 +15,6 @@
 - [Iran](wiki/Iran.md)
 - [Italy](wiki/Italy.md)
 - [Japan](wiki/Japan.md)
-- [Megastory](wiki/Megastory.md)
 - [Myanmar](wiki/Myanmar.md)
 - [Netherlands](wiki/Netherlands.md)
 - [Philippines](wiki/Philippines.md)
@@ -27,13 +25,9 @@
 - [Switzerland](wiki/Switzerland.md)
 - [Taiwan](wiki/Taiwan.md)
 - [Tajikistan](wiki/Tajikistan.md)
-- [Talking Shop](wiki/Talking Shop.md)
 - [Thailand](wiki/Thailand.md)
-- [The Point 2_ Vietnam – EFTA_ A New Gateway _ 19.09.2026 [...] ### Community tourism preserves living culture](wiki/The Point 2_ Vietnam – EFTA_ A New Gateway _ 19.09.2026 [...] ### Community tourism preserves living culture.md)
-- [Top stories](wiki/Top stories.md)
 - [Ukraine](wiki/Ukraine.md)
 - [United States](wiki/United States.md)
 - [United+Kingdom](wiki/United+Kingdom.md)
 - [United+States](wiki/United+States.md)
 - [Vietnam](wiki/Vietnam.md)
-- [Vietnamese tycoon ‘Shark Thuy’ accused of $295 million investor fraud](wiki/Vietnamese tycoon ‘Shark Thuy’ accused of $295 million investor fraud.md)
