@@ -23,6 +23,7 @@
 - [Philippines](wiki/Philippines.md)
 - [Poland](wiki/Poland.md)
 - [Russia](wiki/Russia.md)
+- [South Africa](wiki/South Africa.md)
 - [South Korea](wiki/South Korea.md)
 - [Spain](wiki/Spain.md)
 - [Switzerland](wiki/Switzerland.md)
