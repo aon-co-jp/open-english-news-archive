@@ -19,3 +19,9 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [提唱者死亡で支持拡大 エジプト 発「食事療法」が中東で物議](https://mainichi.jp/articles/20260808/k00/00m/030/046000c)
 - [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
 
+### Egypt(検索日時 / searched at: 2026-10-02)
+
+Tags: `Egypt` `2026-10`
+
+- (no items / 記事なし)
+

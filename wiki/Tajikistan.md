@@ -19,3 +19,9 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [ニュース 及びイベント | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/information/news-and-events-ja?page=8)
 - [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
 
+### Tajikistan(検索日時 / searched at: 2026-10-02)
+
+Tags: `Tajikistan` `2026-10`
+
+- (no items / 記事なし)
+

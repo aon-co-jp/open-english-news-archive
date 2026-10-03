@@ -19,3 +19,9 @@ Tags: `Russia (Japanese)` `2026-10`
 - [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
 - [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
 
+### Russia(検索日時 / searched at: 2026-10-02)
+
+Tags: `Russia` `2026-10`
+
+- (no items / 記事なし)
+

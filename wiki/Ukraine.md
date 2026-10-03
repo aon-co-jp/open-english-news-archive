@@ -19,3 +19,9 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
 - [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
 
+### Ukraine(検索日時 / searched at: 2026-10-02)
+
+Tags: `Ukraine` `2026-10`
+
+- (no items / 記事なし)
+
