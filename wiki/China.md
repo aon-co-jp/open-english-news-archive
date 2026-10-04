@@ -40,3 +40,28 @@ Tags: `China` `2026-10`
 - [最新热点新闻频道_ 今日头条新闻 资讯-荔枝网新闻](https://news.jstv.com/)
 - [今日 国内 新闻 _最新国内新闻报道_最近国内热点新闻评论-手机闽南网](http://m.mnw.cn/news/china)
 
+### China(検索日時 / searched at: 2026-10-03)
+
+Tags: `China` `2026-10`
+
+- [今日头条](https://www.toutiao.com/)
+- [头条新闻_今日中国](https://www.chinatoday.com.cn/zw2018/ttxw/)
+- [中国新闻 网- 今日头条](https://web.toutiao.com/w/7492410486781707008/)
+- [头条新闻 _头条_ 中国 政府网](https://www.gov.cn/govweb/toutiao/liebiao/home.htm)
+- [中国新闻_央视网 (cctv.com)](https://news.cctv.com/china/)
+- [中国新闻 周刊的头条主页 - 今日头条](https://web.toutiao.com/c/user/token/MS4wLjABAAAANLr0IEozcNexmjav9qWpNu9ILkB-IOZCBnv8UdD-IXA/)
+- [首页大 头条](http://www.803.com.cn/yyw/xwzx/sydtt/list.shtml)
+- [最新热点新闻频道_ 今日头条新闻 资讯-荔枝网新闻](https://news.jstv.com/)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/0bedd85b653193eb89cb1131c79b5e035495e267faff7829d380f75c4b2f6f66)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+

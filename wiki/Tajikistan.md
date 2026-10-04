@@ -25,3 +25,36 @@ Tags: `Tajikistan` `2026-10`
 
 - (no items / 記事なし)
 
+### Tajikistan(検索日時 / searched at: 2026-10-03)
+
+Tags: `Tajikistan` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイ の ニュース - Global News Asia](https://globalnewsasia.com/country.php?country=2)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+

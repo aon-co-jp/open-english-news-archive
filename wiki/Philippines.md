@@ -24,3 +24,19 @@ Tags: `Philippines` `2026-10`
 - [Balita Ngayon Online News | Facebook](https://www.facebook.com/balitangayononlinenews/)
 - [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
 
+### Philippines(検索日時 / searched at: 2026-10-03)
+
+Tags: `Philippines` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- (no items / 記事なし)
+

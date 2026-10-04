@@ -25,3 +25,33 @@ Tags: `Ukraine` `2026-10`
 
 - (no items / 記事なし)
 
+### Ukraine(検索日時 / searched at: 2026-10-03)
+
+Tags: `Ukraine` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマーニュース](https://www.myanmar-news.asia/)
+- [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [イタリア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_italy/)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリア 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/6a23dcecdbb44001d0f00f92fade3287eef9989efa2f4b2782f701dceb20e638)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「 イタリア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+
