@@ -31,3 +31,26 @@ Tags: `Germany` `2026-10`
 
 - (no items / 記事なし)
 
+### Germany(検索日時 / searched at: 2026-10-04)
+
+Tags: `Germany` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 現地メディアから厳選 ...](https://www.instagram.com/p/Dd8pSKPDTuB/)
+- [ビジネス短信 - ドイツ - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- (no items / 記事なし)
+

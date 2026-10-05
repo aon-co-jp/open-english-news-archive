@@ -40,3 +40,16 @@ Tags: `Egypt (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Philippines(検索日時 / searched at: 2026-10-04)
+
+Tags: `Philippines` `2026-10`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Ang Balita Ngayon (@AngBalitaNgayonFB)](https://www.facebook.com/AngBalitaNgayonFB/)
+- [Balita Sa Tagalog Ngayong Araw | Balitambayan](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Pilipinas Balita Ngayon-PBN | Lipa City | Facebook](https://www.facebook.com/p/Pilipinas-Balita-Ngayon-PBN-61550901577576/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+

@@ -43,3 +43,36 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
 - [ブラジル の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/brazil/page5)
 
+### Austria(検索日時 / searched at: 2026-10-04)
+
+Tags: `Austria` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [今日 の 韓国 関連 主要ニュース まとめ (2026-10-01)](https://www.koreatalk.jp/topic/2414/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [ハンギョレ新聞 : 日文版](https://japan.hani.co.kr/)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- (no items / 記事なし)
+

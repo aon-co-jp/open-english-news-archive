@@ -55,3 +55,31 @@ Tags: `Italy (Japanese)` `2026-10`
 - [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
 - [「 イタリア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
 
+### Ukraine(検索日時 / searched at: 2026-10-04)
+
+Tags: `Ukraine` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
+- [スイス の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/switzerland/page9)
+
+
+Tags: `France (English)` `2026-10`
+
+- (no items / 記事なし)
+

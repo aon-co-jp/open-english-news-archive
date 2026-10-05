@@ -237,3 +237,38 @@ Tags: `China (Japanese)` `2026-10`
 - [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
 - [中国 ・台湾 < 国際 - 産経 ニュース](https://www.sankei.com/world/china/)
 
+### Myanmar(検索日時 / searched at: 2026-10-04)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル 日報 Jornal Brasil Nippou - YouTube](https://www.youtube.com/channel/UCvCJXnvk9z14oVoEz_Le53Q)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [エジプト の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/egypt/page10)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [エジプト の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/39753/)
+- [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- (no items / 記事なし)
+

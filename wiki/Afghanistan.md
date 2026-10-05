@@ -43,3 +43,9 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
 - [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
 
+### Afghanistan(検索日時 / searched at: 2026-10-04)
+
+Tags: `Afghanistan` `2026-10`
+
+- (no items / 記事なし)
+
