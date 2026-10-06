@@ -93,3 +93,21 @@ Tags: `Italy (Japanese)` `2026-10`
 - [ニュース | アーモ イタリア](https://amoitalia.com/news/)
 - [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
 
+### Tajikistan(検索日時 / searched at: 2026-10-05)
+
+Tags: `Tajikistan` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [イタリア 新聞 (@ciao_journal) · Milan - Instagram](https://www.instagram.com/ciao_journal/)
+- [イタリア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_italy/)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [ニュース | アーモ イタリア](https://amoitalia.com/news/)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+

@@ -49,3 +49,9 @@ Tags: `Afghanistan` `2026-10`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-10-05)
+
+Tags: `Afghanistan` `2026-10`
+
+- (no items / 記事なし)
+

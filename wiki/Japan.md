@@ -83,3 +83,21 @@ Tags: `Thailand (Japanese)` `2026-10`
 - [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
 - [タイニュース ＆ タイ ブログ (@Thai_News_JP) / X](https://x.com/Thai_News_JP)
 
+### Japan(検索日時 / searched at: 2026-10-05)
+
+Tags: `Japan` `2026-10`
+
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [毎日新聞デジタル | 毎日新聞の ニュース サイト](https://mainichi.jp/)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- (no items / 記事なし)
+

@@ -50,3 +50,21 @@ Tags: `United States` `2026-10`
 - [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
 - [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
 
+### United States(検索日時 / searched at: 2026-10-05)
+
+Tags: `United States` `2026-10`
+
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+- [CBS News | Breaking news, top stories & today's latest headlines](https://www.cbsnews.com/)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+- [US news from the Guardian | The Guardian](https://www.theguardian.com/us-news)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](https://www.usnews.com/)
+- [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- (no items / 記事なし)
+

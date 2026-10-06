@@ -42,3 +42,26 @@ Tags: `Switzerland` `2026-10`
 
 - (no items / 記事なし)
 
+### Switzerland(検索日時 / searched at: 2026-10-05)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 現地メディアから厳選 ...](https://www.instagram.com/p/Dd8pSKPDTuB/)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- (no items / 記事なし)
+
