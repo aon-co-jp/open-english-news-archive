@@ -193,3 +193,9 @@ Tags: `France (Japanese)` `2026-10`
 - [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
 - [Actualités France - Journaux - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsfrance&hl=ja)
 
+### Iran(検索日時 / searched at: 2026-10-06)
+
+Tags: `Iran` `2026-10`
+
+- (no items / 記事なし)
+

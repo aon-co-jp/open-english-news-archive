@@ -90,3 +90,50 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
 - [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
 
+### India(検索日時 / searched at: 2026-10-06)
+
+Tags: `India` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `China (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [最新の 韓国ニュース - ライブドアニュース - livedoor](https://news.livedoor.com/article/category/44/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/brazil)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [スイス の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/switzerland/page6)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+

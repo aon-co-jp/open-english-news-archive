@@ -111,3 +111,9 @@ Tags: `Italy (Japanese)` `2026-10`
 - [ニュース | アーモ イタリア](https://amoitalia.com/news/)
 - [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
 
+### Tajikistan(検索日時 / searched at: 2026-10-06)
+
+Tags: `Tajikistan` `2026-10`
+
+- (no items / 記事なし)
+

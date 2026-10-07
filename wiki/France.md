@@ -84,3 +84,46 @@ Tags: `Brazil (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### France(検索日時 / searched at: 2026-10-06)
+
+Tags: `France` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+
