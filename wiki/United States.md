@@ -68,3 +68,16 @@ Tags: `Russia (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### United States(検索日時 / searched at: 2026-10-06)
+
+Tags: `United States` `2026-10`
+
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [US News Today: Latest Headlines & Updates | Yahoo](https://www.yahoo.com/news/us/)
+- [World News Today Updates & Daily Headlines | Fox News](https://www.foxnews.com/world)
+- [Newsmax.com - Breaking news from around the globe: U.S. news, politics, world, health, finance, video, science, technology, live news stream](https://www.newsmax.com/world/)
+- [US news from the Guardian | The Guardian](https://www.theguardian.com/us-news)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+
