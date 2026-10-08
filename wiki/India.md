@@ -137,3 +137,9 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [スイス の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/switzerland/page6)
 - [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
 
+### India(検索日時 / searched at: 2026-10-07)
+
+Tags: `India` `2026-10`
+
+- (no items / 記事なし)
+

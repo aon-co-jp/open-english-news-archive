@@ -127,3 +127,9 @@ Tags: `Germany (Japanese)` `2026-10`
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 - [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 
+### France(検索日時 / searched at: 2026-10-07)
+
+Tags: `France` `2026-10`
+
+- (no items / 記事なし)
+

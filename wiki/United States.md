@@ -81,3 +81,21 @@ Tags: `United States` `2026-10`
 - [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
 - [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
 
+### United States(検索日時 / searched at: 2026-10-07)
+
+Tags: `United States` `2026-10`
+
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+- [US news from the Guardian | The Guardian](https://www.theguardian.com/us-news)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [US | CNN](https://www.cnn.com/us)
+- [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- (no items / 記事なし)
+

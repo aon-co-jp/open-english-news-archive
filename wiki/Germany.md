@@ -119,3 +119,9 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
 - [「 ミャンマー 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
 
+### Germany(検索日時 / searched at: 2026-10-07)
+
+Tags: `Germany` `2026-10`
+
+- (no items / 記事なし)
+
