@@ -177,3 +177,9 @@ Tags: `Russia (Japanese)` `2026-10`
 - [ロシア の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0f552557ee1d39762929/)
 - [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
 
+### Malaysia(検索日時 / searched at: 2026-10-08)
+
+Tags: `Malaysia` `2026-10`
+
+- (no items / 記事なし)
+

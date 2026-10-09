@@ -127,3 +127,16 @@ Tags: `Japan` `2026-10`
 - [ｄメニューニュース｜NTTドコモ（docomo）のポータルサイト](https://topics.smt.docomo.ne.jp/)
 - [読売新聞 : きょうの最新ニュース・速報：発行部数No.1](https://www.yomiuri.co.jp/)
 
+### Japan(検索日時 / searched at: 2026-10-08)
+
+Tags: `Japan` `2026-10`
+
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [読売新聞 : きょうの最新ニュース・速報：発行部数No.1](https://www.yomiuri.co.jp/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+

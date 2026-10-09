@@ -123,3 +123,14 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [ミャンマーニュース](https://www.myanmar-news.asia/)
 - [「 ミャンマー 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
 
+### Italy(検索日時 / searched at: 2026-10-08)
+
+Tags: `Italy` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- (no items / 記事なし)
+
