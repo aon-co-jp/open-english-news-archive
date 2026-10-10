@@ -159,3 +159,28 @@ Tags: `South Korea (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Cambodia(検索日時 / searched at: 2026-10-09)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [កម្ពុជាថ្ងៃនេះ - វីអូអេ](https://khmer.voanews.com/podcast/video.aspx?count=50&zoneId=2690)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [News – វិមាន៧មករា](https://www.cpp.org.kh/en/topics/news-en)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ទីភ្នាក់ងារសារព័ត៌មានកម្ពុជា - AKP](https://akp.gov.kh/kh/post/category/1)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [M J 最新号 – ミャンマー 最新 ニュース ・情報誌](https://myanmarjapon.com/media)
+- [軍主導の総選挙で遠のく民主化 軍トップが大統領に選出か ...](https://www.youtube.com/watch?v=zi-HH8VgTs8)
+

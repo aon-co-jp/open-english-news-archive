@@ -140,3 +140,28 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
 - [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
 
+### Taiwan(検索日時 / searched at: 2026-10-09)
+
+Tags: `Taiwan` `2026-10`
+
+- [台灣 TV 新聞 |即時新聞、政治、財經、生活娛樂|最新 頭條 報導](http://www.baidu.com/link?url=NVvraqQKiko1MVQ44YL9jWAWrubycbUeFbs_zB6ZNKW)
+- [台灣頭條 :您的地區 新聞 和企業新聞來源](http://www.baidu.com/link?url=NVvraqQKiko1MVQ44YL9jRBMR9eAP1HofCyYuVmUo-W)
+- [台灣 週報 - 提供台灣及全球即時 頭條新聞 , 財經信息,社會新聞,國際資訊](http://www.baidu.com/link?url=_QxfqLBG8Q87Q4xkkHzFdASstiogUZY6CFqNpFY2VjTdnJPrMvreZPY6-gvBjZj7)
+- [台海新闻网_今日 台湾新闻 _最新,最近中国台湾新闻报道-手机闽南网](http://www.baidu.com/link?url=_QxfqLBG8Q87Q4xkkHzFdCHqiCyJEQLxiv1qz11PYmjKgMnNIhRRPpmhHv4JRgpG)
+- [新华 台湾 _新华网](http://www.baidu.com/link?url=5xLjiaKf9IrMc4mKN9m9n0u6MowGo4ZHkob40f6ysJ8OsV8zwRdymn3UvxlGd48i)
+- [即时 新闻 _新华 台湾 _新华网](http://www.baidu.com/link?url=ELXhGUYuqoi8uh8wbSuJD8NZllQGzVVeguVUuoPAf35dfpMZlPoL31uPFo-Hh4pt)
+- [头条 _中共中央 台湾 工作办公室、国务院台湾事务办公室](http://www.baidu.com/link?url=EeRiQcZ6MX6HQG7nhpZKtst69sfoTCSFEwfh8OFCDsEuz3gt541spMowQNGr_KbC)
+- [台湾 _海外网](http://www.baidu.com/link?url=6GuEgQiRfvtan-bRhbH-v1gUYjADfEIsdkfr7YqWmzvnaM0e0Em9koDk3faUX21C)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [「女性に対する戦争を世界は静観している」 アフガニスタン ...](https://www.youtube.com/watch?v=tXzgKlM2vCU)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+

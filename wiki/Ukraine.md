@@ -119,3 +119,14 @@ Tags: `Italy (Japanese)` `2026-10`
 - [イタリア 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0af09f088870daa12876/)
 - [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
 
+### Ukraine(検索日時 / searched at: 2026-10-09)
+
+Tags: `Ukraine` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- (no items / 記事なし)
+

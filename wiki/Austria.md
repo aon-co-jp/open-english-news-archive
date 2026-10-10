@@ -151,3 +151,31 @@ Tags: `Iran (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Austria(検索日時 / searched at: 2026-10-09)
+
+Tags: `Austria` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/asia/th/)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [タイ の ニュース サイトまとめ - Bangkok Times【バンコク ...](https://alphabet-home.com/bangkok-times/thailand-news/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- (no items / 記事なし)
+

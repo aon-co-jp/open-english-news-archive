@@ -114,3 +114,9 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [ビジネス短信 - エジプト - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
 - [エジプト ・アラブ共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/051805dd5f9ac7452904/)
 
+### Egypt(検索日時 / searched at: 2026-10-09)
+
+Tags: `Egypt` `2026-10`
+
+- (no items / 記事なし)
+

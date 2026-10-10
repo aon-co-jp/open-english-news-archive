@@ -61,3 +61,26 @@ Tags: `Thailand` `2026-10`
 
 - (no items / 記事なし)
 
+### Thailand(検索日時 / searched at: 2026-10-09)
+
+Tags: `Thailand` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [「 韓国 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [最新の 韓国ニュース - ライブドアニュース - livedoor](https://news.livedoor.com/article/category/44/)
+- [韓国 の最新 ニュース ｜ 韓国 旅行「コネスト」](https://www.konest.com/contents/news_top.html)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- (no items / 記事なし)
+

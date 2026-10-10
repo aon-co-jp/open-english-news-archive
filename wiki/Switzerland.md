@@ -105,3 +105,14 @@ Tags: `Thailand (Japanese)` `2026-10`
 - [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
 - [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
 
+### Switzerland(検索日時 / searched at: 2026-10-09)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- (no items / 記事なし)
+

@@ -152,3 +152,9 @@ Tags: `Russia (Japanese)` `2026-10`
 - [ヨーロッパ・ ロシアニュース 一覧 - テレ朝NEWS](https://news.tv-asahi.co.jp/news_international/20.html)
 - [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
 
+### South Africa(検索日時 / searched at: 2026-10-09)
+
+Tags: `South Africa` `2026-10`
+
+- (no items / 記事なし)
+

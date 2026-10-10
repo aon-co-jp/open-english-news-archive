@@ -151,3 +151,16 @@ Tags: `Germany (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### United States(検索日時 / searched at: 2026-10-09)
+
+Tags: `United States` `2026-10`
+
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [US news from the Guardian | The Guardian](https://www.theguardian.com/us-news)
+- [United States - BBC News](https://www.bbc.com/news/topics/cx1m7zg01xyt)
+- [World News Today Updates & Daily Headlines | Fox News](https://www.foxnews.com/world)
+- [Newsmax.com - Breaking news from around the globe: U.S. news, politics, world, health, finance, video, science, technology, live news stream](https://www.newsmax.com/world/)
+- [World news - breaking news, video, headlines and opinion | CNN](https://www.cnn.com/world)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [ABC News - Breaking News, Latest News and Videos](https://abcnews.com/)
+
