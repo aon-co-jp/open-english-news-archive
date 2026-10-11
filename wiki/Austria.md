@@ -179,3 +179,21 @@ Tags: `Austria (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Austria(検索日時 / searched at: 2026-10-10)
+
+Tags: `Austria` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [ブラジル 日報 Jornal Brasil Nippou - YouTube](https://www.youtube.com/@BrasilNippou/playlists)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [ブラジル - ビジネス短信 - JETRO（日本貿易振興機構）](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+

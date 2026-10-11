@@ -140,3 +140,9 @@ Tags: `Russia (Japanese)` `2026-10`
 - [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
 - [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
 
+### Philippines(検索日時 / searched at: 2026-10-10)
+
+Tags: `Philippines` `2026-10`
+
+- (no items / 記事なし)
+

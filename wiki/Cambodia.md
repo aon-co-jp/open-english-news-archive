@@ -184,3 +184,9 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [M J 最新号 – ミャンマー 最新 ニュース ・情報誌](https://myanmarjapon.com/media)
 - [軍主導の総選挙で遠のく民主化 軍トップが大統領に選出か ...](https://www.youtube.com/watch?v=zi-HH8VgTs8)
 
+### Cambodia(検索日時 / searched at: 2026-10-10)
+
+Tags: `Cambodia` `2026-10`
+
+- (no items / 記事なし)
+

@@ -116,3 +116,26 @@ Tags: `Iran (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Switzerland(検索日時 / searched at: 2026-10-10)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+

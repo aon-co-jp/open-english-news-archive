@@ -109,3 +109,21 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
 - [最新 | フォーカス 台湾 - 中央社日本語版 - Focus Taiwan](https://japan.focustaiwan.tw/news)
 
+### Brazil(検索日時 / searched at: 2026-10-10)
+
+Tags: `Brazil` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+

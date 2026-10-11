@@ -177,3 +177,9 @@ Tags: `Austria (Japanese)` `2026-10`
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 - [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
 
+### United Kingdom(検索日時 / searched at: 2026-10-10)
+
+Tags: `United Kingdom` `2026-10`
+
+- (no items / 記事なし)
+

@@ -157,3 +157,26 @@ Tags: `Germany (Japanese)` `2026-10`
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 - [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
 
+### Italy(検索日時 / searched at: 2026-10-10)
+
+Tags: `Italy` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [最新の 中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [中国 ・習近平政権 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- (no items / 記事なし)
+

@@ -168,3 +168,33 @@ Tags: `South Korea` `2026-10`
 - [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
 - [다음뉴스 | 정치](https://news.daum.net/politics)
 
+### South Korea(検索日時 / searched at: 2026-10-10)
+
+Tags: `South Korea` `2026-10`
+
+- [[12 뉴스 ] 오늘 의 주요 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1008715520)
+- [[12 뉴스 ] 오늘 의 주요 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1008629054)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [가장빠른 주식 뉴스 국내주식 뉴스 오늘](https://overseasstockevents.com/%ea%b0%80%ec%9e%a5%eb%b9%a0%eb%a5%b8-%ec%a3%bc%ec%8b%9d%eb%89%b4%ec%8a%a4-%ea%b5%ad%eb%82%b4%ec%a3%bc%ec%8b%9d-%eb%89%b4%ec%8a%a4-%ec%98%a4%eb%8a%98/)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [2026년 9월 7일 월요일 오늘 의 헤드라인 뉴스 ｜ 주요 언론이 주목한 대한민국 의 핵....](https://blog.naver.com/yaksog4449/224403321409)
+- [오늘 고속도로 통행량 554만대로 예상돼 - 주요 뉴스 | 알림마당 | 한국 도로교통....](https://www.tbn.or.kr/notice/tbnnews2_view.tbn?BOARD_ID=N011&newsCD=N000000765131)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
+- [ミャンマーニュース](https://www.myanmar-news.asia/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+
