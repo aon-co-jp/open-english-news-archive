@@ -190,3 +190,28 @@ Tags: `Cambodia` `2026-10`
 
 - (no items / 記事なし)
 
+### Cambodia(検索日時 / searched at: 2026-10-11)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [ទីភ្នាក់ងារសារព័ត៌មានកម្ពុជា - AKP](https://akp.gov.kh/kh/post/category/1)
+- [ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ](https://www.rfi.fr/km/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9E%B6%E1%9E%99%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%B9%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8E%E1%9F%8D%E2%80%8B%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%E2%80%8B%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/)
+- [News – វិមាន៧មករា](https://www.cpp.org.kh/en/topics/news-en)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [ヨーロッパ・ ロシアニュース 一覧 - テレ朝NEWS](https://news.tv-asahi.co.jp/news_international/20.html)
+

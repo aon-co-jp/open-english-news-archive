@@ -170,3 +170,33 @@ Tags: `United States` `2026-10`
 
 - (no items / 記事なし)
 
+### United States(検索日時 / searched at: 2026-10-11)
+
+Tags: `United States` `2026-10`
+
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News](https://www.nbcnews.com/)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+- [CBS News | Breaking news, top stories & today's latest headlines](https://www.cbsnews.com/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [US | CNN](https://www.cnn.com/us)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+

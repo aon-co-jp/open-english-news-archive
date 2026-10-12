@@ -197,3 +197,21 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
 - [ブラジル - ビジネス短信 - JETRO（日本貿易振興機構）](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
 
+### Austria(検索日時 / searched at: 2026-10-11)
+
+Tags: `Austria` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
+

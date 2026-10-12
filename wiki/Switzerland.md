@@ -139,3 +139,14 @@ Tags: `South Korea (Japanese)` `2026-10`
 - [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
 - [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
 
+### Switzerland(検索日時 / searched at: 2026-10-11)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- (no items / 記事なし)
+

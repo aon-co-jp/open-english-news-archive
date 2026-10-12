@@ -146,3 +146,38 @@ Tags: `Philippines` `2026-10`
 
 - (no items / 記事なし)
 
+### Philippines(検索日時 / searched at: 2026-10-11)
+
+Tags: `Philippines` `2026-10`
+
+- [Pinakamuling Balita sa Pilipinas Ngayon (Tagalog News Headlines)](https://www.randall-travel-award.missouri.edu/latest-news-in-the-philippines-today-tagalog-1326637427.html)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Ang Balita Ngayon (@AngBalitaNgayonFB)](https://www.facebook.com/AngBalitaNgayonFB/)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/bd6a578efae506888f94e27a3de85aa5e0dbeb8d7d05dee42a6b893562912278)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [ニュース 及びイベント | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/information/news-and-events-ja)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- (no items / 記事なし)
+

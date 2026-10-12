@@ -136,3 +136,21 @@ Tags: `Ukraine` `2026-10`
 
 - (no items / 記事なし)
 
+### Ukraine(検索日時 / searched at: 2026-10-11)
+
+Tags: `Ukraine` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [イタリア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_italy/)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [Notizie Italia: Ultima Ora - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsitaly&hl=ja)
+- [「 イタリア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+- [イタリア 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0af09f088870daa12876/)
+

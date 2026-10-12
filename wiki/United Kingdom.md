@@ -183,3 +183,33 @@ Tags: `United Kingdom` `2026-10`
 
 - (no items / 記事なし)
 
+### United Kingdom(検索日時 / searched at: 2026-10-11)
+
+Tags: `United Kingdom` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
+- [ミャンマーニュース](https://www.myanmar-news.asia/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス 20 先物 ニュース - Investing.com](https://jp.investing.com/indices/switzerland-20-futures-news)
+- [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
+

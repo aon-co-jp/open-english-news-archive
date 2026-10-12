@@ -126,3 +126,26 @@ Tags: `Egypt` `2026-10`
 
 - (no items / 記事なし)
 
+### Egypt(検索日時 / searched at: 2026-10-11)
+
+Tags: `Egypt` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+
+
+Tags: `France (English)` `2026-10`
+
+- (no items / 記事なし)
+

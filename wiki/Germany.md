@@ -165,3 +165,21 @@ Tags: `Germany` `2026-10`
 
 - (no items / 記事なし)
 
+### Germany(検索日時 / searched at: 2026-10-11)
+
+Tags: `Germany` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [Xinhua - jp. news .cn](https://jp.news.cn/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [中国 本土の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F.html)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+

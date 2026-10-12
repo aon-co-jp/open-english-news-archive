@@ -143,3 +143,19 @@ Tags: `Afghanistan` `2026-10`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-10-11)
+
+Tags: `Afghanistan` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- (no items / 記事なし)
+
