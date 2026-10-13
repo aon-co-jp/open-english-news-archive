@@ -183,3 +183,14 @@ Tags: `China (Japanese)` `2026-10`
 - [中国 本土の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F.html)
 - [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
 
+### Germany(検索日時 / searched at: 2026-10-12)
+
+Tags: `Germany` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- (no items / 記事なし)
+

@@ -213,3 +213,14 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [スイス 20 先物 ニュース - Investing.com](https://jp.investing.com/indices/switzerland-20-futures-news)
 - [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
 
+### United Kingdom(検索日時 / searched at: 2026-10-12)
+
+Tags: `United Kingdom` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- (no items / 記事なし)
+

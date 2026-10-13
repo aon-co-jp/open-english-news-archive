@@ -258,3 +258,9 @@ Tags: `Iran (Japanese)` `2026-10`
 - [イラン 攻撃の最新 ニュース と解説記事 - TBS NEWS DIG](https://newsdig.tbs.co.jp/list/tag/%E3%82%A4%E3%83%A9%E3%83%B3)
 - [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran?eafs_enabled=false)
 
+### Iran(検索日時 / searched at: 2026-10-12)
+
+Tags: `Iran` `2026-10`
+
+- (no items / 記事なし)
+

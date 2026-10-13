@@ -150,3 +150,50 @@ Tags: `Switzerland (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Switzerland(検索日時 / searched at: 2026-10-12)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ロイター | 経済、株価、ビジネス、国際、政治 ニュース](https://www.reuters.com/jp/)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [中国 ・習近平政権 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+- [最新の 中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [タイ の ニュース サイトまとめ - Bangkok Times【バンコク ...](https://alphabet-home.com/bangkok-times/thailand-news/)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイニュース PK(พี่เค) (@Thainews_PK) / X](https://x.com/Thainews_PK)
+

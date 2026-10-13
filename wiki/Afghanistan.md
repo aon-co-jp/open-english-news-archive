@@ -159,3 +159,43 @@ Tags: `Afghanistan (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-10-12)
+
+Tags: `Afghanistan` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
+- [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+
+
+Tags: `France (English)` `2026-10`
+
+- (no items / 記事なし)
+

@@ -211,3 +211,40 @@ Tags: `South Korea` `2026-10`
 - [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
 - [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
 
+### South Korea(検索日時 / searched at: 2026-10-12)
+
+Tags: `South Korea` `2026-10`
+
+- [[12 뉴스 ] 오늘 의 주요 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1008715520)
+- [[12 뉴스 ] 오늘 의 주요 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1008629054)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [가장빠른 주식 뉴스 국내주식 뉴스 오늘](https://overseasstockevents.com/%ea%b0%80%ec%9e%a5%eb%b9%a0%eb%a5%b8-%ec%a3%bc%ec%8b%9d%eb%89%b4%ec%8a%a4-%ea%b5%ad%eb%82%b4%ec%a3%bc%ec%8b%9d-%eb%89%b4%ec%8a%a4-%ec%98%a4%eb%8a%98/)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [연합뉴스TV - YouTube](https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg)
+- [오늘 고속도로 통행량 554만대로 예상돼 - 주요 뉴스 | 알림마당 | 한국 도로교통....](https://www.tbn.or.kr/notice/tbnnews2_view.tbn?BOARD_ID=N011&newsCD=N000000765131)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ロイター | 経済、株価、ビジネス、国際、政治 ニュース](https://www.reuters.com/jp/)
+
