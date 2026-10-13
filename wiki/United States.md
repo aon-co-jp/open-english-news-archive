@@ -200,3 +200,16 @@ Tags: `Germany (Japanese)` `2026-10`
 - [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 
+### United States(検索日時 / searched at: 2026-10-12)
+
+Tags: `United States` `2026-10`
+
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [CBS News | Breaking news, top stories & today's latest headlines](https://www.cbsnews.com/)
+- [World News Today Updates & Daily Headlines | Fox News](https://www.foxnews.com/world)
+- [World news - breaking news, video, headlines and opinion | CNN](https://www.cnn.com/world)
+- [US News Today: Latest Headlines & Updates | Yahoo](https://www.yahoo.com/news/us/)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+
