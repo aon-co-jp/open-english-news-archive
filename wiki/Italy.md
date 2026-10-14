@@ -214,3 +214,21 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [SWI swissinfo.ch 日本語版 (@swissinfo.ch_jp) · Bern - Instagram](https://www.instagram.com/swissinfo.ch_jp/)
 - [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
 
+### Italy(検索日時 / searched at: 2026-10-13)
+
+Tags: `Italy` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+

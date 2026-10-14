@@ -140,3 +140,9 @@ Tags: `Afghanistan (Japanese)` `2026-10`
 - [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
 - [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
 
+### Israel(検索日時 / searched at: 2026-10-13)
+
+Tags: `Israel` `2026-10`
+
+- (no items / 記事なし)
+

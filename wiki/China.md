@@ -236,3 +236,33 @@ Tags: `China` `2026-10`
 - [中国新闻 _CCTV节目官网](http://www.baidu.com/link?url=1LzeSqpPkGSwq1LG0CiAQg1F06_dKM-SYTEY1phEfxrOwuugTDNj1kHLFAu5_unc)
 - [中国 版首页 | 联合早报 - 享誉新加坡与国际的权威中文 新闻 媒体](http://www.baidu.com/link?url=H1XM0qYlRhPqtRQy_sGJTUqPdps17V1T8CFyVDsOJWL-yyYefV7s-znB5WyL0umP)
 
+### China(検索日時 / searched at: 2026-10-13)
+
+Tags: `China` `2026-10`
+
+- [头条新闻_今日中国](http://www.baidu.com/link?url=_NBIP41IJ2ONnZF5n7TJxYIH6aQNCmjoy_4IWC7EePkEK-zZygQFIeGbtPmuCSClhIVZYettWE__Hnd1Bcm_-q)
+- [中国 - BBC News 中文](https://www.bbc.com/zhongwen/topics/ckr7mn6r003t/simp)
+- [今日头条](http://www.baidu.com/link?url=4evKwoTojwwkTngqvvc_Kig0r80Y8Rxy8mlr8_LCdHvYIKEPN7TVuHalHNKv-cJ6)
+- [头条新闻 _头条_ 中国 政府网](http://www.baidu.com/link?url=x-dRBk8QKusrr-E8NEViSC11IBRUUN9Felmh4dwB9RbU0-VcDrHdvEe6BQg24gpU)
+- [中国新闻 周刊的头条主页 - 今日头条](http://www.baidu.com/link?url=N3fhNW0KemvpxPuhw-yNCIRLhXY84ls_qs5i4n7juRZllLrpzfOmyW4LL4mh2w35-CiLTOHPcmo0hz6Y7rn0eXH2e0vPe3nrC8EL2bWoqhGAYF_p98HwPjWL100OjkRbXYCJBSrDPibIQhp00mKQ1_)
+- [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=N3fhNW0KemvpxPuhw-yNCIRLhXY84ls_qs5i4n7juRZllLrpzfOmyW4LL4mh2w35-CiLTOHPcmo0hz6Y7rn0eQ4fl9yXPu35BHv43WCRZl69uR_CHWiMbIO3ESw2JXQsssu5TsWpN0VTL2XKxUSaWa)
+- [中国新闻 网_时政](http://www.baidu.com/link?url=N3fhNW0KemvpxPuhw-yNCGa0YTZBXN0S2V2-ZNycLgE4I0c5i35CdcxJpaAbXzUjyB3hVvAYWPF8pLZa8rNXrK)
+- [中国新闻 网_梳理天下新闻](http://www.baidu.com/link?url=-WCEii_Mf_vlQHS8CON7tH2EwFdli8SjuhrjFFz3MLi)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+- [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- (no items / 記事なし)
+

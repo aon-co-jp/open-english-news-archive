@@ -197,3 +197,9 @@ Tags: `Thailand (Japanese)` `2026-10`
 - [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
 - [タイニュース PK(พี่เค) (@Thainews_PK) / X](https://x.com/Thainews_PK)
 
+### Switzerland(検索日時 / searched at: 2026-10-13)
+
+Tags: `Switzerland` `2026-10`
+
+- (no items / 記事なし)
+

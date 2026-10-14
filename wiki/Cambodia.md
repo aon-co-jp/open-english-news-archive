@@ -291,3 +291,21 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
 - [エジプト の天然ガス積み出し港で船舶火災、貯蔵船にドローン ...](https://www.reuters.com/jp/world/ukraine/5W6QW4IMXNNM7HV5OSMRKRDPPE-2026-07-29/)
 
+### Cambodia(検索日時 / searched at: 2026-10-13)
+
+Tags: `Cambodia` `2026-10`
+
+- [ព័ត៌មាន​​​កម្ពុជា - Cambodia News - វីអូអេ - VOA Khmer](https://khmer.voanews.com/z/2277)
+- [News – វិមាន៧មករា](https://www.cpp.org.kh/en/topics/news-en)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ព័ត៌មានពីប្រទេសកម្ពុជា-វិទ្យុបារាំងអន្តរជាតិ RFI ខេមរភាសា](https://www.rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [ព័ត៌មានអន្តរជាតិ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/%E1%9E%96%E1%9F%90%E1%9E%8F%E1%9F%8C%E1%9E%98%E1%9E%B6%E1%9E%93%E1%9E%A2%E1%9E%93%E1%9F%92%E1%9E%8F%E1%9E%9A%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7/)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- (no items / 記事なし)
+

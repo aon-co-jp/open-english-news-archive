@@ -366,3 +366,9 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [asahi.com：朝日新聞 ミャンマー 情勢 - ニュース 特集](http://www.asahi.com/special/070928/)
 - [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
 
+### Myanmar(検索日時 / searched at: 2026-10-13)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
