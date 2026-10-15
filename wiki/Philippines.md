@@ -207,3 +207,16 @@ Tags: `Philippines` `2026-10`
 - [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
 - [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
 
+### Philippines(検索日時 / searched at: 2026-10-14)
+
+Tags: `Philippines` `2026-10`
+
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+- [Ang Balita Ngayon (@AngBalitaNgayonFB)](https://www.facebook.com/AngBalitaNgayonFB/)
+- [Latest Philippine News - Bombo Radyo News](https://www.bomboradyo.com/)
+

@@ -232,3 +232,9 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
 - [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
 
+### Italy(検索日時 / searched at: 2026-10-14)
+
+Tags: `Italy` `2026-10`
+
+- (no items / 記事なし)
+

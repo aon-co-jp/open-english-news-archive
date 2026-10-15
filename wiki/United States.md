@@ -226,3 +226,16 @@ Tags: `United States` `2026-10`
 - [ユナイテッド 航空の格安航空券・飛行機予約【HIS】](https://www.his-j.com/kaigai/air/airline/united_air/?msockid=09bbe8f06fee6cec3d55ff1e6e306db4)
 - [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
 
+### United States(検索日時 / searched at: 2026-10-14)
+
+Tags: `United States` `2026-10`
+
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](https://www.usnews.com/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+- [CBS News | Breaking News, Top Stories & Exclusive Coverage](https://www.cbsnews.com/)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
+
