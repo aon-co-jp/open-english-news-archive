@@ -240,3 +240,41 @@ Tags: `Brazil` `2026-10`
 
 - (no items / 記事なし)
 
+### Brazil(検索日時 / searched at: 2026-10-14)
+
+Tags: `Brazil` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [ハンギョレ新聞 : 日文版](https://japan.hani.co.kr/)
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [最新の 韓国ニュース - ライブドアニュース - Livedoor](https://news.livedoor.com/article/category/44/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `France (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `China (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- (no items / 記事なし)
+

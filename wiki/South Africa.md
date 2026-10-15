@@ -187,3 +187,31 @@ Tags: `South Africa` `2026-10`
 
 - (no items / 記事なし)
 
+### South Africa(検索日時 / searched at: 2026-10-14)
+
+Tags: `South Africa` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
+- [アフガニスタン 東部地震、死者800人超える 生存者は屋外で ...](https://www.bbc.com/japanese/articles/cev2vd8x9ydo)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [タリバン打倒は「不可能」 対抗勢力指導者、民主化交渉訴え](https://www.47news.jp/14823673.html)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- (no items / 記事なし)
+
