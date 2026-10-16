@@ -239,3 +239,16 @@ Tags: `United States` `2026-10`
 - [CBS News | Breaking News, Top Stories & Exclusive Coverage](https://www.cbsnews.com/)
 - [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
 
+### United States(検索日時 / searched at: 2026-10-15)
+
+Tags: `United States` `2026-10`
+
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](https://www.usnews.com/)
+- [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News](https://www.nbcnews.com/)
+- [CBS News | Breaking News, Top Stories & Exclusive Coverage](https://www.cbsnews.com/)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+

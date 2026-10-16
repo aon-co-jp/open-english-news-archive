@@ -220,3 +220,21 @@ Tags: `Philippines` `2026-10`
 - [Ang Balita Ngayon (@AngBalitaNgayonFB)](https://www.facebook.com/AngBalitaNgayonFB/)
 - [Latest Philippine News - Bombo Radyo News](https://www.bomboradyo.com/)
 
+### Philippines(検索日時 / searched at: 2026-10-15)
+
+Tags: `Philippines` `2026-10`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Ang Balita Ngayon (@AngBalitaNgayonFB)](https://www.facebook.com/AngBalitaNgayonFB/)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+
+
+Tags: `China (English)` `2026-10`
+
+- (no items / 記事なし)
+

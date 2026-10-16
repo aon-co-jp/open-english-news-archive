@@ -279,3 +279,55 @@ Tags: `China` `2026-10`
 - [头条新闻 的微博_微博](http://www.baidu.com/link?url=Ylp4-k8Mm1SgWuut0eBwGIfBAyek8O88MT_p3q0Lzl7JSw-eW7yvm3TlvYMIubHW8cb3-vKNy4eHeRNsaT6S3a)
 - [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=Iz9ohocTliwrM9H0PrdXdov4mwkOMCDv0avQxwYc3efiDb0GxXmDNwaXT0gu_LXmBKMUm5Fi16eP6S8aM38awuUth88MVS_2fFAgWS-sOsRIxz5_oVHRDYwRg2oydPIb6_DwDdOmpjqEiKeoHqgIV_)
 
+### China(検索日時 / searched at: 2026-10-15)
+
+Tags: `China` `2026-10`
+
+- [头条新闻_今日中国](http://www.baidu.com/link?url=Pwu80ZGo1bgQXSreZpW_QoI-Soqs00sDEA1bF65_WMBnUtAaR0E-D9LHHnaE88cV_Z1Q1Ok3ChRwVHkJ4Zrac_)
+- [今日头条](http://www.baidu.com/link?url=n5CVIm8c90ZNTioAT5CwWZPyhHQ6fAtXz8dYOnhhF1_u8cJsEqGg__Rc-uhJYxep)
+- [今日头条](http://www.baidu.com/link?url=WlxuMLkh1uoI01of5rD2rEtVFIdUkuDYKfL5jTJSBQdwV-5Nhv_KdtDcVzEh0n9HAkAlQUWwCcMcXye1T-1fMq)
+- [头条新闻 _头条_ 中国 政府网](http://www.baidu.com/link?url=hHESJ7e8kPbAJk0-KH65xzDuKyh_k2w4jHEmWEFgTxUnEXszLlmxK3bR3Xa5KJIm)
+- [头条 -首页 | 新闻 决定影响力 |《每日经济新闻》报社旗下网站](http://www.baidu.com/link?url=sq9sjfNDmb6mbFHpWoM8dZEUMt6z1p71poZh1b_eLTXUXbsHMPF5uyv88_4bTMIS)
+- [首页 头条 --人民网](http://www.baidu.com/link?url=hHESJ7e8kPbAJk0-KH65xsrrDd1MBW3WvsjxKMvDOOO3MmR_KKc8-lBxMyDc7sUI)
+- [头条新闻 的微博_微博](http://www.baidu.com/link?url=hHESJ7e8kPbAJk0-KH65x5ANDW0yQjlAAN9WZyVR1kBip3_Se2MYFIUFtUcK1MG6cgssKKzWzhqBBtPF5oMXla)
+- [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=JXsC6rhTTQWXWt5gNoMKkzUJibu-TUS6MJx7x2PaC32LoyrThMslQUJ7MAC8T894ykIKMF71fawWlRkk-3aYXignRZmCEwL-L4aZDuxUi4saxYIAZYYNafI-iTAR-CF-0B5k8omkS6MtyZpR1Eq_Gq)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0ee2889867904a8f2378/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+- [アフガニスタン 東部地震、死者800人超える 生存者は屋外で ...](https://www.bbc.com/japanese/articles/cev2vd8x9ydo)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+- [タリバン打倒は「不可能」 対抗勢力指導者、民主化交渉訴え](https://www.47news.jp/14823673.html)
+

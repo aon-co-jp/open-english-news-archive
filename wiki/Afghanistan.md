@@ -216,3 +216,38 @@ Tags: `Ukraine (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-10-15)
+
+Tags: `Afghanistan` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [ニュース カテゴリ： タイ ローカル ニュース - ワイズデジタル](https://www.wisebk.com/news_category/thai_local_news/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [タイニュース | newsclip.be](https://newsclip.be/category/thai-news)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイ の ニュース サイトまとめ - Bangkok Times【バンコク ...](https://alphabet-home.com/bangkok-times/thailand-news/)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
+- [フランス の出来事 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/actualite/)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- (no items / 記事なし)
+

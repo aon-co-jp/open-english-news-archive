@@ -235,3 +235,28 @@ Tags: `Taiwan` `2026-10`
 - [總覽新聞 - 即時 - 自由時報電子報](https://news.ltn.com.tw/)
 - [即時總覽 │ TVBS新聞網](https://news.tvbs.com.tw/realtime)
 
+### Taiwan(検索日時 / searched at: 2026-10-15)
+
+Tags: `Taiwan` `2026-10`
+
+- [Yahoo新聞](https://tw.news.yahoo.com/)
+- [熱門新聞- Yahoo奇摩新聞](https://tw.news.yahoo.com/most-popular)
+- [台灣 | 世界新聞網](https://www.worldjournal.com/wj/cate/taiwan)
+- [NOWnews今日新聞](https://www.nownews.com/)
+- [社會地方 - Yahoo新聞](https://tw.news.yahoo.com/society/)
+- [總覽新聞 - 即時 - 自由時報電子報](https://news.ltn.com.tw/)
+- [每日頭條 | ETtoday 新聞雲](https://www.ettoday.net/news/headline-list.htm)
+- [即時 | 聯合新聞網](https://udn.com/news/breaknews/1)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [エジプト の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/39753/)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「 エジプト 情勢」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88+%E6%83%85%E5%8B%A2)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt)
+- [エジプト の天然ガス積み出し港で船舶火災、貯蔵船にドローン ...](https://www.reuters.com/jp/video/watch/idOWjpvC442J5GABJ1TADK4M2CZPYM5CN/)
+

@@ -274,3 +274,16 @@ Tags: `South Korea` `2026-10`
 - [[ 오늘 의 주요 일정·4일] 행안부, 서울세계불꽃축제 대책 점검회의](https://www.safetimes.co.kr/news/articleView.html?idxno=245434)
 - [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
 
+### South Korea(検索日時 / searched at: 2026-10-15)
+
+Tags: `South Korea` `2026-10`
+
+- [한국뉴스](https://www.24news.kr/)
+- [연합뉴스TV | 대한민국 No.1 보도채널](https://www.yonhapnewstv.co.kr/)
+- [[부동산 뉴스 오늘 ] 한국 공인중개사협회, 40년 역사 넘어 ‘법정단체 시대’ 열었다!](https://blog.naver.com/headn_/224434142541)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [FOX 오늘 의 이슈](https://www.youtube.com/)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [증권 데이터 - 한국 경제TV](https://www.wowtv.co.kr/)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+

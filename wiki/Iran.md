@@ -477,3 +477,21 @@ Tags: `China (Japanese)` `2026-10`
 - [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
 - [【ライブ】『 中国 に関する ニュース 』約1年ぶり米中首脳会談 ...](https://www.youtube.com/watch?v=NtzYaJZVQQ8)
 
+### Iran(検索日時 / searched at: 2026-10-15)
+
+Tags: `Iran` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+

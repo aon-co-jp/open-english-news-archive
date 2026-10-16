@@ -224,3 +224,53 @@ Tags: `Malaysia` `2026-10`
 
 - (no items / 記事なし)
 
+### Malaysia(検索日時 / searched at: 2026-10-15)
+
+Tags: `Malaysia` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [最新の 韓国ニュース - ライブドアニュース - Livedoor](https://news.livedoor.com/article/category/44/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [ハンギョレ新聞 : 日文版](https://japan.hani.co.kr/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+
+
+Tags: `France (English)` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- (no items / 記事なし)
+

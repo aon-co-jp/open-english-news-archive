@@ -395,3 +395,21 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
 - [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
 
+### Myanmar(検索日時 / searched at: 2026-10-15)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [最新の 中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [毎日新聞デジタル | 毎日新聞の ニュース サイト](https://mainichi.jp/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [NHK ニュース 速報・最新情報](https://news.web.nhk/newsweb)
+
