@@ -238,3 +238,52 @@ Tags: `China (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Philippines(検索日時 / searched at: 2026-10-16)
+
+Tags: `Philippines` `2026-10`
+
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Big News](https://en.wikipedia.org/wiki/Big_News)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Santorini International Airport](https://en.wikipedia.org/wiki/Santorini_International_Airport)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマーニュース](https://www.myanmar-news.asia/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+

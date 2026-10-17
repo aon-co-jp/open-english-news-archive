@@ -244,3 +244,25 @@ Tags: `Italy` `2026-10`
 
 - (no items / 記事なし)
 
+### Italy(検索日時 / searched at: 2026-10-16)
+
+Tags: `Italy` `2026-10`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [タジキスタン 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0ee2889867904a8f2378/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [李強総理が17日から中央アジア2カ国を訪問しSCO会議に出席](https://news.livedoor.com/topics/detail/32580051/)
+- [李強総理がウズベキスタンと タジキスタン 訪問、SCO政府首脳 ...](http://j.people.com.cn/n3/2026/1016/c94474-20509362.html)
+

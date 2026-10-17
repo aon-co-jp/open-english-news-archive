@@ -223,3 +223,123 @@ Tags: `India` `2026-10`
 
 - (no items / 記事なし)
 
+### India(検索日時 / searched at: 2026-10-16)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [String regular expression java](https://stackoverflow.com/questions/27226847)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Rithvik Jothi Raj](https://en.wikipedia.org/wiki/Rithvik_Jothi_Raj)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [「 ブラジル 」の ニュース - (page 22) - CNN.co.jp](https://www.cnn.co.jp/topic/brazil/22/)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Meitei people in Assam](https://en.wikipedia.org/wiki/Meitei_people_in_Assam)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [Stray Kids](https://en.wikipedia.org/wiki/Stray_Kids)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
+- [チューリヒ空港の燃料逼迫、 スイス が義務備蓄放出へ 供給 ...](https://www.reuters.com/jp/world/2DMBXI74TRP4PF7KYYRDZTMTTQ-2026-10-16/)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Jihadi John](https://en.wikipedia.org/wiki/Jihadi_John)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [List of designated terrorist groups](https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [「 エジプト 情勢」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88+%E6%83%85%E5%8B%A2)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [Assassination of Anwar Sadat](https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

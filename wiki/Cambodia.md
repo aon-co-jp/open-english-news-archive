@@ -345,3 +345,28 @@ Tags: `Japan (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Cambodia(検索日時 / searched at: 2026-10-16)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [News – វិមាន៧មករា](https://www.cpp.org.kh/en/topics/news-en)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ព័ត៌មានកម្ពុជា](https://www.youtube.com/playlist?list=PL1ie9jay6H_CQZROxOD2XmLhjZDdgi3Cw)
+- [សំណួរ និងចម្លើយចំនួន៨ កម្ពុជា ឆ្លើយតបថៃ ពាក់ព័ន្ធបញ្ហាព្រំដែន](https://m.freshnews.com.kh/localnews/415621-2026-01-20-11-08-50)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [ハンギョレ新聞 : 日文版](https://japan.hani.co.kr/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+

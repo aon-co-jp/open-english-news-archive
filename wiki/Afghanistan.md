@@ -251,3 +251,33 @@ Tags: `Austria (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-10-16)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
+- [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [Santorini International Airport](https://en.wikipedia.org/wiki/Santorini_International_Airport)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+

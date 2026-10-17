@@ -274,3 +274,66 @@ Tags: `Brazil (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Malaysia(検索日時 / searched at: 2026-10-16)
+
+Tags: `Malaysia` `2026-10`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [2026 Shpageeza Cricket League](https://en.wikipedia.org/wiki/2026_Shpageeza_Cricket_League)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [2025 Hong Kong Sixes](https://en.wikipedia.org/wiki/2025_Hong_Kong_Sixes)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `China (English)` `2026-10`
+
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [Convert XAML to FlowDocument to display in RichTextBox in WPF](https://stackoverflow.com/questions/2830987)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+- [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [TikTok in Iran](https://en.wikipedia.org/wiki/TikTok_in_Iran)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+

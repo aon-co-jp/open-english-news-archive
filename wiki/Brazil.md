@@ -296,3 +296,14 @@ Tags: `Iran (Japanese)` `2026-10`
 - [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
 - [「 イラン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10110)
 
+### Brazil(検索日時 / searched at: 2026-10-16)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
+

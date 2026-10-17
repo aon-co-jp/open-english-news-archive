@@ -154,3 +154,28 @@ Tags: `Russia` `2026-10`
 
 - (no items / 記事なし)
 
+### Russia(検索日時 / searched at: 2026-10-16)
+
+Tags: `Russia` `2026-10`
+
+- [Россия сегодня](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F)
+- [РИА Новости](https://ru.wikipedia.org/wiki/%D0%A0%D0%98%D0%90_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+- [Sputnik](https://ru.wikipedia.org/wiki/Sputnik)
+- [Россия-1](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1)
+- [Криминальная Россия](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)
+- [Московские новости](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+- [Новости](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+- [Кубанские новости](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [新着 ニュース - ウクルインフォルム](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+

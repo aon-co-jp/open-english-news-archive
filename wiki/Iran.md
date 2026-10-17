@@ -495,3 +495,46 @@ Tags: `Germany (Japanese)` `2026-10`
 - [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 - [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
 
+### Iran(検索日時 / searched at: 2026-10-16)
+
+Tags: `Iran` `2026-10`
+
+- [واکنش‌ها به جنگ دوازده‌روزه](https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%E2%80%8C%D9%87%D8%A7_%D8%A8%D9%87_%D8%AC%D9%86%DA%AF_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D9%87)
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
+- [دیار مادری](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1_%D9%85%D8%A7%D8%AF%D8%B1%DB%8C)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [台湾ニュース ＠中央社フォーカス 台湾 (@focustaiwanjapa) / X](https://x.com/focustaiwanjapa)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [Crime in Thailand](https://en.wikipedia.org/wiki/Crime_in_Thailand)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+

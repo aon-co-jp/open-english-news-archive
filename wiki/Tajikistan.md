@@ -312,3 +312,11 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
 - [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
 
+### Tajikistan(検索日時 / searched at: 2026-10-16)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Рӯзнома](https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%BD%D0%BE%D0%BC%D0%B0)
+- [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+

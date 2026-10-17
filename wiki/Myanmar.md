@@ -413,3 +413,9 @@ Tags: `China (Japanese)` `2026-10`
 - [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
 - [NHK ニュース 速報・最新情報](https://news.web.nhk/newsweb)
 
+### Myanmar(検索日時 / searched at: 2026-10-16)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+

@@ -244,3 +244,14 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
 - [ウクライナ 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000296)
 
+### Switzerland(検索日時 / searched at: 2026-10-16)
+
+Tags: `Switzerland` `2026-10`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+

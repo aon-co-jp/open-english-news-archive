@@ -163,3 +163,28 @@ Tags: `Taiwan (English)` `2026-10`
 
 - (no items / 記事なし)
 
+### Israel(検索日時 / searched at: 2026-10-16)
+
+Tags: `Israel` `2026-10`
+
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Eylon Levy](https://en.wikipedia.org/wiki/Eylon_Levy)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [ヨーロッパ・ ロシアニュース 一覧 - テレ朝NEWS](https://news.tv-asahi.co.jp/news_international/20.html)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+

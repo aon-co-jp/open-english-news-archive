@@ -242,3 +242,36 @@ Tags: `United Kingdom` `2026-10`
 
 - (no items / 記事なし)
 
+### United Kingdom(検索日時 / searched at: 2026-10-16)
+
+Tags: `United Kingdom` `2026-10`
+
+- [Royal standard of the United Kingdom](https://en.wikipedia.org/wiki/Royal_standard_of_the_United_Kingdom)
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
