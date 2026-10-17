@@ -331,3 +331,15 @@ Tags: `Afghanistan (Japanese)` `2026-10`
 - [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
 - [タリバン打倒は「不可能」 対抗勢力指導者、民主化交渉訴え](https://www.47news.jp/14823673.html)
 
+### China(検索日時 / searched at: 2026-10-16)
+
+Tags: `China` `2026-10`
+
+- [中国新闻_央视网(cctv.com)](https://news.cctv.com/china/)
+- [中国中央电视台新闻频道](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93)
+- [主页 - BBC News 中文](https://www.bbc.com/zhongwen/simp)
+- [纽约时报中文网](https://m.cn.nytimes.com/)
+- [头条新闻_中华人民共和国外交部](https://www.mfa.gov.cn/ttxw/)
+- [新闻联播](https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD)
+- [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans)
+

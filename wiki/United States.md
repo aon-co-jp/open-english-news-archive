@@ -252,3 +252,14 @@ Tags: `United States` `2026-10`
 - [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
 - [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
 
+### United States(検索日時 / searched at: 2026-10-16)
+
+Tags: `United States` `2026-10`
+
+- [TheTVDB API - Starting out](https://stackoverflow.com/questions/62228590)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](https://www.usnews.com/)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+
