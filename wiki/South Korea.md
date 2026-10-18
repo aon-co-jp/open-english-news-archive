@@ -300,3 +300,16 @@ Tags: `South Korea` `2026-10`
 - [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
 - [2026년 오늘 의 경제 주요 뉴스 브리핑](https://newsbon9.blogspot.com/2026/05/)
 
+### South Korea(検索日時 / searched at: 2026-10-17)
+
+Tags: `South Korea` `2026-10`
+
+- [[12 뉴스 ] 오늘 의 주요 뉴스](https://news.sbs.co.kr/news/newsMain.do)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [가장빠른 주식 뉴스 국내주식 뉴스 오늘](https://overseasstockevents.com/%ea%b0%80%ec%9e%a5%eb%b9%a0%eb%a5%b8-%ec%a3%bc%ec%8b%9d%eb%89%b4%ec%8a%a4-%ea%b5%ad%eb%82%b4%ec%a3%bc%ec%8b%9d-%eb%89%b4%ec%8a%a4-%ec%98%a4%eb%8a%98/)
+- [뉴스 - 주요 뉴스 | KTV 국민방송](http://m.ktv.go.kr/news/major/list)
+- [경제 뉴스 — 오늘 의 날씨와 경제](https://weaco.co.kr/economy/)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [FOX 오늘 의 이슈](https://www.youtube.com/)
+

@@ -281,3 +281,23 @@ Tags: `Russia (English)` `2026-10`
 - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 
+### Afghanistan(検索日時 / searched at: 2026-10-17)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
+- [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+- [ブラジル 日報 / Jornal Brasil Nippou | São Paulo SP - Facebook](https://www.facebook.com/BrasilNippou/)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+

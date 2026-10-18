@@ -419,3 +419,21 @@ Tags: `Myanmar` `2026-10`
 
 - (no items / 記事なし)
 
+### Myanmar(検索日時 / searched at: 2026-10-17)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [最新情報 アーカイブ - 一般社団法人 日本 ミャンマー 協会](https://www.japanmyanmar.or.jp/news/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [asahi.com：朝日新聞 ミャンマー 情勢 - ニュース 特集](http://www.asahi.com/special/070928/)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/113986/)
+

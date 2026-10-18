@@ -255,3 +255,26 @@ Tags: `Switzerland` `2026-10`
 - [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
 - [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
 
+### Switzerland(検索日時 / searched at: 2026-10-17)
+
+Tags: `Switzerland` `2026-10`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
+- [台湾 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/taiwan)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
+

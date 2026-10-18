@@ -188,3 +188,16 @@ Tags: `Russia (Japanese)` `2026-10`
 - [ヨーロッパ・ ロシアニュース 一覧 - テレ朝NEWS](https://news.tv-asahi.co.jp/news_international/20.html)
 - [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
 
+### Israel(検索日時 / searched at: 2026-10-17)
+
+Tags: `Israel` `2026-10`
+
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Israeli casualties of war](https://en.wikipedia.org/wiki/Israeli_casualties_of_war)
+- [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
+

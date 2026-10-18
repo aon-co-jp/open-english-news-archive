@@ -343,3 +343,13 @@ Tags: `Egypt (English)` `2026-10`
 - [News](https://en.wikipedia.org/wiki/News)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### India(検索日時 / searched at: 2026-10-17)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [String regular expression java](https://stackoverflow.com/questions/27226847)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Rithvik Jothi Raj](https://en.wikipedia.org/wiki/Rithvik_Jothi_Raj)
+

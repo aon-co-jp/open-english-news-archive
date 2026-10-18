@@ -275,3 +275,24 @@ Tags: `Japan (English)` `2026-10`
 - [News](https://en.wikipedia.org/wiki/News)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### United Kingdom(検索日時 / searched at: 2026-10-17)
+
+Tags: `United Kingdom` `2026-10`
+
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [Royal standard of the United Kingdom](https://en.wikipedia.org/wiki/Royal_standard_of_the_United_Kingdom)
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+

@@ -320,3 +320,88 @@ Tags: `Tajikistan` `2026-10`
 - [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
 - [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
 
+### Tajikistan(検索日時 / searched at: 2026-10-17)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Рӯзнома](https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%BD%D0%BE%D0%BC%D0%B0)
+- [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Assassination of Anwar Sadat](https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [2026 Shpageeza Cricket League](https://en.wikipedia.org/wiki/2026_Shpageeza_Cricket_League)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [2025 Hong Kong Sixes](https://en.wikipedia.org/wiki/2025_Hong_Kong_Sixes)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 情勢」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88+%E6%83%85%E5%8B%A2)
+- [エジプト の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/39753/)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt)
+- [提唱者死亡で支持拡大 エジプト 発「食事療法」が中東で物議](https://mainichi.jp/articles/20260808/k00/00m/030/046000c)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [Crime in Thailand](https://en.wikipedia.org/wiki/Crime_in_Thailand)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [Tawanchai P.K. Saenchaimuaythaigym](https://en.wikipedia.org/wiki/Tawanchai_P.K._Saenchaimuaythaigym)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Disinformation in the Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Disinformation_in_the_Russian_invasion_of_Ukraine)
+- [Ukraine bioweapons conspiracy theory](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Far-right politics in Ukraine](https://en.wikipedia.org/wiki/Far-right_politics_in_Ukraine)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [最新の 中国ニュース - ライブドアニュース - Livedoor](https://news.livedoor.com/article/category/42/)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+

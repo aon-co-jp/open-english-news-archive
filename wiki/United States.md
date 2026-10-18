@@ -263,3 +263,75 @@ Tags: `United States` `2026-10`
 - [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
 - [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
 
+### United States(検索日時 / searched at: 2026-10-17)
+
+Tags: `United States` `2026-10`
+
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [US News Today: Latest Headlines & Updates | Yahoo](https://www.yahoo.com/news/us/)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [Associated Press News: Breaking News, Latest Headlines and Videos | AP News](https://apnews.com/)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [韓国 エンタメ情報の最新 ニュース - Kstyle](https://kstyle.com/category.ksn?categoryCode=ET)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Santorini International Airport](https://en.wikipedia.org/wiki/Santorini_International_Airport)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/0bedd85b653193eb89cb1131c79b5e035495e267faff7829d380f75c4b2f6f66)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [France national football team](https://en.wikipedia.org/wiki/France_national_football_team)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [李強総理がウズベキスタンと タジキスタン 訪問、SCO政府首脳 ...](http://j.people.com.cn/n3/2026/1016/c94474-20509362.html)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/bd6a578efae506888f94e27a3de85aa5e0dbeb8d7d05dee42a6b893562912278)
+- [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
+

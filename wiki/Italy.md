@@ -266,3 +266,14 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [李強総理が17日から中央アジア2カ国を訪問しSCO会議に出席](https://news.livedoor.com/topics/detail/32580051/)
 - [李強総理がウズベキスタンと タジキスタン 訪問、SCO政府首脳 ...](http://j.people.com.cn/n3/2026/1016/c94474-20509362.html)
 
+### Italy(検索日時 / searched at: 2026-10-17)
+
+Tags: `Italy` `2026-10`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
+

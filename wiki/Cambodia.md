@@ -370,3 +370,28 @@ Tags: `South Korea (Japanese)` `2026-10`
 - [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
 - [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
 
+### Cambodia(検索日時 / searched at: 2026-10-17)
+
+Tags: `Cambodia` `2026-10`
+
+- [ព័ត៌មាន​​​កម្ពុជា - Cambodia News - វីអូអេ - VOA Khmer](https://khmer.voanews.com/z/2277)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [News – វិមាន៧មករា](https://www.cpp.org.kh/en/topics/news-en)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [ព័ត៌មានកម្ពុជា](https://www.youtube.com/playlist?list=PL1ie9jay6H_CQZROxOD2XmLhjZDdgi3Cw)
+- [សំណួរ និងចម្លើយចំនួន៨ កម្ពុជា ឆ្លើយតបថៃ ពាក់ព័ន្ធបញ្ហាព្រំដែន](https://m.freshnews.com.kh/localnews/415621-2026-01-20-11-08-50)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [スイス の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/68179/)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [スイス のメディアが報じた日本の ニュース ｜4/15号 - Swissinfo](https://www.swissinfo.ch/jpn/various/%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E5%A0%B1%E3%81%98%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%EF%BD%9C4-15%E5%8F%B7/91262602)
+

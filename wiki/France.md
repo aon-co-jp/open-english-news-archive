@@ -194,3 +194,25 @@ Tags: `France` `2026-10`
 - [Affaire Agnès Le Roux](https://fr.wikipedia.org/wiki/Affaire_Agn%C3%A8s_Le_Roux)
 - [Île-de-France](https://fr.wikipedia.org/wiki/%C3%8Ele-de-France)
 
+### France(検索日時 / searched at: 2026-10-17)
+
+Tags: `France` `2026-10`
+
+- [Île-de-France](https://fr.wikipedia.org/wiki/%C3%8Ele-de-France)
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Affaire Agnès Le Roux](https://fr.wikipedia.org/wiki/Affaire_Agn%C3%A8s_Le_Roux)
+- [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
+- [Fabrice Arfi](https://fr.wikipedia.org/wiki/Fabrice_Arfi)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

@@ -287,3 +287,28 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
 - [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
 
+### Philippines(検索日時 / searched at: 2026-10-17)
+
+Tags: `Philippines` `2026-10`
+
+- [Pinakamuling Balita sa Pilipinas Ngayon (Tagalog News Headlines)](https://www.randall-travel-award.missouri.edu/latest-news-in-the-philippines-today-tagalog-1326637427.html)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [「 イラン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10110)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [イラン 大統領の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%83%A9%E3%83%B3%E5%A4%A7%E7%B5%B1%E9%A0%98.html)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イラン - BBC ニュース](https://www.bbc.com/japanese/topics/c8y946g2nz3t)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+

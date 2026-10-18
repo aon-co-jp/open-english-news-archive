@@ -307,3 +307,26 @@ Tags: `Brazil` `2026-10`
 - [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
 - [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
 
+### Brazil(検索日時 / searched at: 2026-10-17)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Zapad 2025](https://en.wikipedia.org/wiki/Zapad_2025)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [List of designated terrorist groups](https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+

@@ -337,3 +337,32 @@ Tags: `Iran (English)` `2026-10`
 - [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 
+### Malaysia(検索日時 / searched at: 2026-10-17)
+
+Tags: `Malaysia` `2026-10`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Meitei people in Assam](https://en.wikipedia.org/wiki/Meitei_people_in_Assam)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
