@@ -296,3 +296,16 @@ Tags: `Germany (English)` `2026-10`
 - [News ticker](https://en.wikipedia.org/wiki/News_ticker)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### United Kingdom(検索日時 / searched at: 2026-10-18)
+
+Tags: `United Kingdom` `2026-10`
+
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News: Latest & Breaking UK News ...](https://7news.com.au/news/united-kingdom)
+- [Latest UK news | The Guardian](https://www.theguardian.com/uk-news)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [UK News | Top Stories from the UK | Reuters](https://www.reuters.com/world/uk/)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+

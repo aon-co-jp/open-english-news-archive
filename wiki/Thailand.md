@@ -187,3 +187,16 @@ Tags: `Thailand` `2026-10`
 - [สนามข่าว 7 สี](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7_7_%E0%B8%AA%E0%B8%B5)
 - [สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2)
 
+### Thailand(検索日時 / searched at: 2026-10-18)
+
+Tags: `Thailand` `2026-10`
+
+- [Thaiger ข่าวประเทศไทย : ข่าววันนี้ ...](https://thethaiger.com/th/)
+- [ข่าว ข่าววันนี้ ข่าวด่วนทั่ว ...](https://thethaiger.com/th/thai-news/)
+- [ข่าวเด่นวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news)
+- [ข่าวไทยรัฐ ข่าวล่าสุด ข่าวด่วน ...](https://www.thairath.co.th/news)
+- [เกาะติดสถานการณ์ข่าว ข่าวด่วน ...](https://www.nationtv.tv/)
+- [ข่าว ข่าววันนี้ ข่าวสด ข่าว ...](https://www.sanook.com/news/)
+- [ไทยรัฐ สำนักข่าวอันดับ 1 ของไทย ...](https://www.thairath.co.th/)
+- [ข่าววันนี้ ข่าวด่วน ข่าวเด่น ...](https://news.kapook.com/)
+

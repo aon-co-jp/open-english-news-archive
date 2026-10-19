@@ -395,3 +395,16 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
 - [スイス のメディアが報じた日本の ニュース ｜4/15号 - Swissinfo](https://www.swissinfo.ch/jpn/various/%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E5%A0%B1%E3%81%98%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%EF%BD%9C4-15%E5%8F%B7/91262602)
 
+### Cambodia(検索日時 / searched at: 2026-10-18)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [កម្ពុជាថ្ងៃនេះ - វីអូអេ - VOA Khmer](https://khmer.voanews.com/cambodiatoday)
+- [Cambodia Today – កម្ពុជាថ្ងៃនេះ](https://camdaynews.com.kh/)
+- [ព័ត៌មានក្នុងប្រទេស ...](https://www.information.gov.kh/c/national_news)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+- [កម្ពុជា៖ ព័ត៌មាន, podcasts, វីដេអូ និង ...](https://www.rfi.fr/km/%E1%9E%96%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%99%E1%9E%82%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9E%B9%E1%9F%87/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+

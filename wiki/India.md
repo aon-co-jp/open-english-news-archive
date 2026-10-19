@@ -353,3 +353,16 @@ Tags: `India` `2026-10`
 - [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
 - [Rithvik Jothi Raj](https://en.wikipedia.org/wiki/Rithvik_Jothi_Raj)
 
+### India(検索日時 / searched at: 2026-10-18)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [India News, Latest Breaking News Headlines from India, Live ...](https://www.indiatoday.in/india)
+- [India News | Today's latest updates and breaking news from ...](https://www.ndtv.com/india)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [India News Today: Latest Breaking News, Politics, Weather ...](https://www.cnbctv18.com/india/)
+- [News, Today's News Headlines, Breaking News and Live ...](https://timesofindia.indiatimes.com/home/headlines)
+- [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
+- [News18: Breaking News, Latest News, News Headlines Today ...](https://www.news18.com/home/)
+

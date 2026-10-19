@@ -366,3 +366,16 @@ Tags: `Italy (English)` `2026-10`
 - [Fox News](https://en.wikipedia.org/wiki/Fox_News)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Malaysia(検索日時 / searched at: 2026-10-18)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+- [Utusan Malaysia](https://www.utusan.com.my/)
+- [MalaysiaGazette | When Malaysians Speak, We Listen](https://malaysiagazette.com/)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Terkini | BULETIN TV3 Malaysia](https://www.buletintv3.my/)
+

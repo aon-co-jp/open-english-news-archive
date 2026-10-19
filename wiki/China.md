@@ -379,3 +379,15 @@ Tags: `Italy (Japanese)` `2026-10`
 - [ニュース | アーモ イタリア](https://amoitalia.com/news/)
 - [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
 
+### China(検索日時 / searched at: 2026-10-18)
+
+Tags: `China` `2026-10`
+
+- [中国新闻网_梳理天下新闻](https://www.chinanews.com.cn/)
+- [Google 新闻 - 中国 - 最新新闻](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNR1F3TlhjekVnVjZhQzFEVGlnQVAB?hl=zh-CN&ceid=CN%3Azh-Hans)
+- [头条新闻_头条_中国政府网](https://www.gov.cn/toutiao/liebiao/home.htm)
+- [今日头条](https://www.toutiao.com/)
+- [今日热榜](https://tophub.today/c/news)
+- [Google 新闻](https://news.google.com/?hl=zh-CN)
+- [热点 - 今日头条](https://www.toutiao.com/ch/news_hot/)
+

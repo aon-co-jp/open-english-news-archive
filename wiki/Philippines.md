@@ -312,3 +312,16 @@ Tags: `Iran (Japanese)` `2026-10`
 - [イラン - BBC ニュース](https://www.bbc.com/japanese/topics/c8y946g2nz3t)
 - [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
 
+### Philippines(検索日時 / searched at: 2026-10-18)
+
+Tags: `Philippines` `2026-10`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita Sa Tagalog Ngayong Araw | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Balita - National](https://balita.mb.com.ph/national/)
+

@@ -216,3 +216,16 @@ Tags: `Brazil (English)` `2026-10`
 - [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### France(検索日時 / searched at: 2026-10-18)
+
+Tags: `France` `2026-10`
+
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [France 24 - Infos, news & actualités - L'information ...](https://www.france24.com/fr/)
+- [Actualités France en direct : info du jour, faits divers, actu en ...](https://www.20minutes.fr/france/)
+- [20 Minutes - Toute l’actualité en direct et les dernières infos ...](https://www.20minutes.fr/)
+

@@ -281,3 +281,15 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
 - [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
 
+### Austria(検索日時 / searched at: 2026-10-18)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [WELT - Aktuelle Nachrichten, News, Hintergründe & Videos](https://www.welt.de/)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [BR24 - Nachrichten, Fakten und Hintergrund | BR24](https://www.br.de/nachrichten/)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://on.n-tv.de/)
+

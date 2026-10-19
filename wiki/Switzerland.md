@@ -278,3 +278,16 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
 - [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
 
+### Switzerland(検索日時 / searched at: 2026-10-18)
+
+Tags: `Switzerland` `2026-10`
+
+- [20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt](https://www.20min.ch/)
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+- [Aktuelle News und Schlagzeilen aus Schweiz und Welt](https://www.bluewin.ch/de/news)
+- [Schweiz – News und Hintergründe zum Inland | NZZ Nachrichten](https://www.nzz.ch/schweiz)
+- [Das Neueste – SRF](https://www.srf.ch/news/das-neueste)
+

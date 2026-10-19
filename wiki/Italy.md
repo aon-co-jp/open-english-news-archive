@@ -277,3 +277,16 @@ Tags: `Italy` `2026-10`
 - [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
 - [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
 
+### Italy(検索日時 / searched at: 2026-10-18)
+
+Tags: `Italy` `2026-10`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Notizie Oggi Italia](https://notizie-oggi-italia.it/)
+- [Ultime notizie dal mondo in tempo reale | Ansa](https://www.ansa.it/sito/notizie/topnews/index.shtml)
+- [Attualità: Ultime notizie dall'Italia e dal Mondo - OGGI](https://www.oggi.it/attualita/2/)
+- [Notizie dall'Italia: ultime notizie - StrettoWeb](https://www.strettoweb.com/notizie-italia/)
+- [Ultime notizie di Cronaca: news oggi in tempo reale - Tgcom24](https://www.tgcom24.mediaset.it/cronaca/)
+- [RaiNews | Le ultime notizie gratuite aggiornate in tempo reale](https://www.rainews.it/)
+- [Ultime notizie - Today](https://www.today.it/notizie/tutte/)
+

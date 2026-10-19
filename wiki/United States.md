@@ -335,3 +335,16 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [タジキスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/bd6a578efae506888f94e27a3de85aa5e0dbeb8d7d05dee42a6b893562912278)
 - [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
 
+### United States(検索日時 / searched at: 2026-10-18)
+
+Tags: `United States` `2026-10`
+
+- [US | Yahoo News - Latest News & Headlines](https://www.yahoo.com/news/us/)
+- [Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [Breaking News, Latest News and Videos | CNN](https://www.cnn.com/)
+- [United States news today · News Atlas](https://www.news-atlas.com/en/country/united-states)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [NBC News USA - Breaking News, Top Stories, Politics ...](https://nbcnewsusa.com/)
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+

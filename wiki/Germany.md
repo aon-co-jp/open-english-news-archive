@@ -242,3 +242,15 @@ Tags: `Germany` `2026-10`
 - [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
 - [BR24](https://de.wikipedia.org/wiki/BR24)
 
+### Germany(検索日時 / searched at: 2026-10-18)
+
+Tags: `Germany` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [WELT - Aktuelle Nachrichten, News, Hintergründe & Videos](https://www.welt.de/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller Welt](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [BR24 - Nachrichten, Fakten und Hintergrund | BR24](https://www.br.de/nachrichten/)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://on.n-tv.de/)
+
