@@ -301,3 +301,28 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [ブラジル 日報 / Jornal Brasil Nippou | São Paulo SP - Facebook](https://www.facebook.com/BrasilNippou/)
 - [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
 
+### Afghanistan(検索日時 / searched at: 2026-10-18)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان خبرونه - AfghanNow.net](https://afghannow.net/%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86/)
+- [د امریکا غږ د نن ورځ ځینې مهم خبرونه. | Voice of Afghan News](https://voiceofafghan.com/video/8619/%D8%AF-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%BA%DA%96-%D8%AF-%D9%86%D9%86-%D9%88%D8%B1%DA%81-%DA%81%DB%8C%D9%86%DB%90-%D9%85%D9%87%D9%85-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87)
+- [د نن ورځی 8 تازه مهم او وروستی خبرونه 2026/10/7 - YouTube](https://www.youtube.com/watch?v=h9H9hM4nywc)
+- [د نن ورځی 8 تازه مهم او وروستی خبرونه 2026/10/12 - YouTube](https://www.youtube.com/watch?v=5QPY3GT4re0)
+- [اخبار افغانستان - اطلاعات روز](https://www.etilaatroz.com/category/news/afghanistan/)
+- [افغانستان اینترنشنال - صفحه اصلی | Afghanistan International](https://www.afintl.com/)
+- [تازه ترین اخبار روز افغانستان و جهان - خبرگزاری ...](https://afaaq.af/)
+- [کورنی | افغانستان انټرنشنل پښتو](https://www.afintl.com/pa)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Brazil News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/br/)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Brazil News Today | Newsaly](https://newsaly.com/brazil)
+- [Brazil - BBC News](https://www.bbc.com/news/topics/cmj34zmw77wt)
+- [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
+

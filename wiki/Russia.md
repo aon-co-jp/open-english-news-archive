@@ -202,3 +202,16 @@ Tags: `China (English)` `2026-10`
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 - [Convert XAML to FlowDocument to display in RichTextBox in WPF](https://stackoverflow.com/questions/2830987)
 
+### Russia(検索日時 / searched at: 2026-10-18)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Российская газета – последние новости и ...](https://rg.ru/)
+- [Новости России — последние и главные новости ...](https://ren.tv/news/v-rossii)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Лента новостей в режиме реального времени ...](https://www.kommersant.ru/lenta)
+

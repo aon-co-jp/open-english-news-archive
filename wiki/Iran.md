@@ -606,3 +606,16 @@ Tags: `France (Japanese)` `2026-10`
 - [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
 - [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
 
+### Iran(検索日時 / searched at: 2026-10-18)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://tasnimnews.ir/)
+- [vatanemrooz.ir](https://vatanemrooz.ir/)
+- [خبرگزاری ایسنا | صفحه اصلی | ISNA News Agency](https://www.isna.ir/)
+- [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان ...](https://www.khabaronline.ir/)
+- [شهر خبر - تیتر جدیدترین و آخرین اخبار ایران و جهان](https://www.shahrekhabar.com/)
+

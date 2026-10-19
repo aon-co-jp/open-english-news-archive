@@ -330,3 +330,28 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 - [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
 
+### Brazil(検索日時 / searched at: 2026-10-18)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias do Brasil - últimas notícias de hoje e principais ...](https://noticiabrasil.net.br/brasil/)
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/ultima-hora)
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Google Notícias - Brasil - Mais recentes](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREUxWm5JU0JYQjBMVUpTS0FBUAE?hl=pt-BR&ceid=BR%3Apt-419)
+- [CNN Brasil | Notícias Ao Vivo do Brasil e do Mundo](https://www.cnnbrasil.com.br/)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [南米の鼓動をキャッチ！ ブラジル日報](https://www.brasilnippou.com/)
+- [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル日報の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジルの今日を、毎日ひとまとめに](https://brazil-issue.com/ja/)
+- [ブラジル 日報 Jornal Brasil Nippou - YouTube](https://www.youtube.com/@BrasilNippou/playlists)
+

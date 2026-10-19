@@ -405,3 +405,28 @@ Tags: `China (Japanese)` `2026-10`
 - [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
 - [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
 
+### Tajikistan(検索日時 / searched at: 2026-10-18)
+
+Tags: `Tajikistan` `2026-10`
+
+- [ИмрӯзNews](https://imruz.tj/)
+- [Тоҷикистон — ИмрӯзNews](https://imruz.tj/tj/category/news-of-tajikistan-tj/)
+- [Имрӯз парвози мустақим байни Душанбе ва Минск ...](https://khabarikhush.tj/tg/2026/08/29/imr%D3%AFz-parvozi-musta%D2%9Bim-bajni-dushanbe-va-minsk-kushoda-shud/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [МАСЛИҲАТИ МУТАХАССИС. Тарбуз, харбуза ва каду ...](https://khovar.tj/2026/10/masli-ati-mutahassis-tarbuz-harbuza-va-kadu-dar-tarkibi-hud-vitamini-c-va-a-beshtar-dorand/)
+- [Хабарҳо | Вазорати корҳои хориҷии Ҷумҳурии ...](https://mfa.tj/tg/main/khabarho)
+- [Дар Душанбе Шурои намояндагии Ташкилоти ...](https://khovar.tj/2026/10/dar-dushanbe-shuroi-namoyandagii-tashkiloti-amiyatii-avonon-sozandagoni-vatan-tasis-doda-shud/)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「エジプト」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [Egypt：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [「エジプト」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプトの今日のニュース - News Atlas](https://www.news-atlas.com/ja/country/egypt)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [Google ニュース - エジプト - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpyTlRRU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [エジプト：ニュースまとめ【10/18更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3511/)
+- [「 エジプト 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88)
+

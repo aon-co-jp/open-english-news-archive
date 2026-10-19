@@ -257,3 +257,28 @@ Tags: `South Africa` `2026-10`
 - [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 
+### South Africa(検索日時 / searched at: 2026-10-18)
+
+Tags: `South Africa` `2026-10`
+
+- [South Africa news today: latest headlines, politics & economy ...](https://www.za24.news/)
+- [South Africa Local News · Latest SA Headlines · News.co.za](https://news.co.za/south-africa/)
+- [South Africa stories, breaking news and comment | The …](https://www.citizen.co.za/news/south-africa/)
+- [News | SouthAfrica | News24](https://www.news24.com/southafrica/news)
+- [South Africa | News24](https://www.news24.com/SouthAfrica)
+- [Top Stories South Africa · Latest SA News · News.co.za](https://news.co.za/top-stories/)
+- [Google News - South Africa - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR2g2YkhvU0JXVnVMVWRDS0FBUAE?hl=en-ZA&ceid=ZA%3Aen)
+- [Top Stories | Latest News in South Africa | eNCA](https://www.enca.com/)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Italian News in English: Today’s Headlines - ITALIA MIA](https://www.italiamia.com/italian-news-english/)
+- [Italy Breaking News Headlines Today | Ground News](https://ground.news/interest/italy)
+- [Italy News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/it/)
+- [News from Italy: Today's Latest Updates](https://italien.news/en/latest-news/)
+- [Italy News Today in English | Latest Italy News - NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Southern+Europe/Italy)
+- [Italy News: Latest & Breaking Italy News Headlines & Updates ...](https://7news.com.au/news/italy)
+- [Latest Italy News, Breaking Italy News, Italy News Headlines ...](https://www.wionews.com/tags/italy)
+- [Italy - Euronews](https://www.euronews.com/tag/italy)
+

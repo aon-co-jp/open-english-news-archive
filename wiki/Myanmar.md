@@ -437,3 +437,28 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
 - [ミャンマー の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/113986/)
 
+### Myanmar(検索日時 / searched at: 2026-10-18)
+
+Tags: `Myanmar` `2026-10`
+
+- [မြန်မာသတင်း - DVB Burmese](https://burmese.dvb.no/categories/news)
+- [Home Page - Myanmar Now](https://myanmar-now.org/mm/)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [News | နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm/news)
+- [ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက ...](https://www.bbc.com/burmese)
+- [မွန်သတင်း - IMNA - Facebook](https://www.facebook.com/IMNABur/)
+- [Home | မြန်မာ့အလင်း](https://www.moi.gov.mm/mal/)
+- [သတင်း Archives - Myanmar Now](https://myanmar-now.org/mm/news/category/news/)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar News Today | Latest Burma & Junta News ...](https://www.newsnow.com/ng/World/Asia/Myanmar?type=ln)
+- [Myanmar Breaking News Headlines Today | Ground News](https://ground.news/interest/myanmar-burma)
+- [Myanmar News Today | Latest Burma & Junta News - NewsNow](https://www.newsnow.com/us/World/Asia/Myanmar)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [Myanmar | Myanmar | Today's latest from Al Jazeera](https://www.aljazeera.com/where/myanmar/)
+- [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
+- [Myanmar: Latest News and Updates | South China …](https://www.scmp.com/topics/myanmar)
+

@@ -222,3 +222,64 @@ Tags: `Egypt` `2026-10`
 - [عملية طوفان الأقصى](https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D8%B7%D9%88%D9%81%D8%A7%D9%86_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89)
 - [محمد نجيب](https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%AC%D9%8A%D8%A8)
 
+### Egypt(検索日時 / searched at: 2026-10-18)
+
+Tags: `Egypt` `2026-10`
+
+- [بوابة أخبار اليوم الإلكترونية - الصفحة الرئيسية](https://akhbarelyom.com/)
+- [مصر اليوم | Egypt Today | آخر أخبار مصر اليوم | المزيد ...](https://www.egypt-today.com/)
+- [مصر اليوم](https://www.masralyoum.net/)
+- [اليوم السابع](https://www.youm7.com/)
+- [المصري اليوم | الصفحة الرئيسية لموقع المصري اليوم](https://www.almasryalyoum.com/section/index/today)
+- [مصر ـ أخبار مصر - عاجل | مصر اليوم | Egypt Today | egypttoday](https://www.egypt-today.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%B9%D8%A7%D8%AC%D9%84%D8%A9)
+- [أخبار عاجلة - اليوم السابع](https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1)
+- [موقع مصر اليوم الاخباري](https://www.mesrelyoum.com/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [Iran News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/ir/)
+- [Iran News: Latest Iran News Headlines, Iran Breaking News ...](https://www.timesnownews.com/topic/iran)
+- [Iran | Iran | Today's latest from Al Jazeera](https://www.aljazeera.com/where/iran/)
+- [Iran News: Latest & Breaking Iranian News Headlines ...](https://7news.com.au/news/iran)
+- [Latest Iran News, Breaking Iran News, Iran News Headlines ...](https://www.wionews.com/tags/iran)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FuUnlLQUFQAQ)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FtVnVLQUFQAQ?hl=en-US&ceid=US:en)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Today’s Top Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/)
+- [The Japan Times - News On Japan, Business News, Opinion ...](https://www.japantimes.co.jp/)
+- [Japan - News - The Japan Times](https://www.japantimes.co.jp/news/japan/)
+- [Japan News | Today's Top Stories | Reuters](https://www.reuters.com/world/japan/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/?lang=en)
+- [NHK World News | Breaking Japan News & Global Headlines ...](https://nhkworldnews.com/)
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツの今日のニュース - News Atlas](https://www.news-atlas.com/ja/country/germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/china)
+- [中国 | 最新中国ニュース | ロイター](https://www.reuters.com/jp/world/china/)
+- [最新の中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [「中国」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10086)
+
