@@ -325,3 +325,16 @@ Tags: `Philippines` `2026-10`
 - [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
 - [Balita - National](https://balita.mb.com.ph/national/)
 
+### Philippines(検索日時 / searched at: 2026-10-19)
+
+Tags: `Philippines` `2026-10`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Pilipino Star Ngayon - October 19, 2026](https://philstarmedia.pressreader.com/pilipino-star-ngayon)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Balita - National](https://balita.mb.com.ph/national/)
+

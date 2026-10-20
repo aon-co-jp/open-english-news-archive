@@ -299,3 +299,27 @@ Tags: `Japan` `2026-10`
 - [国内ニュース - Yahoo!ニュース](https://news.yahoo.co.jp/categories/domestic)
 - [主要 トピックス一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/topics/top-picks)
 
+### Japan(検索日時 / searched at: 2026-10-19)
+
+Tags: `Japan` `2026-10`
+
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [Yahoo!ニュース - Yahoo! JAPAN](https://news.yahoo.co.jp/)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+- [主要 トピックス一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/topics/top-picks)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+

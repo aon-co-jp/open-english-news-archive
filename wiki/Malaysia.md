@@ -379,3 +379,11 @@ Tags: `Malaysia` `2026-10`
 - [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
 - [Terkini | BULETIN TV3 Malaysia](https://www.buletintv3.my/)
 
+### Malaysia(検索日時 / searched at: 2026-10-19)
+
+Tags: `Malaysia` `2026-10`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+

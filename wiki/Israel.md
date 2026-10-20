@@ -310,3 +310,16 @@ Tags: `Ukraine (English)` `2026-10`
 - [Ukraine War | Latest News & Updates| BBC News](https://www.bbc.com/news/war-in-ukraine)
 - [Latest news of Ukraine and the world | UA.NEWS](https://ua.news/en/)
 
+### Israel(検索日時 / searched at: 2026-10-19)
+
+Tags: `Israel` `2026-10`
+
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Eylon Levy](https://en.wikipedia.org/wiki/Eylon_Levy)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
+

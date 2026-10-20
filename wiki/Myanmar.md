@@ -462,3 +462,9 @@ Tags: `Myanmar (English)` `2026-10`
 - [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
 - [Myanmar: Latest News and Updates | South China …](https://www.scmp.com/topics/myanmar)
 
+### Myanmar(検索日時 / searched at: 2026-10-19)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+

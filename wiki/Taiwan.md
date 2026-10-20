@@ -322,3 +322,28 @@ Tags: `Taiwan` `2026-10`
 - [今日頭條新聞網 | 今日新聞頭條，首屈一指的商業、科技、金融 ...](https://headnews.com.tw/)
 - [即時快訊 - 台灣與全球突發新聞、重大事件快報，搶佔第一手 ...](https://www.tvn.com.tw/news)
 
+### Taiwan(検索日時 / searched at: 2026-10-19)
+
+Tags: `Taiwan` `2026-10`
+
+- [Yahoo新聞](https://tw.news.yahoo.com/)
+- [李晶玉](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%B6%E7%8E%89)
+- [總覽新聞 - 即時 - 自由時報電子報](https://news.ltn.com.tw/)
+- [李文儀](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%84%80)
+- [TVBS新聞網 - 最受信任的台灣新聞媒體](https://news.tvbs.com.tw/)
+- [有线电视新闻网](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91)
+- [最新新聞即時報：24小時不間斷直擊真相｜壹蘋新聞網](https://news.nextapple.com/)
+- [三立iNEWS](https://zh.wikipedia.org/wiki/%E4%B8%89%E7%AB%8BiNEWS)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「 イタリア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [Notizie Italia: Ultima Ora - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsitaly&hl=ja)
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア 新聞 (@ciao_journal) · Milan - Instagram](https://www.instagram.com/ciao_journal/)
+

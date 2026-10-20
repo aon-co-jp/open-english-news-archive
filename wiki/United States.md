@@ -348,3 +348,28 @@ Tags: `United States` `2026-10`
 - [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
 - [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
 
+### United States(検索日時 / searched at: 2026-10-19)
+
+Tags: `United States` `2026-10`
+
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [US News Today: Latest Headlines & Updates | Yahoo](https://www.yahoo.com/news/us/)
+- [World News Today Updates & Daily Headlines | Fox News](https://www.foxnews.com/world)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](https://www.usnews.com/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
