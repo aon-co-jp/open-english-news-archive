@@ -325,3 +325,9 @@ Tags: `France (Japanese)` `2026-10`
 - [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
 - [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
 
+### Italy(検索日時 / searched at: 2026-10-20)
+
+Tags: `Italy` `2026-10`
+
+- (no items / 記事なし)
+

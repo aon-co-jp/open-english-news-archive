@@ -323,3 +323,16 @@ Tags: `Germany (English)` `2026-10`
 - [News ticker](https://en.wikipedia.org/wiki/News_ticker)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Japan(検索日時 / searched at: 2026-10-20)
+
+Tags: `Japan` `2026-10`
+
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [Yahoo!ニュース - Yahoo! JAPAN](https://news.yahoo.co.jp/)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+

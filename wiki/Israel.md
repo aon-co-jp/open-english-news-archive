@@ -323,3 +323,15 @@ Tags: `Israel` `2026-10`
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 - [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
 
+### Israel(検索日時 / searched at: 2026-10-20)
+
+Tags: `Israel` `2026-10`
+
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
+

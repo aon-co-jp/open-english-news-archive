@@ -400,3 +400,15 @@ Tags: `South Korea (English)` `2026-10`
 - [Lee Sun-kyun](https://en.wikipedia.org/wiki/Lee_Sun-kyun)
 - [Cashero](https://en.wikipedia.org/wiki/Cashero)
 
+### India(検索日時 / searched at: 2026-10-20)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [String regular expression java](https://stackoverflow.com/questions/27226847)
+- [Aaj Tak](https://en.wikipedia.org/wiki/Aaj_Tak)
+- [List of terrorist incidents in India](https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_India)
+- [Rahul Shivshankar](https://en.wikipedia.org/wiki/Rahul_Shivshankar)
+

@@ -347,3 +347,39 @@ Tags: `Italy (Japanese)` `2026-10`
 - [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
 - [イタリア 新聞 (@ciao_journal) · Milan - Instagram](https://www.instagram.com/ciao_journal/)
 
+### Taiwan(検索日時 / searched at: 2026-10-20)
+
+Tags: `Taiwan` `2026-10`
+
+- [台灣 TV 新聞 |即時新聞、政治、財經、生活娛樂|最新 頭條 報導](http://www.baidu.com/link?url=uIyZulFA5p0qwwItrUMYoq_nRlPwReGNJYWaH1DE71_)
+- [台灣頭條 :您的地區 新聞 和企業新聞來源](http://www.baidu.com/link?url=uIyZulFA5p0qwwItrUMYov1PcA0pm32-ecNKOlwQmwq)
+- [台灣 週報 - 提供台灣及全球即時 頭條新聞 , 財經信息,社會新聞,國際資訊](http://www.baidu.com/link?url=3mUrv5UAK1ikF9RPgur67Rd692AgiJeSnHwoYSbF0lPA-jchpJ6QLekY5ViaENjc)
+- [台海新闻网_今日 台湾新闻 _最新,最近中国台湾新闻报道-台海网](http://www.baidu.com/link?url=VcBbhGXg5Z9l9MNhjcNBvPuttNOQJnkC0FgsBcLjJrJR4JifNInpF2IWLr9l8n5o)
+- [台海新闻网_今日 台湾新闻 _最新,最近中国台湾新闻报道-手机闽南网](http://www.baidu.com/link?url=3mUrv5UAK1ikF9RPgur67Sv_K5KUIu6SffI7nIZdvGhggLORUDP9rbXUhgVAYNj2)
+- [中国 台湾 网](http://www.baidu.com/link?url=5GHSbPsfryhwlAvg8eeECZ9kcUVwHs08QjotkDaowH3)
+- [即时 新闻 _新华 台湾 _新华网](http://www.baidu.com/link?url=5GHSbPsfryhwlAvg8eeECX4uO2pA4HqKC8R66QaAK13Hk9clMtxdCg1j8ii74m2W)
+- [TVBS新聞網 - 最受信任的台灣新聞媒體](https://news.tvbs.com.tw/)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [Xinhua - jp. news .cn](https://jp.news.cn/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [【ライブ】『 中国 に関する ニュース 』約1年ぶり米中首脳会談 ...](https://www.youtube.com/watch?v=NtzYaJZVQQ8)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [2026 Shpageeza Cricket League](https://en.wikipedia.org/wiki/2026_Shpageeza_Cricket_League)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [David Muir](https://en.wikipedia.org/wiki/David_Muir)
+
