@@ -352,3 +352,16 @@ Tags: `South Korea` `2026-10`
 - [Google 뉴스](https://news.google.com/)
 - [FOX 오늘 의 이슈](https://www.youtube.com/)
 
+### South Korea(検索日時 / searched at: 2026-10-21)
+
+Tags: `South Korea` `2026-10`
+
+- [연합뉴스TV | 대한민국 No.1 보도채널](https://www.yonhapnewstv.co.kr/)
+- [연합뉴스](https://www.yna.co.kr/)
+- [조선일보 - 1등 디지털뉴스](https://www.chosun.com/)
+- [주요뉴스 | 연합뉴스](https://www.yna.co.kr/theme/headlines-history)
+- [[부동산 뉴스 오늘 ] 한국 공인중개사협회, 40년 역사 넘어 ‘법정단체 시대’ 열었다!](https://blog.naver.com/headn_/224434142541)
+- [FOX 오늘 의 이슈](https://www.youtube.com/)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [Google 뉴스](https://news.google.com/)
+

@@ -285,3 +285,16 @@ Tags: `Thailand (Japanese)` `2026-10`
 - [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
 - [「 タイ 」 ニュース 一覧 - NHKニュース](https://www3.nhk.or.jp/news/word/0002328.html#!)
 
+### Thailand(検索日時 / searched at: 2026-10-21)
+
+Tags: `Thailand` `2026-10`
+
+- [ข่าว ข่าววันนี้ ข่าวด่วนทั่ว ...](https://thethaiger.com/th/thai-news/)
+- [ข่าวล่าสุดวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news/today)
+- [ข่าวเด่นวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news)
+- [Thaiger ข่าวประเทศไทย : ข่าววันนี้ ...](https://thethaiger.com/th/)
+- [ข่าวไทยรัฐ ข่าวล่าสุด ข่าวด่วน ...](https://www.thairath.co.th/news)
+- [ข่าวในประเทศล่าสุด เกาะติด ...](https://www.ch7.com/th/news/local/)
+- [ไทยรัฐ สำนักข่าวอันดับ 1 ของไทย ...](https://www.thairath.co.th/)
+- [ข่าวด่วนวันนี้ ข่าวด่วน ข่าว ...](https://www.sanook.com/hot/news/)
+

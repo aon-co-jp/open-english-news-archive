@@ -396,3 +396,16 @@ Tags: `Malaysia` `2026-10`
 - [Bernama](https://en.wikipedia.org/wiki/Bernama)
 - [Sultanah Nur Diana Petra](https://en.wikipedia.org/wiki/Sultanah_Nur_Diana_Petra)
 
+### Malaysia(検索日時 / searched at: 2026-10-21)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama?m=1et)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/?home)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+- [Terkini | BULETIN TV3 Malaysia](https://www.buletintv3.my/)
+- [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
+

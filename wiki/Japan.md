@@ -336,3 +336,16 @@ Tags: `Japan` `2026-10`
 - [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
 - [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
 
+### Japan(検索日時 / searched at: 2026-10-21)
+
+Tags: `Japan` `2026-10`
+
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [Yahoo!ニュース - Yahoo! JAPAN](https://news.yahoo.co.jp/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+

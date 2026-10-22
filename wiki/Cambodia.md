@@ -458,3 +458,16 @@ Tags: `Russia (Japanese)` `2026-10`
 - [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
 - [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
 
+### Cambodia(検索日時 / searched at: 2026-10-21)
+
+Tags: `Cambodia` `2026-10`
+
+- [Cambodia Today – កម្ពុជាថ្ងៃនេះ](https://camdaynews.com.kh/)
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - អត្ថបទ ...](https://khmer.voanews.com/z/2690/articles)
+- [ព័ត៌មានកម្ពុជាថ្ងៃនេះ ...](https://kampuchea.news/kh/)
+- [ព័ត៌មានក្នុងប្រទេស ...](https://www.information.gov.kh/c/national_news)
+- [ក្រសួងព័ត៌មាន](https://www.information.gov.kh/)
+- [Cambodia News: - Khmer News - ពត៌មាន ...](http://cambodia.org/news/)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+

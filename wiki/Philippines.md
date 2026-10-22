@@ -386,3 +386,16 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
 - [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
 
+### Philippines(検索日時 / searched at: 2026-10-21)
+
+Tags: `Philippines` `2026-10`
+
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita Sa Tagalog Ngayong Araw | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Pilipinas: balita – all.news](https://www.all.news/news/philippines/filipino/)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Breaking News & Headlines in the Philippines | ABS-CBN …](https://www.abs-cbn.com/news)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Balita - National](https://balita.mb.com.ph/national/)
+

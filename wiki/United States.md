@@ -407,3 +407,16 @@ Tags: `China (English)` `2026-10`
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 - [Convert XAML to FlowDocument to display in RichTextBox in WPF](https://stackoverflow.com/questions/2830987)
 
+### United States(検索日時 / searched at: 2026-10-21)
+
+Tags: `United States` `2026-10`
+
+- [CBS News | Breaking News, Top Stories & Exclusive Coverage](https://www.cbsnews.com/)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [NBC News USA - Breaking News, Top Stories, Politics ...](https://nbcnewsusa.com/)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [Google News - U.S. - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en)
+- [US News & Breaking News in the US | Fox News](https://www.foxnews.com/us?msockid=1a7cfbee3d186492244cec1d3c9e6558)
+- [Google News - Headlines](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB)
+

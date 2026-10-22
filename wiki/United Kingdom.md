@@ -390,3 +390,16 @@ Tags: `Afghanistan (Japanese)` `2026-10`
 - [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
 - [パキスタンがアフガン 主要 都市を攻撃、国防相「戦争状態」](https://www.reuters.com/jp/world/security/MP4O2O57JBNGXONXNS3PMYPATY-2026-02-27/)
 
+### United Kingdom(検索日時 / searched at: 2026-10-21)
+
+Tags: `United Kingdom` `2026-10`
+
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [United Kingdom news | Breaking News & Top Stories | NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/United+Kingdom)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
+- [UK News | Top Stories from the UK | Reuters](https://www.reuters.com/world/uk/)
+
