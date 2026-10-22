@@ -697,3 +697,28 @@ Tags: `Iran` `2026-10`
 - [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
 - [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
 
+### Iran(検索日時 / searched at: 2026-10-21)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://tasnimnews.ir/)
+- [خبرگزاری ایسنا | صفحه اصلی | ISNA News Agency](https://www.isna.ir/)
+- [پایگاه خبری جماران | اخبار روز ایران و جهان](https://www.jamaran.news/)
+- [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
+- [IranWire](https://iranwire.com/)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [ニュース カテゴリ： タイ ローカル ニュース - ワイズデジタル](https://www.wisebk.com/news_category/thai_local_news/)
+- [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+

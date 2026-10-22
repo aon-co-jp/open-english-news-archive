@@ -377,3 +377,48 @@ Tags: `Brazil` `2026-10`
 - [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
 - [A Fazenda 18](https://pt.wikipedia.org/wiki/A_Fazenda_18)
 
+### Brazil(検索日時 / searched at: 2026-10-21)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/ultima-hora)
+- [Últimas Notícias de hoje | Fique ligado na CNN Brasil](https://www.cnnbrasil.com.br/ultimas-noticias/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Notícias, vídeos, análise e contexto em português - BBC](https://www.bbc.com/portuguese)
+- [Google Notícias - Brasil - Mais recentes](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREUxWm5JU0JYQjBMVUpTS0FBUAE?hl=pt-BR&ceid=BR%3Apt-419)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [Weekend Today](https://en.wikipedia.org/wiki/Weekend_Today)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Breakfast television](https://en.wikipedia.org/wiki/Breakfast_television)
+- [Broadcast journalism](https://en.wikipedia.org/wiki/Broadcast_journalism)
+

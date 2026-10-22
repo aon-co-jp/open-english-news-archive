@@ -335,3 +335,40 @@ Tags: `Brazil (English)` `2026-10`
 - [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Switzerland(検索日時 / searched at: 2026-10-21)
+
+Tags: `Switzerland` `2026-10`
+
+- [20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt](https://www.20min.ch/)
+- [Schweiz - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/schweiz)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Schweiz News: Aktuelle Nachrichten zum Staat in Europa](https://www.handelsblatt.com/themen/schweiz)
+- [Schweiz – News und Hintergründe zum Inland | NZZ Nachrichten](https://www.nzz.ch/schweiz)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Jihadi John](https://en.wikipedia.org/wiki/Jihadi_John)
+- [Zapad 2025](https://en.wikipedia.org/wiki/Zapad_2025)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [「 台湾 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/taiwan/)
+- [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+

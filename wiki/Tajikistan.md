@@ -513,3 +513,84 @@ Tags: `Thailand (English)` `2026-10`
 - [Tawanchai P.K. Saenchaimuaythaigym](https://en.wikipedia.org/wiki/Tawanchai_P.K._Saenchaimuaythaigym)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Tajikistan(検索日時 / searched at: 2026-10-21)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Хабарҳо - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/khabarho/)
+- [ИмрӯзNews](https://imruz.tj/)
+- [Тоҷикистон — ИмрӯзNews](https://imruz.tj/tj/category/news-of-tajikistan-tj/)
+- [Имрӯз парвози мустақим байни Душанбе ва Минск ...](https://khabarikhush.tj/tg/2026/08/29/imr%D3%AFz-parvozi-musta%D2%9Bim-bajni-dushanbe-va-minsk-kushoda-shud/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [Асоси - Хабарҳои Тоҷикистон – Садои мустақили ...](https://tajnews.org/)
+- [ТАҚВИМИ АМИТ «ХОВАР»: имрӯз 21 октябр, чоршанбе ...](https://khovar.tj/2026/10/ta-vimi-amit-hovar-imr-z-21-oktyabr-chorshanbe-294-umin-r-zi-soli-2026-ast/)
+- [Farmatsevt | Имрӯз барои ҳар як фарди Тоҷикистон ...](https://www.instagram.com/reel/DeF1uHKoExd/)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- [Taiwan-related terms](https://en.wikipedia.org/wiki/Taiwan-related_terms)
+- [COVID-19 pandemic in Taiwan](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Taiwan)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の天気 - ウェザー ニュース](https://weathernews.jp/onebox/tenki/world/5/switzerland/)
+- [スイス の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/switzerland/page4)
+- [スイス のメディアが報じた日本の ニュース ｜4/15号 - Swissinfo](https://www.swissinfo.ch/jpn/various/%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E5%A0%B1%E3%81%98%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%EF%BD%9C4-15%E5%8F%B7/91262602)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_italy/)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [イタリア の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/34887/)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [ニュース | アーモ イタリア](https://amoitalia.com/news/)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

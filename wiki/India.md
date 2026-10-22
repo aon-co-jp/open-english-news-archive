@@ -412,3 +412,39 @@ Tags: `India` `2026-10`
 - [List of terrorist incidents in India](https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_India)
 - [Rahul Shivshankar](https://en.wikipedia.org/wiki/Rahul_Shivshankar)
 
+### India(検索日時 / searched at: 2026-10-21)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [India News | Today's latest updates and breaking news from ...](https://www.ndtv.com/india)
+- [India News, Latest Breaking News Headlines from India, Live ...](https://www.indiatoday.in/india)
+- [Latest News, Breaking News, Top News Headlines and ...](https://timesofindia.indiatimes.com/news)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [Latest Breaking News Today – Top Headlines & Live Updates ...](https://economictimes.indiatimes.com/news)
+- [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [現地メディアから厳選！ ドイツ の 主要ニュース まとめ読み ...](https://www.instagram.com/p/Dd8pSKPDTuB/)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Disinformation in the Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Disinformation_in_the_Russian_invasion_of_Ukraine)
+- [Korotko Pro](https://en.wikipedia.org/wiki/Korotko_Pro)
+- [Ukraine bioweapons conspiracy theory](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+

@@ -419,3 +419,23 @@ Tags: `Egypt (English)` `2026-10`
 - [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Austria(検索日時 / searched at: 2026-10-21)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [Mass media in South Korea](https://en.wikipedia.org/wiki/Mass_media_in_South_Korea)
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Lee Choon-jae](https://en.wikipedia.org/wiki/Lee_Choon-jae)
+- [Lee Sun-kyun](https://en.wikipedia.org/wiki/Lee_Sun-kyun)
+

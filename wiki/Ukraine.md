@@ -370,3 +370,97 @@ Tags: `Ukraine` `2026-10`
 - [Донецькі новини](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D1%96_%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8)
 - [Україна 24](https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_24)
 
+### Ukraine(検索日時 / searched at: 2026-10-21)
+
+Tags: `Ukraine` `2026-10`
+
+- [Новини України і світу сьогодні. Головні і ...](https://glavcom.ua/)
+- [Головні новини України сьогодні - Espreso TV](https://espreso.tv/ukrayina)
+- [Новини України - останні новини України ...](https://r.unian.ua/)
+- [ᐈ Головні новини України та світу за сьогодні](https://www.ukr.net/news/main.html)
+- [Новини - Останні новини України сьогодні | РБК ...](https://www.rbc.ua/)
+- [Новини - останні новини України та світу ...](https://korrespondent.net/)
+- [ТСН • Новини України: останні, термінові та ...](https://tsn.ua/)
+- [Новини України та світу: останні новини на ...](https://focus.ua/uk/ukraine)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [CB Bank](https://en.wikipedia.org/wiki/CB_Bank)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [現地メディアから厳選！ ドイツ の 主要ニュース まとめ読み ...](https://www.instagram.com/p/Dd8pSKPDTuB/)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
+- [パリの ニュース ：地域情報・文化・トレンドをチェック](https://www.sortiraparis.com/ja/nyusu/pari-de)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Die Weltwoche](https://en.wikipedia.org/wiki/Die_Weltwoche)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [Oded Balilty](https://en.wikipedia.org/wiki/Oded_Balilty)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [イラン 攻撃の最新 ニュース と解説記事 - TBS NEWS DIG](https://newsdig.tbs.co.jp/list/tag/%E3%82%A4%E3%83%A9%E3%83%B3)
+- [最新中東・アフリカ ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/mideast/)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+- [米・イスラエルの イラン 攻撃 - 朝日新聞](https://www.asahi.com/topics/AP-e956a437-68cb-474e-8e5d-61a96c3636e6/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [TikTok in Iran](https://en.wikipedia.org/wiki/TikTok_in_Iran)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

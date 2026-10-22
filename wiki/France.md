@@ -278,3 +278,16 @@ Tags: `France` `2026-10`
 - [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
 - [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
 
+### France(検索日時 / searched at: 2026-10-21)
+
+Tags: `France` `2026-10`
+
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [RFI - Actualités, info, news en direct - Radio France Internationale](https://www.rfi.fr/fr/)
+- [Libération : Actualités et infos en direct](https://www.liberation.fr/)
+- [Google Actualités](https://news.google.com/?hl=fr&ceid=FR:fr)
+

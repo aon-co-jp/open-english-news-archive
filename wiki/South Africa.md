@@ -330,3 +330,39 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 - [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)
 
+### South Africa(検索日時 / searched at: 2026-10-21)
+
+Tags: `South Africa` `2026-10`
+
+- [Briefly News - South Africa News and Breaking Headlines 24/ ...](https://briefly.co.za/)
+- [South Africa Local News · Latest SA Headlines · News.co.za](https://news.co.za/south-africa/)
+- [South Africa stories, breaking news and comment | The …](https://www.citizen.co.za/news/south-africa/)
+- [South Africa News Today | Latest SA & Eskom News ...](https://www.newsnow.com/us/World/Africa/South+Africa?type=ln)
+- [Top Stories | Latest News in South Africa | eNCA](https://www.enca.com/)
+- [South Africa News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [Google News - South Africa - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR2g2YkhvU0JXVnVMVWRDS0FBUAE?hl=en-ZA&ceid=ZA%3Aen)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [David Muir](https://en.wikipedia.org/wiki/David_Muir)
+- [Erin Burnett](https://en.wikipedia.org/wiki/Erin_Burnett)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
+

@@ -306,3 +306,110 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [Notícias do Brasil de Hoje - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsbrazil&hl=ja)
 - [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
 
+### Russia(検索日時 / searched at: 2026-10-21)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Новости России сегодня: последние новости ...](https://dzen.ru/news/region/russia)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Россия — последние новости сегодня и за 2026 год ...](https://iz.ru/tag/rossiia)
+- [Дзен: последние новости России и мира сегодня](https://dzen.ru/news)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+- [ウクルインフォルム通信](https://www.ukrinform.jp/)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
+- [＜帰国大使は語る＞おもてなしが光る中央アジアの国 ...](https://www.kasumigasekikai.or.jp/%EF%BC%9C%E5%B8%B0%E5%9B%BD%E5%A4%A7%E4%BD%BF%E3%81%AF%E8%AA%9E%E3%82%8B%EF%BC%9E%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%8C%E5%85%89%E3%82%8B%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%82%B8%E3%82%A2/)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [「 ミャンマー 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [Crime in Thailand](https://en.wikipedia.org/wiki/Crime_in_Thailand)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - YouTube](https://www.youtube.com/watch?v=QRZ13r6mEZc)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [「女性に対する戦争を世界は静観している」 アフガニスタン ...](https://www.youtube.com/watch?v=tXzgKlM2vCU)
+- [アフガニスタン ・タリバン暫定政権 - 朝日新聞](https://www.asahi.com/topics/AP-d8d5fa8d-4c92-484a-b1c5-32e9ff6dc3a3/)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [最新の 韓国ニュース - ライブドアニュース - Livedoor](https://news.livedoor.com/article/category/44/)
+- [ハンギョレ新聞 : 日文版](https://japan.hani.co.kr/)
+- [「 韓国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt)
+- [エジプト の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/39753/)
+- [エジプト で4000年以上前の墓5つを発見 権力者を埋葬か（字幕 ...](https://www.reuters.com/jp/video/watch/idOWjpvCAZFYKFJM1V3I6UD2TN126PL1Q/)
+
