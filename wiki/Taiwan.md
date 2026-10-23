@@ -396,3 +396,40 @@ Tags: `Taiwan` `2026-10`
 - [今日頭條新聞網 | 今日新聞頭條，首屈一指的商業、科技、金融 ...](https://headnews.com.tw/)
 - [Google 新聞 - 台灣 - 最新](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE?hl=zh-TW&ceid=TW%3Azh-Hant)
 
+### Taiwan(検索日時 / searched at: 2026-10-22)
+
+Tags: `Taiwan` `2026-10`
+
+- [台灣 TV 新聞 |即時新聞、政治、財經、生活娛樂|最新 頭條 報導](http://www.baidu.com/link?url=Lkda7ATsVMKnR8uJlOVPC1G_S03fHxyFs_tOzo_LCii)
+- [Yahoo新聞](https://tw.news.yahoo.com/)
+- [台灣頭條 :您的地區 新聞 和企業新聞來源](http://www.baidu.com/link?url=Lkda7ATsVMKnR8uJlOVPC_Jku3Mvk8y9yiGQkYGyOlm)
+- [台灣 週報 - 提供台灣及全球即時 頭條新聞 , 財經信息,社會新聞,國際資訊](http://www.baidu.com/link?url=7Wdnrnrgsdg2QeJJeAkRPYuXq5GgXLyUyOMpCSUkd5ckOC1lv2y8a5n-MScq-JP6)
+- [台灣TV新聞｜即時新聞、政治、財經、生活娛樂｜最新頭條報導](https://tvn.com.tw/)
+- [NOWnews今日新聞](https://www.nownews.com/)
+- [台灣頭條](http://www.tnews.tw/)
+- [台海新闻网_今日 台湾新闻 _最新,最近中国台湾新闻报道-台海网](http://www.baidu.com/link?url=j1DBhWC43G661iZXmZRV3NuCe6sWQ2x4u4avPjhYXfcTMjiqyamfNP29U5sbUMaF)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [ビジネス短信 - エジプト - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [エジプト で4000年以上前の墓5つを発見 権力者を埋葬か（字幕 ...](https://www.reuters.com/jp/video/watch/idOWjpvCAZFYKFJM1V3I6UD2TN126PL1Q/)
+- [エジプト 、サウジ防衛巡り軍事支援を示唆 中東情勢 ... - Reuters](https://www.reuters.com/jp/world/security/L5HVZV6KTVNIZMM6S53F7PMBTI-2026-10-18/)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/br/)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News Today | Newsaly](https://newsaly.com/brazil)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Daily Brazil News | Breaking News & Culture from Brazil](https://dailybrazilnews.com/)
+- [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
+

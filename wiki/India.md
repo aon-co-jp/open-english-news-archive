@@ -448,3 +448,16 @@ Tags: `Ukraine (English)` `2026-10`
 - [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 
+### India(検索日時 / searched at: 2026-10-22)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [India News | Today's latest updates and breaking news from ...](https://www.ndtv.com/india)
+- [India News, Latest Breaking News Headlines from India, Live ...](https://www.indiatoday.in/india)
+- [Headlines Today](https://www.indiatoday.in/headlines-today)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [Latest Breaking News Today – Top Headlines & Live Updates ...](https://economictimes.indiatimes.com/news)
+- [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+

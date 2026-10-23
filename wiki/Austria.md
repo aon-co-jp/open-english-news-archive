@@ -439,3 +439,15 @@ Tags: `South Korea (English)` `2026-10`
 - [Lee Choon-jae](https://en.wikipedia.org/wiki/Lee_Choon-jae)
 - [Lee Sun-kyun](https://en.wikipedia.org/wiki/Lee_Sun-kyun)
 
+### Austria(検索日時 / searched at: 2026-10-22)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+- [Newsticker: Aktuelle Schlagzeilen und Eilmeldungen - ZDFheute](https://www.zdfheute.de/newsticker/schlagzeilen-100.html)
+- [tagesschau.de - die erste Adresse für Nachrichten und ...](https://www.tagesschau.de/)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
+

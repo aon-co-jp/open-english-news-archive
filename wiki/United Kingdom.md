@@ -403,3 +403,28 @@ Tags: `United Kingdom` `2026-10`
 - [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
 - [UK News | Top Stories from the UK | Reuters](https://www.reuters.com/world/uk/)
 
+### United Kingdom(検索日時 / searched at: 2026-10-22)
+
+Tags: `United Kingdom` `2026-10`
+
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [United Kingdom news | Breaking News & Top Stories | NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/United+Kingdom)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [UK News | Top Stories from the UK | Reuters](https://www.reuters.com/world/uk/)
+- [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
+- [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
+

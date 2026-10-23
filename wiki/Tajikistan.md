@@ -594,3 +594,75 @@ Tags: `Egypt (English)` `2026-10`
 - [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Tajikistan(検索日時 / searched at: 2026-10-22)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Хабарҳо - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/khabarho/)
+- [ИмрӯзNews](https://imruz.tj/)
+- [Тоҷикистон — ИмрӯзNews](https://imruz.tj/tj/category/news-of-tajikistan-tj/)
+- [Субҳ ба хайр, Тоҷикистон! Як рӯз дар таърих ...](https://asiaplus.news/tg/2026/10/22/subh-ba-hajr-tojikiston-yak-ruz-dar-tarih-zodruzi-shahsiyatho-vazi-havo-baroi-22-oktyabri-soli-2025/)
+- [Имрӯз парвози мустақим байни Душанбе ва Минск ...](https://khabarikhush.tj/tg/2026/08/29/imr%D3%AFz-parvozi-musta%D2%9Bim-bajni-dushanbe-va-minsk-kushoda-shud/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [Асоси - Хабарҳои Тоҷикистон – Садои мустақили ...](https://tajnews.org/)
+- [Хабарҳо | Вазорати корҳои хориҷии Ҷумҳурии ...](https://mfa.tj/tg/main/khabarho)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ビジネス短信 - ドイツ - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+- [「 ドイツ 政局」を日経が解説・最新 ニュース 一覧 - 日本経済新聞](https://www.nikkei.com/topics/17112700)
+- [ドイツ アーカイブ - 欧州経済ビジネス情報 NNA POWER ...](https://emb-media.com/europe/main_country/europe-germany/)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [特集 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/longform/)
+- [SWI swissinfo.ch 日本語版 (@swissinfo.ch_jp) · Bern - Instagram](https://www.instagram.com/swissinfo.ch_jp/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン 対話 ニュース ネットワーク - 百度百科](https://baike.baidu.com/ja/item/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3%E5%AF%BE%E8%A9%B1%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/5017979)
+- [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
+- [＜帰国大使は語る＞おもてなしが光る中央アジアの国 ...](https://www.kasumigasekikai.or.jp/%EF%BC%9C%E5%B8%B0%E5%9B%BD%E5%A4%A7%E4%BD%BF%E3%81%AF%E8%AA%9E%E3%82%8B%EF%BC%9E%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%8C%E5%85%89%E3%82%8B%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%82%B8%E3%82%A2/)
+

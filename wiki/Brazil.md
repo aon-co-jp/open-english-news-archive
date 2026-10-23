@@ -422,3 +422,16 @@ Tags: `Austria (English)` `2026-10`
 - [Breakfast television](https://en.wikipedia.org/wiki/Breakfast_television)
 - [Broadcast journalism](https://en.wikipedia.org/wiki/Broadcast_journalism)
 
+### Brazil(検索日時 / searched at: 2026-10-22)
+
+Tags: `Brazil` `2026-10`
+
+- [Últimas notícias do Brasil hoje: principais acontecimentos do ...](https://www.bandab.com.br/topicos/brasil/)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/)
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/ultima-hora)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Notícias R7 – Brasil, mundo, saúde, política, empregos e …](https://noticias.r7.com/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Google Notícias](https://news.google.com/home?hl=pt-BR&ceid=BR:pt-419)
+

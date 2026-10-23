@@ -340,3 +340,28 @@ Tags: `Egypt` `2026-10`
 - [مصر اليوم](https://www.misrday.com/)
 - [المصري اليوم](https://www.almasryalyoum.com/)
 
+### Egypt(検索日時 / searched at: 2026-10-22)
+
+Tags: `Egypt` `2026-10`
+
+- [مصر اليوم | Egypt Today | آخر أخبار مصر اليوم | المزيد ...](https://www.egypt-today.com/)
+- [مصر اليوم](https://www.masralyoum.net/)
+- [اليوم السابع](https://www.youm7.com/)
+- [المصري اليوم | الصفحة الرئيسية لموقع المصري اليوم](https://www.almasryalyoum.com/section/index/today)
+- [الرئيسية| بوابة أخبار اليوم الإلكترونية](https://akhbarelyom.com/news/newssection/304/1/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+- [أخبار | المصري اليوم](https://www.almasryalyoum.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1)
+- [أخبار عاجلة - اليوم السابع](https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1)
+- [مصر اليوم](https://www.misrday.com/)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Breakfast television](https://en.wikipedia.org/wiki/Breakfast_television)
+- [Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly)
+

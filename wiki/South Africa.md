@@ -366,3 +366,39 @@ Tags: `Russia (Japanese)` `2026-10`
 - [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
 - [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
 
+### South Africa(検索日時 / searched at: 2026-10-22)
+
+Tags: `South Africa` `2026-10`
+
+- [Briefly News - South Africa News and Breaking Headlines 24/ ...](https://briefly.co.za/)
+- [South Africa Local News · Latest SA Headlines · News.co.za](https://news.co.za/south-africa/)
+- [South Africa News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/za/)
+- [South Africa stories, breaking news and comment | The Citizen](https://www.citizen.co.za/news/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [Top Stories | Latest News in South Africa | eNCA](https://www.enca.com/)
+- [Top Stories South Africa · Latest SA News · News.co.za](https://news.co.za/top-stories/)
+- [South Africa News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/south-africa/)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Nazi Germany](https://en.wikipedia.org/wiki/Nazi_Germany)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
+- [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
+- [注目の ニュース - Welcome | Business France](https://welcome.businessfrance.fr/ja/%E6%83%85%E5%A0%B1%E5%8F%8E%E9%9B%86%E3%81%A8%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/%E6%B3%A8%E7%9B%AE%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+

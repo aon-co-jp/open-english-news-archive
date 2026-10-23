@@ -471,3 +471,16 @@ Tags: `Cambodia` `2026-10`
 - [Cambodia News: - Khmer News - ពត៌មាន ...](http://cambodia.org/news/)
 - [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
 
+### Cambodia(検索日時 / searched at: 2026-10-22)
+
+Tags: `Cambodia` `2026-10`
+
+- [Cambodia Today – កម្ពុជាថ្ងៃនេះ](https://camdaynews.com.kh/)
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - អត្ថបទ ...](https://khmer.voanews.com/z/2690/articles)
+- [Cambodia News: - Khmer News - ពត៌មាន ...](http://cambodia.org/news/)
+- [Post Khmer Insights: Accurate Cambodia National News](https://www.postkhmer.com/)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+- [កម្ពុជា៖ ព័ត៌មាន, podcasts, វីដេអូ និង ...](https://www.rfi.fr/km/%E1%9E%96%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%99%E1%9E%82%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9E%B9%E1%9F%87/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [ព័ត៌មានជាតិ - ព័ត៌មានថ្មី ...](https://khmer.cambojanews.com/news/national/)
+- [ព័ត៌មានថ្មី ទាន់ហេតុការណ៍ - Facebook](https://www.facebook.com/khmerbreakingnews.official/)
+

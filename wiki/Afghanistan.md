@@ -414,3 +414,39 @@ Tags: `Afghanistan` `2026-10`
 - [BBC News, پښتو - کور پاڼه](https://www.bbc.com/pashto)
 - [Afghanistan News | Taliban & Latest Updates | AfghanNow](https://afghannow.net/)
 
+### Afghanistan(検索日時 / searched at: 2026-10-22)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان خبرونه - AfghanNow.net](https://afghannow.net/%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86/)
+- [د نن ورځې مهمو خبرونه سرټکي! #مهم #خبرونه # ... - Facebook](https://www.facebook.com/malyararif/videos/%D8%AF-%D9%86%D9%86-%D9%88%D8%B1%DA%81%DB%90-%D9%85%D9%87%D9%85%D9%88-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87-%D8%B3%D8%B1%D9%BC%DA%A9%D9%8A%D9%85%D9%87%D9%85-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%DB%8C%D9%85%D9%87-%D9%86%DA%93%DB%8D/948119754521173/)
+- [نن ورځ چهارشنبه لنډ او مهم خبرونه - YouTube](https://www.bing.com/ck/a?!&&p=bea8f1545c7d0d560e28cccf46e8e045fe4f5328bd744a3153fcee4803ee347cJmltdHM9MTc5MjY4ODY1NQ&ptn=3&fclid=9c73269c-ce3a-11f1-9bfb-5984f6420186&ntb=1&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9JWQ4JWE3JWQ5JTgxJWQ4JWJhJWQ4JWE3JWQ5JTg2JWQ4JWIzJWQ4JWFhJWQ4JWE3JWQ5JTg2KyVkOCVhZSVkOCVhOCVkOCViMSVkOSU4OCVkOSU4NiVkOSU4NyslZDklODYlZDklODYrJWQ5JTg4JWQ4JWIxJWRhJTgxKyVkOSU4NSVkOSU4NyVkOSU4NSVkYiU5MCZzZXRsYW5nPXBzJnJ1PSUyZnNlYXJjaCUzZnElM2QlMjVEOCUyNUE3JTI1RDklMjU4MSUyNUQ4JTI1QkElMjVEOCUyNUE3JTI1RDklMjU4NiUyNUQ4JTI1QjMlMjVEOCUyNUFBJTI1RDglMjVBNyUyNUQ5JTI1ODYlMmIlMjVEOCUyNUFFJTI1RDglMjVBOCUyNUQ4JTI1QjElMjVEOSUyNTg4JTI1RDklMjU4NiUyNUQ5JTI1ODclMmIlMjVEOSUyNTg2JTI1RDklMjU4NiUyYiUyNUQ5JTI1ODglMjVEOCUyNUIxJTI1REElMjU4MSUyYiUyNUQ5JTI1ODUlMjVEOSUyNTg3JTI1RDklMjU4NSUyNURCJTI1OTAlMjZzZXRsYW5nJTNkcHMmbW1zY249dndyYyZtaWQ9MTAwODRCQ0MzRjk0RTgyQ0QyQUYxMDA4NEJDQzNGOTRFODJDRDJBRiZGT1JNPVdSVk9SQyZudGI9MSZtc29ja2lkPTljNzMyNjljY2UzYTExZjE5YmZiNTk4NGY2NDIwMTg2)
+- [افغانستان - جدیدترین و آخرین اخبار افغانستان ...](https://www.shahrekhabar.com/tag/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د نن یک شنبې ورځې | مهم خبرونه | تازه خبرونه ... - YouTube](https://www.youtube.com/watch?v=hwqiNukiX-A&ntb=1&msockid=9c72deb5ce3a11f187325af7f4d430e3)
+- [کورنی | افغانستان انټرنشنل پښتو](https://www.afintl.com/pa)
+- [BBC News, پښتو - کور پاڼه](https://www.bbc.com/pashto)
+- [تازه ترین اخبار روز افغانستان و جهان - خبرگزاری ...](https://afaaq.af/)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Korotko Pro](https://en.wikipedia.org/wiki/Korotko_Pro)
+- [Disinformation in the Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Disinformation_in_the_Russian_invasion_of_Ukraine)
+- [Ukraine bioweapons conspiracy theory](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [ブラジル日報の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+- [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
+- [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [ブラジル 日報 / Jornal Brasil Nippou | São Paulo SP - Facebook](https://www.facebook.com/BrasilNippou/)
+

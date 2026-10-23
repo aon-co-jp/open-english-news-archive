@@ -413,3 +413,16 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [エジプト の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/39753/)
 - [エジプト で4000年以上前の墓5つを発見 権力者を埋葬か（字幕 ...](https://www.reuters.com/jp/video/watch/idOWjpvCAZFYKFJM1V3I6UD2TN126PL1Q/)
 
+### Russia(検索日時 / searched at: 2026-10-22)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Лента новостей в режиме реального времени ...](https://www.kommersant.ru/lenta)
+- [Дзен: последние новости России и мира сегодня](https://dzen.ru/news)
+- [Россия сегодня](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F)
+
