@@ -435,3 +435,14 @@ Tags: `Brazil` `2026-10`
 - [g1 - O portal de notícias da Globo](https://g1.globo.com/)
 - [Google Notícias](https://news.google.com/home?hl=pt-BR&ceid=BR:pt-419)
 
+### Brazil(検索日時 / searched at: 2026-10-23)
+
+Tags: `Brazil` `2026-10`
+
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
+- [Eleição presidencial no Brasil em 1989](https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_1989)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+

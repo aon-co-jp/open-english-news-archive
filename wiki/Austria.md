@@ -451,3 +451,13 @@ Tags: `Austria` `2026-10`
 - [tagesschau.de - die erste Adresse für Nachrichten und ...](https://www.tagesschau.de/)
 - [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
 
+### Austria(検索日時 / searched at: 2026-10-23)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+

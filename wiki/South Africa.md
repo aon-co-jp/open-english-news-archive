@@ -402,3 +402,16 @@ Tags: `France (Japanese)` `2026-10`
 - [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
 - [注目の ニュース - Welcome | Business France](https://welcome.businessfrance.fr/ja/%E6%83%85%E5%A0%B1%E5%8F%8E%E9%9B%86%E3%81%A8%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/%E6%B3%A8%E7%9B%AE%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
 
+### South Africa(検索日時 / searched at: 2026-10-23)
+
+Tags: `South Africa` `2026-10`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Lara Logan](https://en.wikipedia.org/wiki/Lara_Logan)
+- [Disinvestment from South Africa](https://en.wikipedia.org/wiki/Disinvestment_from_South_Africa)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+

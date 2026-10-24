@@ -433,3 +433,27 @@ Tags: `United States` `2026-10`
 - [Breaking News, Latest News and Videos | CNN](https://www.cnn.com/)
 - [Google News - U.S. - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en)
 
+### United States(検索日時 / searched at: 2026-10-23)
+
+Tags: `United States` `2026-10`
+
+- [TheTVDB API - Starting out](https://stackoverflow.com/questions/62228590)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [MS NOW (formerly MSNBC) - US News Today | Breaking News](https://www.ms.now/)
+- [Television news in the United States](https://en.wikipedia.org/wiki/Television_news_in_the_United_States)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Zapad 2025](https://en.wikipedia.org/wiki/Zapad_2025)
+- [Jihadi John](https://en.wikipedia.org/wiki/Jihadi_John)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+

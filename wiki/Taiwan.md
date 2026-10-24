@@ -433,3 +433,27 @@ Tags: `Brazil (English)` `2026-10`
 - [Daily Brazil News | Breaking News & Culture from Brazil](https://dailybrazilnews.com/)
 - [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
 
+### Taiwan(検索日時 / searched at: 2026-10-23)
+
+Tags: `Taiwan` `2026-10`
+
+- [即時 | 聯合新聞網](https://udn.com/news/breaknews/1)
+- [李文儀](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%84%80)
+- [即時總覽 │ TVBS新聞網](https://news.tvbs.com.tw/realtime)
+- [李晶玉](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%B6%E7%8E%89)
+- [總覽新聞 - 即時 - 自由時報電子報](https://news.ltn.com.tw/)
+- [有线电视新闻网](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91)
+- [台灣 | 世界新聞網](https://www.worldjournal.com/wj/cate/taiwan)
+- [字幕跑馬燈](https://zh.wikipedia.org/wiki/%E5%AD%97%E5%B9%95%E8%B7%91%E9%A6%AC%E7%87%88)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [Weekend Today](https://en.wikipedia.org/wiki/Weekend_Today)
+

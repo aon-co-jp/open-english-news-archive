@@ -666,3 +666,11 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
 - [＜帰国大使は語る＞おもてなしが光る中央アジアの国 ...](https://www.kasumigasekikai.or.jp/%EF%BC%9C%E5%B8%B0%E5%9B%BD%E5%A4%A7%E4%BD%BF%E3%81%AF%E8%AA%9E%E3%82%8B%EF%BC%9E%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%8C%E5%85%89%E3%82%8B%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%82%B8%E3%82%A2/)
 
+### Tajikistan(検索日時 / searched at: 2026-10-23)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Рӯзнома](https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%BD%D0%BE%D0%BC%D0%B0)
+- [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+

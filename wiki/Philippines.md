@@ -412,3 +412,16 @@ Tags: `Philippines` `2026-10`
 - [Balita - National](https://balita.mb.com.ph/national/)
 - [Latest Philippine News - Bombo Radyo News](https://www.bomboradyo.com/)
 
+### Philippines(検索日時 / searched at: 2026-10-23)
+
+Tags: `Philippines` `2026-10`
+
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [Balita | Balitambayan](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Big News](https://en.wikipedia.org/wiki/Big_News)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
+

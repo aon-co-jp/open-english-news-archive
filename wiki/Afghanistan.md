@@ -450,3 +450,11 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
 - [ブラジル 日報 / Jornal Brasil Nippou | São Paulo SP - Facebook](https://www.facebook.com/BrasilNippou/)
 
+### Afghanistan(検索日時 / searched at: 2026-10-23)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
+- [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
+

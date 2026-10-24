@@ -428,3 +428,22 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
 - [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
 
+### United Kingdom(検索日時 / searched at: 2026-10-23)
+
+Tags: `United Kingdom` `2026-10`
+
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [GB News](https://en.wikipedia.org/wiki/GB_News)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Lee Choon-jae](https://en.wikipedia.org/wiki/Lee_Choon-jae)
+- [Lee Sun-kyun](https://en.wikipedia.org/wiki/Lee_Sun-kyun)
+

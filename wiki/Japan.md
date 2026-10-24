@@ -362,3 +362,40 @@ Tags: `Japan` `2026-10`
 - [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
 - [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
 
+### Japan(検索日時 / searched at: 2026-10-23)
+
+Tags: `Japan` `2026-10`
+
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+- [主要 トピックス一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/topics/top-picks)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425?page=2)
+

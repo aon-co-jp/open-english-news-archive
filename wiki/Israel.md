@@ -404,3 +404,15 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
 - [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
 
+### Israel(検索日時 / searched at: 2026-10-23)
+
+Tags: `Israel` `2026-10`
+
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [Eylon Levy](https://en.wikipedia.org/wiki/Eylon_Levy)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
