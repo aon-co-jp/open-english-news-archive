@@ -457,3 +457,14 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 - [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
 
+### United States(検索日時 / searched at: 2026-10-24)
+
+Tags: `United States` `2026-10`
+
+- [TheTVDB API - Starting out](https://stackoverflow.com/questions/62228590)
+- [Reuters Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [U.S. News: Top U.S. News Today | AP News](https://apnews.com/us-news)
+- [US News Headlines, Latest USA News, US news live on Times of India](https://timesofindia.indiatimes.com/world/us)
+- [MS NOW (formerly MSNBC) - US News Today | Breaking News](https://www.ms.now/)
+

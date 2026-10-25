@@ -425,3 +425,16 @@ Tags: `Philippines` `2026-10`
 - [Balita - Balita](https://balita.mb.com.ph/balita/)
 - [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
 
+### Philippines(検索日時 / searched at: 2026-10-24)
+
+Tags: `Philippines` `2026-10`
+
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Big News](https://en.wikipedia.org/wiki/Big_News)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
+

@@ -416,3 +416,16 @@ Tags: `Israel` `2026-10`
 - [Eylon Levy](https://en.wikipedia.org/wiki/Eylon_Levy)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Israel(検索日時 / searched at: 2026-10-24)
+
+Tags: `Israel` `2026-10`
+
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [Eylon Levy](https://en.wikipedia.org/wiki/Eylon_Levy)
+- [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

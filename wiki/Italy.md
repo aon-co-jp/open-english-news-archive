@@ -381,3 +381,15 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
 - [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
 
+### Italy(検索日時 / searched at: 2026-10-24)
+
+Tags: `Italy` `2026-10`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Fake news](https://it.wikipedia.org/wiki/Fake_news)
+- [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
+

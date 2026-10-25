@@ -447,3 +447,25 @@ Tags: `South Korea (English)` `2026-10`
 - [Lee Choon-jae](https://en.wikipedia.org/wiki/Lee_Choon-jae)
 - [Lee Sun-kyun](https://en.wikipedia.org/wiki/Lee_Sun-kyun)
 
+### United Kingdom(検索日時 / searched at: 2026-10-24)
+
+Tags: `United Kingdom` `2026-10`
+
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [GB News](https://en.wikipedia.org/wiki/GB_News)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)
+

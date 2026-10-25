@@ -558,3 +558,9 @@ Tags: `Germany (Japanese)` `2026-10`
 - [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 
+### Myanmar(検索日時 / searched at: 2026-10-24)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+

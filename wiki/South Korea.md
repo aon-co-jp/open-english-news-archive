@@ -391,3 +391,64 @@ Tags: `South Korea` `2026-10`
 - [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
 - [오늘 고속도로 통행량 554만대로 예상돼 - 주요 뉴스 | 알림마당 | 한국 도로교통공단 tbn 교통방송](https://www.tbn.or.kr/notice/tbnnews2_view.tbn?BOARD_ID=N011&newsCD=N000000765131)
 
+### South Korea(検索日時 / searched at: 2026-10-24)
+
+Tags: `South Korea` `2026-10`
+
+- [연합뉴스TV | 대한민국 No.1 보도채널](https://www.yonhapnewstv.co.kr/)
+- [[부동산 뉴스 오늘 ] 한국 공인중개사협회, 40년 역사 넘어 ‘법정단체 시대’ 열었다!](https://blog.naver.com/headn_/224434142541)
+- [FOX 오늘 의 이슈](https://www.youtube.com/)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [경제 뉴스 — 오늘 의 날씨와 경제](https://weaco.co.kr/economy/)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [2026년 오늘 의 경제 주요 뉴스 브리핑](https://newsbon9.blogspot.com/2026/05/)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [今日 の フランス](https://www.parisettoi.fr/news/)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [注目の ニュース - Welcome | Business France](https://welcome.businessfrance.fr/ja/%E6%83%85%E5%A0%B1%E5%8F%8E%E9%9B%86%E3%81%A8%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A/%E6%B3%A8%E7%9B%AE%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [タイ の主な ニュース サイトとメディアの傾向](https://srirachaworkspace.hatenablog.com/entry/2025/07/20/110555)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [ニュース カテゴリ： タイ ローカル ニュース - ワイズデジタル](https://www.wisebk.com/news_category/thai_local_news/)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/113986/)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

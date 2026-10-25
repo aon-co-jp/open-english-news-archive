@@ -399,3 +399,16 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
 - [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425?page=2)
 
+### Japan(検索日時 / searched at: 2026-10-24)
+
+Tags: `Japan` `2026-10`
+
+- [Yahoo!ニュース - Yahoo! JAPAN](https://news.yahoo.co.jp/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [主要 トピックス一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [読売新聞 : きょうの最新ニュース・速報：発行部数No.1](https://www.yomiuri.co.jp/)
+
