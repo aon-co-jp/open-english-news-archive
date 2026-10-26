@@ -582,3 +582,16 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
 - [特集 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/longform/)
 
+### Cambodia(検索日時 / searched at: 2026-10-25)
+
+Tags: `Cambodia` `2026-10`
+
+- [ព័ត៌មានកម្ពុជាថ្ងៃនេះ ...](https://kampuchea.news/kh/)
+- [កម្ពុជាថ្ងៃនេះ - Cambodia Today - កម្មវិធី​នីមួយៗ](https://khmer.voanews.com/z/2690)
+- [ព័ត៌មានក្នុងប្រទេស ...](https://www.information.gov.kh/c/national_news)
+- [Post Khmer Insights: Accurate Cambodia National News](https://www.postkhmer.com/)
+- [Cambodia News: - Khmer News - ពត៌មាន ...](https://www.cambodia.org/news/)
+- [ព័ត៌មាន​ថ្មីៗ Archives - The Cambodia Daily Khmer](https://www.cambodiadaily.com/category/latest/)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+

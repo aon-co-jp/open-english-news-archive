@@ -507,3 +507,16 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [ニュース 及びイベント | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/information/news-and-events-ja?page=8)
 - [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
 
+### Malaysia(検索日時 / searched at: 2026-10-25)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/?home)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Berita dan Informasi Malaysia Terkini dan Terbaru Hari ini ...](https://www.detik.com/tag/malaysia/)
+- [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+

@@ -468,3 +468,16 @@ Tags: `United States` `2026-10`
 - [US News Headlines, Latest USA News, US news live on Times of India](https://timesofindia.indiatimes.com/world/us)
 - [MS NOW (formerly MSNBC) - US News Today | Breaking News](https://www.ms.now/)
 
+### United States(検索日時 / searched at: 2026-10-25)
+
+Tags: `United States` `2026-10`
+
+- [US News Today: Latest Headlines & Updates | Yahoo](https://www.yahoo.com/news/us/)
+- [Associated Press News: Breaking News | Latest News Today](https://apnews.com/)
+- [NBC News – Breaking Headlines and Video Reports on World ...](https://www.nbcnews.com/)
+- [Latest U.S. News | Top headlines from the USA | Reuters](https://www.reuters.com/world/us/)
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [NBC News USA - Breaking News, Top Stories, Politics ...](https://nbcnewsusa.com/)
+- [USA News Today | Latest USA & White House News - NewsNow](https://www.newsnow.com/us/US)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+

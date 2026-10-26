@@ -438,3 +438,16 @@ Tags: `Philippines` `2026-10`
 - [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
 - [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
 
+### Philippines(検索日時 / searched at: 2026-10-25)
+
+Tags: `Philippines` `2026-10`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Breaking News & Headlines in the Philippines | ABS-CBN …](https://www.abs-cbn.com/news)
+- [Videos - 24 Oras, Philippines Live News Today | GMA News ...](https://www.gmanetwork.com/news/video/shows/105/balitapilipinas/)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Balita - National](https://balita.mb.com.ph/national/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+
