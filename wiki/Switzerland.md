@@ -421,3 +421,16 @@ Tags: `Switzerland` `2026-10`
 - [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
 - [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
 
+### Switzerland(検索日時 / searched at: 2026-10-25)
+
+Tags: `Switzerland` `2026-10`
+
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt](https://www.20min.ch/)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Aktuelle News und Schlagzeilen aus Schweiz und Welt](https://www.bluewin.ch/de/news)
+- [Schweiz – News und Hintergründe zum Inland | NZZ Nachrichten](https://www.nzz.ch/schweiz)
+- [Schweiz News: Aktuelle Nachrichten zum Staat in Europa](https://www.handelsblatt.com/themen/schweiz)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+

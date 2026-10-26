@@ -427,3 +427,52 @@ Tags: `South Africa` `2026-10`
 - [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 
+### South Africa(検索日時 / searched at: 2026-10-25)
+
+Tags: `South Africa` `2026-10`
+
+- [South Africa news today: latest headlines, politics & economy ...](https://www.za24.news/)
+- [South Africa Local News · Latest SA Headlines · News.co.za](https://news.co.za/south-africa/)
+- [South Africa stories, breaking news and comment | The …](https://www.citizen.co.za/news/south-africa/)
+- [Briefly News - South Africa News and Breaking Headlines 24/ ...](https://briefly.co.za/)
+- [South Africa News Today | Latest SA & Eskom News ...](https://www.newsnow.com/us/World/Africa/South+Africa?type=ln)
+- [News | SouthAfrica | News24](https://www.news24.com/southafrica/news)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [Google News - South Africa - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR2g2YkhvU0JXVnVMVWRDS0FBUAE?hl=en-ZA&ceid=ZA%3Aen)
+
+
+Tags: `China (English)` `2026-10`
+
+- [China News | Today's Breaking Stories | Reuters](https://www.reuters.com/world/china/)
+- [China News Headlines, Latest China News and Live Updates ...](https://timesofindia.indiatimes.com/world/china)
+- [China News - Headlines, Stories & Videos - Chinadaily.com.cn](https://www.chinadaily.com.cn/china/index.html)
+- [China news - breaking news, video, headlines and opinion | CNN](https://www.cnn.com/world/china)
+- [China Breaking News Headlines Today | Ground News](https://ground.news/interest/china_da80d0)
+- [China Breaking News & Headlines | South China Morning Post](https://www.scmp.com/news/china)
+- [China News | Latest China Updates - NewsNow](https://www.newsnow.com/us/World/Asia/China)
+- [CGTN | Breaking News, China News, World News and …](https://en.cgtn.com/)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [「タイ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [日刊タイニュース | タイの政治、経済、社会に関する最新情報 ...](https://nikkanthainews.com/)
+- [タイピックス — タイの最新ニュースを日本語で毎日配信](https://thai-picks.com/)
+- [Google ニュース - タイ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRtTVhnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイニュース速報ポータルサイトータイランド通信-ニュース ...](http://thai.news-agency.jp/articles/category/)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー最新ニュース・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [「ミャンマー」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマーの経済ニュース・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマーニュース -ミャンマーの最新ニュース・最新情報をお ...](https://www.myanmar-news.asia/)
+- [ミャンマー情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+

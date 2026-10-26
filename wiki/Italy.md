@@ -393,3 +393,28 @@ Tags: `Italy` `2026-10`
 - [Fake news](https://it.wikipedia.org/wiki/Fake_news)
 - [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
 
+### Italy(検索日時 / searched at: 2026-10-25)
+
+Tags: `Italy` `2026-10`
+
+- [Today - Ultime notizie dall'Italia e dal Mondo](https://www.today.it/)
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Attualità: Ultime notizie dall'Italia e dal Mondo - OGGI](https://www.oggi.it/attualita/2/)
+- [Notizia Italia | Notizie chiare dall’Italia ogni giorno](https://notiziaitalia.it/)
+- [Notizie dall'Italia: ultime notizie - StrettoWeb](https://www.strettoweb.com/notizie-italia/)
+- [Ultime notizie dal mondo in tempo reale | Ansa](https://www.ansa.it/sito/notizie/topnews/index.shtml)
+- [RaiNews | Le ultime notizie gratuite aggiornate in tempo reale](https://www.rainews.it/)
+- [Ultime notizie di Cronaca: news oggi in tempo reale - Tgcom24](https://www.tgcom24.mediaset.it/cronaca/)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツの今日のニュース - News Atlas](https://www.news-atlas.com/ja/country/germany)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+

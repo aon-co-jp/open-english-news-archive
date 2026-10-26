@@ -423,3 +423,49 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [MYSTERY OF TUTANKHAMEN （ミステリー・オブ ...](https://tutankhamen.jp/)
 - [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
 
+### Germany(検索日時 / searched at: 2026-10-25)
+
+Tags: `Germany` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [Aktuelle Politik-Nachrichten und News aus Deutschland](https://www.allgemeine-zeitung.de/politik/politik-deutschland/)
+- [BR24 - Nachrichten, Fakten und Hintergrund | BR24](https://www.br.de/nachrichten/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Italian News in English: Today’s Headlines - Italia Mia](https://www.italiamia.com/italian-news-english/)
+- [Italy Breaking News Headlines Today | Ground News](https://ground.news/interest/italy)
+- [Italy News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/it/)
+- [News from Italy: Today's Latest Updates](https://italien.news/en/latest-news/)
+- [Italy News: Latest & Breaking Italy News Headlines & Updates ...](https://7news.com.au/news/italy)
+- [Italy - Euronews](https://www.euronews.com/tag/italy)
+- [Latest Italy News, Breaking Italy News, Italy News Headlines ...](https://www.wionews.com/tags/italy)
+- [Italy News Today in English | Latest Italy News - NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Southern+Europe/Italy)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

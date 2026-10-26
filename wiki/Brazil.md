@@ -481,3 +481,40 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [ブラジル の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/101321/)
 - [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
 
+### Brazil(検索日時 / searched at: 2026-10-25)
+
+Tags: `Brazil` `2026-10`
+
+- [Últimas notícias do Brasil hoje: principais acontecimentos do ...](https://www.bandab.com.br/topicos/brasil/)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/)
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Estadão | As Últimas Notícias do Brasil e do Mundo - Estadão](https://www.estadao.com.br/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Últimas notícias - g1](https://g1.globo.com/ultimas-noticias/)
+- [Google Notícias - Brasil - Mais recentes](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREUxWm5JU0JYQjBMVUpTS0FBUAE?hl=pt-BR&ceid=BR%3Apt-419)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- [Switzerland News — Today's Headlines on the News Map](https://globalnewsmap.net/country/switzerland)
+- [News today from Switzerland - SWI swissinfo.ch](https://www.swissinfo.ch/eng/latest-news/)
+- [Switzerland Breaking News Headlines Today | Ground …](https://ground.news/interest/switzerland)
+- [Switzerland Today - SWI swissinfo.ch](https://www.swissinfo.ch/eng/switzerland-today-/)
+- [Switzerland News Today | SchweizHeute](https://schweizheute.com/en)
+- [Times of Switzerland - Swiss News in English: Politics, Law ...](https://timesofswitzerland.ch/)
+- [Switzerland News | Latest Switzerland News - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/Switzerland)
+- [Geneva Breaking News Headlines Today | Ground News](https://ground.news/interest/geneva-switzerland)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツの今日のニュース - News Atlas](https://www.news-atlas.com/ja/country/germany)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+

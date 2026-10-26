@@ -870,3 +870,76 @@ Tags: `France (English)` `2026-10`
 - [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Iran(検索日時 / searched at: 2026-10-25)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://tasnimnews.ir/)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [ایران - جدیدترین و آخرین اخبار ایران | شهر خبر](https://www.shahrekhabar.com/tag/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [خبرگزاری ایسنا | صفحه اصلی | ISNA News Agency](https://www.isna.ir/)
+- [شهر خبر - تیتر جدیدترین و آخرین اخبار ایران و جهان](https://www.shahrekhabar.com/)
+- [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [聯合ニュースの記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [聯合ニュース](https://jp.yna.co.kr/)
+- [中央日報 - 韓国の最新ニュースを日本語でサービスします](https://japanese.joins.com/)
+- [韓国 | 最新韓国ニュース | ロイター](https://www.reuters.com/jp/world/korea/)
+- [朝鮮日報オンライン：Chosunonline.com](http://chosunonline.com/)
+- [韓国ニュース・一般総合 | wowKorea（ワウコリア）](https://www3.wowkorea.jp/news/knews/)
+- [「 韓国 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [韓国 ・朝鮮半島に関する ニュース と解説 - 日本経済新聞](https://www.nikkei.com/international/korea/)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [ウクルインフォルム通信](https://www.ukrinform.jp/)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [2025 New Orleans truck attack](https://en.wikipedia.org/wiki/2025_New_Orleans_truck_attack)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [台湾情勢 | 最新台湾情勢ニュース | ロイター](https://www.reuters.com/jp/world/taiwan/)
+- [最新 | フォーカス台湾 - 中央社日本語版 - Focus Taiwan](https://japan.focustaiwan.tw/news)
+- [: Taiwan Today](https://jp.taiwantoday.tw/list_news)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [フォーカス台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [「 台湾 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/taiwan/)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [ロシア | 最新ロシアニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [「ロシア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [ロシア のウクライナ侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+

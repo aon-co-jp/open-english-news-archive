@@ -466,3 +466,100 @@ Tags: `Afghanistan` `2026-10`
 - [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
 - [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
 
+### Afghanistan(検索日時 / searched at: 2026-10-25)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان خبرونه - AfghanNow.net](https://afghannow.net/%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86/)
+- [پښتو SBS | د افغانستان د نن ورځې مهم خبرونه](https://www.sbs.com.au/language/pashto/ps/podcast-episode/afghanistan-update/mk0e90xx6)
+- [BBC News, پښتو - کور پاڼه](https://www.bbc.com/pashto)
+- [د نن ورځې دوه مهم خبرونه، Two important news stories today](https://www.youtube.com/watch?v=yyhvT8K5hn8)
+- [کورپاڼه - افغان اتلان · پښتو](https://ps.afghanatalan.com/)
+- [د نن یک شنبې ورځې | مهم خبرونه | تازه خبرونه ... - YouTube](https://www.youtube.com/watch?v=hwqiNukiX-A&ntb=1&msockid=27bd93bfd09611f1879b37e92c98b1b0)
+- [کورنی | افغانستان انټرنشنل پښتو](https://www.afintl.com/pa)
+- [د نن ورځې مهم خبرونه | KDR News - Facebook](https://www.facebook.com/KDRNewsPashto/videos/%D8%AF-%D9%86%D9%86-%D9%88%D8%B1%DA%81%DB%90-%D9%85%D9%87%D9%85-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87/2273575576707151/)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [South Korea News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/kr/)
+- [South Korea news today · News Atlas](https://www.news-atlas.com/en/country/south-korea)
+- [Korea (the Republic Of) Breaking News Headlines Today ...](https://ground.news/interest/south-korea)
+- [South Korea News Today | Latest Seoul & Korea News ...](https://www.newsnow.com/us/World/Asia/South+Korea)
+- [South Korea news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/south-korea)
+- [South Korea News: Latest & Breaking South Korea News ...](https://7news.com.au/news/south-korea)
+- [South Korea Latest Headlines | nooze.news](https://nooze.news/kr)
+- [South Korea News | Today's Latest Stories | Reuters](https://www.reuters.com/world/south-korea/)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [Ukraine Breaking News Headlines Today | Ground News](https://ground.news/interest/ukraine)
+- [Ukraine News Today: Breaking Updates & Live Coverage ...](https://www.kyivpost.com/thread/61003)
+- [Ukraine News Today Live | War with Russia - NewsNow](https://www.newsnow.com/us/World/Europe/Eastern+Europe/Ukraine)
+- [Latest Ukraine and Russia at War News | Top Headlines on ...](https://www.reuters.com/world/ukraine-russia-war/)
+- [Ukraine News today - Latest news & Video | RBC-Ukraine](https://newsukraine.rbc.ua/)
+- [Get the Latest Ukraine News Today - Kyiv Post](https://www.kyivpost.com/)
+- [Ukrinform - Ukrainian National News Agency](https://www.ukrinform.net/)
+- [Ukraine War | Latest News & Updates| BBC News](https://www.bbc.com/news/war-in-ukraine)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - YouTube](https://www.youtube.com/watch?v=QRZ13r6mEZc)
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [アフガニスタン のいま | UNHCR 日本](https://www.unhcr.org/jp/spotlight-2021-12-afghanistan-on-the-brink)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand News: Latest & Breaking Thailand News Headlines ...](https://7news.com.au/news/thailand)
+- [Thailand News Today: Breaking News & Top Stories | Thaiger](https://thethaiger.com/)
+- [Thailand news - breaking news, video, headlines and opinion ...](https://www.cnn.com/world/asia/thailand)
+- [Bangkok Post - Thailand news | Latest & Breaking News, Live ...](https://www.bangkokpost.com/thailand)
+- [Thailand News Articles, Breaking Stories & Headlines](https://thethaiger.com/news/national)
+- [Bangkok Post - The world’s window in Thailand | Breaking ...](https://www.bangkokpost.com/)
+- [Thailand News Today — Latest Thai Breaking News | Chiang ...](https://www.chiangraitimes.com/category/thailand-news/)
+- [Today's Thailand's top headlines - Thai Times](https://thaitimes.com/today-s-thailand-s-top-headlines)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/br/)
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Today in Brazil — Brazilian news in English](https://www.todayinbrazil.com/)
+- [Daily Brazil News | Breaking News & Culture from Brazil](https://dailybrazilnews.com/)
+- [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/topic/egypt/page10)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプト - 海外安全ホームページ: 危険・スポット・広域情報](https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_094.html)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [French：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [「フランス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス - BBCニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [パリの最新ニュース動画｜今日のパリニュース（フランス）](https://globenow.tv/ja/place/paris)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランスのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/france)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [フランス の記事のまとめ - ニューズウィーク](https://www.newsweekjapan.jp/list/tagsearch/france)
+

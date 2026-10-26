@@ -469,3 +469,76 @@ Tags: `Japan (English)` `2026-10`
 - [News](https://en.wikipedia.org/wiki/News)
 - [Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)
 
+### United Kingdom(検索日時 / searched at: 2026-10-25)
+
+Tags: `United Kingdom` `2026-10`
+
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [United Kingdom News: Latest & Breaking UK News ...](https://7news.com.au/news/united-kingdom)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [Latest UK news | The Guardian](https://www.theguardian.com/uk-news)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/fr/)
+- [France News: Latest & Breaking France News Headlines ...](https://7news.com.au/news/france)
+- [France news - breaking stories, video, analysis and opinion | CNN](https://www.cnn.com/world/europe/france)
+- [France 24 - International breaking news, top stories and headlines](https://www.france24.com/)
+- [France - BBC News](https://www.bbc.com/news/topics/c302m85qenyt)
+- [France News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/france/)
+- [Google News - France - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSmxiaWdBUAE)
+- [France - World news, culture and opinion - Le Monde.fr](https://www.lemonde.fr/en/france/)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス、ニュースと展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「スイス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「スイス」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [swissinfo.ch - スイス インフォ (@switzerlandinjapanese)](https://www.facebook.com/switzerlandinjapanese/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [スイス の天気 - ウェザー ニュース](https://weathernews.jp/onebox/tenki/world/5/switzerland/)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Japan Today](https://japantoday.com/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/)
+- [The Japan Times - News On Japan, Business News, Opinion ...](https://www.japantimes.co.jp/)
+- [Today’s Top Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/)
+- [Japan - News - The Japan Times](https://www.japantimes.co.jp/news/japan/)
+- [Japan News | Today's Top Stories | Reuters](https://www.reuters.com/world/japan/)
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [Latest Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/list/)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- [Taiwan Breaking News Headlines Today | Ground News](https://ground.news/interest/taiwan)
+- [Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/)
+- [Taiwan News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/taiwan/)
+- [Taiwan news - breaking stories, video, analysis and opinion | CNN](https://www.cnn.com/world/asia/taiwan)
+- [Taiwan News: Latest & Breaking Taiwan News Headlines ...](https://7news.com.au/news/taiwan)
+- [Taiwan News - Taipei Times](https://www.taipeitimes.com/News/taiwan)
+- [Latest | Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/category/sys_LatestNews)
+- [Google News - Taiwan - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFptTXpJU0FuUnlLQUFQAQ?hl=en-US&ceid=US:en)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [「中国」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国 | 最新中国ニュース | ロイター](https://www.reuters.com/jp/world/china/)
+- [中国・習近平政権 関連ニュース：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [中国の今日のニュース - News Atlas](https://www.news-atlas.com/ja/country/china)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [中華人民共和国の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD.html)
+

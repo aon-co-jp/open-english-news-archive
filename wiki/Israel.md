@@ -429,3 +429,16 @@ Tags: `Israel` `2026-10`
 - [Mahmoud Ahmadinejad and Israel](https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad_and_Israel)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Israel(検索日時 / searched at: 2026-10-25)
+
+Tags: `Israel` `2026-10`
+
+- [Israel News | Israel.com](https://www.israel.com/news)
+- [Israel Breaking News Headlines Today | Ground News](https://ground.news/interest/israel)
+- [Israel News - The Jerusalem Post](https://www.jpost.com/israel-news)
+- [Israel - BBC News](https://www.bbc.com/news/topics/c302m85q5ljt)
+- [Israel | Israel | Today's latest from Al Jazeera](https://www.aljazeera.com/where/israel/)
+- [The State of Israel · Daily Israeli News and Knowledge …](https://thestateofisrael.com/)
+- [The Times of Israel | News from Israel, the Middle East and ...](https://www.timesofisrael.com/)
+- [Israel National News](https://www.israelnationalnews.com/)
+

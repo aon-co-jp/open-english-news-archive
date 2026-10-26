@@ -528,3 +528,28 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 - [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
 
+### India(検索日時 / searched at: 2026-10-25)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [India News | Today's latest updates and breaking news from ...](https://www.ndtv.com/india)
+- [Latest News, Breaking News, Top News Headlines and ...](https://timesofindia.indiatimes.com/news)
+- [India News, Latest Breaking News Headlines from India, Live ...](https://www.indiatoday.in/india)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [India News Today: Latest Breaking News, Politics, Weather ...](https://www.cnbctv18.com/india/)
+- [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar News Today | Latest Burma & Junta News ...](https://www.newsnow.com/ng/World/Asia/Myanmar?type=ln)
+- [Myanmar Breaking News Headlines Today | Ground News](https://ground.news/interest/myanmar-burma)
+- [Myanmar News Today | Latest Burma & Junta News - NewsNow](https://www.newsnow.com/us/World/Asia/Myanmar)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [Myanmar | Myanmar | Today's latest from Al Jazeera](https://www.aljazeera.com/where/myanmar/)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
+- [News Archives - Myanmar Now](https://myanmar-now.org/en/news/category/news/)
+

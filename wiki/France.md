@@ -330,3 +330,28 @@ Tags: `France` `2026-10`
 - [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
 - [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
 
+### France(検索日時 / searched at: 2026-10-25)
+
+Tags: `France` `2026-10`
+
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [France 24 - Infos, news & actualités - L'information ...](https://www.france24.com/fr/)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [Ouest-France : toute l'actualité en direct, l'info en continu en ...](https://www.ouest-france.fr/)
+- [20 Minutes - Toute l’actualité en direct et les dernières infos ...](https://www.20minutes.fr/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [南米の鼓動をキャッチ！ ブラジル日報](https://www.brasilnippou.com/)
+- [ブラジル日報の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [ブラジル - BBCニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [「 ブラジル 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/brazil/)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+

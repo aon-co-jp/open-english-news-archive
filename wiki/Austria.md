@@ -481,3 +481,15 @@ Tags: `Myanmar (English)` `2026-10`
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Austria(検索日時 / searched at: 2026-10-25)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [Aktuelle Politik-Nachrichten und News aus Deutschland](https://www.allgemeine-zeitung.de/politik/politik-deutschland/)
+- [BR24 - Nachrichten, Fakten und Hintergrund | BR24](https://www.br.de/nachrichten/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+

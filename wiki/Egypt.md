@@ -387,3 +387,16 @@ Tags: `Egypt` `2026-10`
 - [انتخابات الرئاسة المصرية 2030](https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2030)
 - [وفيات 2026](https://ar.wikipedia.org/wiki/%D9%88%D9%81%D9%8A%D8%A7%D8%AA_2026)
 
+### Egypt(検索日時 / searched at: 2026-10-25)
+
+Tags: `Egypt` `2026-10`
+
+- [مصر اليوم](https://www.masralyoum.net/)
+- [مصر اليوم | Egypt Today | آخر أخبار مصر اليوم | المزيد ...](https://www.egypt-today.com/)
+- [بوابة أخبار اليوم الإلكترونية - الصفحة الرئيسية](https://akhbarelyom.com/)
+- [أهم أخبار مصر العاجلة والمباشرة | العربية](https://www.alarabiya.net/arab-and-world/egypt)
+- [مصر ـ أخبار مصر - عاجل | مصر اليوم | Egypt Today | egypttoday](https://www.egypt-today.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%B9%D8%A7%D8%AC%D9%84%D8%A9)
+- [اليوم السابع](https://www.youm7.com/)
+- [المصري اليوم | الصفحة الرئيسية لموقع المصري اليوم](https://www.almasryalyoum.com/section/index/today)
+- [أخبار عاجلة - اليوم السابع](https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1)
+

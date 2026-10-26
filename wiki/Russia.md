@@ -578,3 +578,52 @@ Tags: `Egypt (English)` `2026-10`
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 - [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
 
+### Russia(検索日時 / searched at: 2026-10-25)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Новости России сегодня: последние новости ...](https://dzen.ru/news/region/russia)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Google Новости - Россия - Последние](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFppYm5vU0FuSnZLQUFQAQ?hl=ru&ceid=RU:ru)
+- [Лента новостей в режиме реального времени ...](https://www.kommersant.ru/lenta)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [Crime in Iran](https://en.wikipedia.org/wiki/Crime_in_Iran)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Germany News | Germany News Today - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/Germany)
+- [Germany News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/de/)
+- [Germany News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/germany/)
+- [Germany news today · News Atlas](https://www.news-atlas.com/en/country/germany)
+- [Germany Breaking News Headlines Today | Ground News](https://ground.news/interest/germany)
+- [Latest news from Germany in English | Deutschland in English](https://deutschlandinenglish.com/)
+- [Germany news - breaking stories, video, analysis and opinion ...](https://www.cnn.com/world/europe/germany)
+- [Germany News: Latest & Breaking Germany News ...](https://7news.com.au/news/germany)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [ロシア | 最新 ロシア ニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [ロシア | 国際のニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [Russia News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/russia/)
+- [ロシア - 世界日報DIGITAL](https://www.worldtimes.co.jp/category/global/russia/)
+- [Russia | History, Flag, Population, Map, President, & Facts ...](https://www.britannica.com/place/Russia)
+- [ロシア 基礎データ｜外務省](https://www.mofa.go.jp/mofaj/area/russia/data.html)
+

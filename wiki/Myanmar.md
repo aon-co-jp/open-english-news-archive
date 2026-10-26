@@ -564,3 +564,16 @@ Tags: `Myanmar` `2026-10`
 
 - (no items / 記事なし)
 
+### Myanmar(検索日時 / searched at: 2026-10-25)
+
+Tags: `Myanmar` `2026-10`
+
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [News | နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm/news)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက ...](https://www.bbc.com/burmese)
+- [သတင်း Archives - Myanmar Now](https://myanmar-now.org/mm/news/category/news/)
+- [မြန်မာဌာန - Radio Free Asia](https://www.rfa.org/burmese/)
+- [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
+- [သတင်း - ဧရာဝတီ](https://burma.irrawaddy.com/category/news)
+
