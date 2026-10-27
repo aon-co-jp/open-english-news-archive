@@ -542,3 +542,13 @@ Tags: `China (Japanese)` `2026-10`
 - [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
 - [中華人民共和国の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD.html)
 
+### United Kingdom(検索日時 / searched at: 2026-10-26)
+
+Tags: `United Kingdom` `2026-10`
+
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+

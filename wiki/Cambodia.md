@@ -595,3 +595,9 @@ Tags: `Cambodia` `2026-10`
 - [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
 - [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
 
+### Cambodia(検索日時 / searched at: 2026-10-26)
+
+Tags: `Cambodia` `2026-10`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+

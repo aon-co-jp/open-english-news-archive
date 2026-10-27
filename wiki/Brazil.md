@@ -518,3 +518,15 @@ Tags: `Austria (Japanese)` `2026-10`
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 - [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
 
+### Brazil(検索日時 / searched at: 2026-10-26)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Agência Brasil](https://pt.wikipedia.org/wiki/Ag%C3%AAncia_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Banco do Brasil](https://pt.wikipedia.org/wiki/Banco_do_Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+

@@ -355,3 +355,37 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [「 ブラジル 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/brazil/)
 - [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
 
+### France(検索日時 / searched at: 2026-10-26)
+
+Tags: `France` `2026-10`
+
+- [Île-de-France](https://fr.wikipedia.org/wiki/%C3%8Ele-de-France)
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Extrême gauche en France](https://fr.wikipedia.org/wiki/Extr%C3%AAme_gauche_en_France)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Audrey Goutard](https://fr.wikipedia.org/wiki/Audrey_Goutard)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [最新中東・アフリカ ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/mideast/)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [米・イスラエルの イラン 攻撃 - 朝日新聞](https://www.asahi.com/topics/AP-e956a437-68cb-474e-8e5d-61a96c3636e6/)
+- [【最新 イラン 情勢】米軍“ イラン のタンカー2隻を ... - YouTube](https://www.youtube.com/watch?v=2YKPVKVQSlg)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [CB Bank](https://en.wikipedia.org/wiki/CB_Bank)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

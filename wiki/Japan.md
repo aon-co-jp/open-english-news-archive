@@ -425,3 +425,27 @@ Tags: `Japan` `2026-10`
 - [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
 - [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
 
+### Japan(検索日時 / searched at: 2026-10-26)
+
+Tags: `Japan` `2026-10`
+
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+

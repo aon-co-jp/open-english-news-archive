@@ -577,3 +577,21 @@ Tags: `Myanmar` `2026-10`
 - [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
 - [သတင်း - ဧရာဝတီ](https://burma.irrawaddy.com/category/news)
 
+### Myanmar(検索日時 / searched at: 2026-10-26)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

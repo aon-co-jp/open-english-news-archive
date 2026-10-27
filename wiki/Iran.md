@@ -943,3 +943,14 @@ Tags: `Russia (Japanese)` `2026-10`
 - [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
 - [ロシア のウクライナ侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
 
+### Iran(検索日時 / searched at: 2026-10-26)
+
+Tags: `Iran` `2026-10`
+
+- [واکنش‌ها به جنگ دوازده‌روزه](https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%E2%80%8C%D9%87%D8%A7_%D8%A8%D9%87_%D8%AC%D9%86%DA%AF_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D9%87)
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [یل](https://fa.wikipedia.org/wiki/%DB%8C%D9%84)
+- [امیر جدیدی](https://fa.wikipedia.org/wiki/%D8%A7%D9%85%DB%8C%D8%B1_%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C)
+- [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
+- [دست‌های هدیه‌داده‌شده: داستان بن کارسون](https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%D8%AF%DB%8C%D9%87%E2%80%8C%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87:_%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86_%DA%A9%D8%A7%D8%B1%D8%B3%D9%88%D9%86)
+
