@@ -476,3 +476,40 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
 - [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
 
+### Philippines(検索日時 / searched at: 2026-10-27)
+
+Tags: `Philippines` `2026-10`
+
+- [Pilipinas: balita – all.news](https://www.all.news/news/philippines/filipino/)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Videos - 24 Oras, Philippines Live News Today | GMA News ...](https://www.gmanetwork.com/news/video/shows/105/balitapilipinas/)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [SAKSI NGAYON - MGA BALITANG TOTOO](https://saksingayon.com/)
+- [Pilipino Star Ngayon - Bansa | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/bansa)
+- [Breaking News & Headlines in the Philippines | ABS-CBN …](https://www.abs-cbn.com/news)
+- [Balita | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/balita/)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [Ukraine Breaking News Headlines Today | Ground News](https://ground.news/interest/ukraine)
+- [Ukraine News Today Live | War with Russia - NewsNow](https://www.newsnow.com/us/World/Europe/Eastern+Europe/Ukraine)
+- [Get the Latest Ukraine News Today - Kyiv Post](https://www.kyivpost.com/)
+- [Ukraine News today - Latest news & Video | RBC-Ukraine](https://newsukraine.rbc.ua/)
+- [Latest Ukraine and Russia at War News | Top Headlines on ...](https://www.reuters.com/world/ukraine-russia-war/)
+- [Ukraine | Ukraine | Today's latest from Al Jazeera](https://www.aljazeera.com/where/ukraine/)
+- [The Kyiv Independent — News from Ukraine, Eastern Europe](https://kyivindependent.com/)
+- [Ukrinform - Ukrainian National News Agency](https://www.ukrinform.net/)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「ドイツ」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+

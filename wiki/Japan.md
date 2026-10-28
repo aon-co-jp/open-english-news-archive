@@ -449,3 +449,40 @@ Tags: `France (English)` `2026-10`
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 - [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
 
+### Japan(検索日時 / searched at: 2026-10-27)
+
+Tags: `Japan` `2026-10`
+
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [国内ニュース - Yahoo!ニュース](https://news.yahoo.co.jp/categories/domestic)
+- [読売新聞 : きょうの最新ニュース・速報：発行部数No.1](https://www.yomiuri.co.jp/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [South Korea News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/kr/)
+- [South Korea News Today | Latest Seoul & Korea News ...](https://www.newsnow.com/us/World/Asia/South+Korea)
+- [Korea (the Republic Of) Breaking News Headlines Today ...](https://ground.news/interest/south-korea)
+- [South Korea News: Latest & Breaking South Korea News ...](https://7news.com.au/news/south-korea)
+- [South Korea Latest Headlines | nooze.news](https://nooze.news/kr)
+- [South Korea news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/south-korea)
+- [South Korea News | Today's Latest Stories | Reuters](https://www.reuters.com/world/south-korea/)
+- [Google News - South Korea - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp4WkRNU0FuWnBLQUFQAQ?hl=en-US&ceid=US:en)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ情勢 | 最新ウクライナニュース | ロイター](https://www.reuters.com/jp/world/ukraine/)
+- [ウクライナ侵攻 - BBCニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [新着ニュース](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+

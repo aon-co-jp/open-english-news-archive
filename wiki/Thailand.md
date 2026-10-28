@@ -445,3 +445,64 @@ Tags: `Thailand` `2026-10`
 - [สนามข่าว 7 สี](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7_7_%E0%B8%AA%E0%B8%B5)
 - [สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2)
 
+### Thailand(検索日時 / searched at: 2026-10-27)
+
+Tags: `Thailand` `2026-10`
+
+- [ข่าว ข่าววันนี้ ข่าวด่วนทั่ว ...](https://thethaiger.com/th/thai-news/)
+- [ข่าวเด่นวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news)
+- [Thaiger ข่าวประเทศไทย : ข่าววันนี้ ...](https://thethaiger.com/th/)
+- [ข่าวล่าสุดวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news/today)
+- [ข่าวไทยรัฐ ข่าวล่าสุด ข่าวด่วน ...](https://www.thairath.co.th/news)
+- [ข่าว ข่าววันนี้ ข่าวล่าสุด ... - BBC](https://www.bbc.com/thai)
+- [Sanook - ข่าว ข่าววันนี้ ข่าวสด ข่าว ...](https://news.sanook.com/index.php)
+- [ข่าวทั่วไทย รวมข่าว ...](https://www.thairath.co.th/news/local)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Japan Today](https://japantoday.com/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/)
+- [Japan News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/jp/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/?lang=ja)
+- [News On Japan](https://newsonjapan.com/v3/)
+- [Japan - News - The Japan Times](https://www.japantimes.co.jp/news/japan/)
+- [Today’s Top Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/)
+- [The Japan Times - News On Japan, Business News, Opinion ...](https://www.japantimes.co.jp/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand News: Latest & Breaking Thailand News Headlines ...](https://7news.com.au/news/thailand)
+- [Thailand News Today: Breaking News & Top Stories | Thaiger](https://thethaiger.com/)
+- [Thailand news - breaking news, video, headlines and opinion ...](https://www.cnn.com/world/asia/thailand)
+- [Today's headlines - Thai Times](https://thaitimes.com/today-s-headlines)
+- [Thailand News Articles, Breaking Stories & Headlines](https://thethaiger.com/news/national)
+- [Bangkok Post - Thailand news | Latest & Breaking News, Live ...](https://www.bangkokpost.com/thailand)
+- [Today's Thailand's top headlines - Thai Times](https://thaitimes.com/today-s-thailand-s-top-headlines)
+- [Bangkok Post - The world’s window in Thailand | Breaking ...](https://www.bangkokpost.com/)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [Russia News: Latest & Breaking Russian News Headlines ...](https://7news.com.au/news/russia)
+- [Russia news - breaking stories, video and analysis | CNN](https://www.cnn.com/world/europe/russia)
+- [Inside Russia — News from the front](https://insiderussia.com/)
+- [Russia | Russia | Today's latest from Al Jazeera](https://www.aljazeera.com/where/russia/)
+- [Russian Federation (The) Breaking News Headlines Today ...](https://ground.news/interest/russia)
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Latest Ukraine and Russia at War News | Top Headlines on ...](https://www.reuters.com/world/ukraine-russia-war/)
+- [Russia News - The New York Times](https://www.nytimes.com/spotlight/russia)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Brazil - BBC News](https://www.bbc.com/news/topics/cmj34zmw77wt)
+- [Today in Brazil — Brazilian news in English](https://www.todayinbrazil.com/)
+- [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
+- [Brazil news in English - NewsNow](https://www.newsnow.com/us/World/Latin+America/South+America/Brazil)
+

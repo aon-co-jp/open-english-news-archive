@@ -601,3 +601,28 @@ Tags: `Cambodia` `2026-10`
 
 - [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
 
+### Cambodia(検索日時 / searched at: 2026-10-27)
+
+Tags: `Cambodia` `2026-10`
+
+- [ព័ត៌មានកម្ពុជាថ្ងៃនេះ ...](https://kampuchea.news/kh/)
+- [Post Khmer Insights: Accurate Cambodia National News](https://www.postkhmer.com/)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+- [កម្ពុជា៖ ព័ត៌មាន, podcasts, វីដេអូ និង ...](https://www.rfi.fr/km/%E1%9E%96%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%99%E1%9E%82%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9E%B9%E1%9F%87/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [ព័ត៌មាន កម្ពុជា - Cambodia News - វីអូអេ - VOA ...](https://khmer.voanews.com/z/2277)
+- [ព័ត៌មានជាតិ - ព័ត៌មានថ្មី ...](https://khmer.cambojanews.com/news/national/)
+- [ខេមបូចា ព័ត៌មាន ...](https://khmer.cambojanews.com/)
+- [កម្ពុជា - RFI - Radio France Internationale](https://www.rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [韓国 | 最新韓国ニュース | ロイター](https://www.reuters.com/jp/world/korea/)
+- [最新の韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [中央日報 - 韓国の最新ニュースを日本語でサービスします](https://japanese.joins.com/)
+- [韓国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/south-korea)
+- [聯合ニュース](https://jp.yna.co.kr/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [「 韓国 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [韓国 ・朝鮮半島に関する ニュース と解説 - 日本経済新聞](https://www.nikkei.com/international/korea/)
+

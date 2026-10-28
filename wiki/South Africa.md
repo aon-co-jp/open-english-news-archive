@@ -488,3 +488,16 @@ Tags: `South Africa` `2026-10`
 - [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 
+### South Africa(検索日時 / searched at: 2026-10-27)
+
+Tags: `South Africa` `2026-10`
+
+- [South Africa news today: latest headlines, politics & economy ...](https://www.za24.news/)
+- [South Africa stories, breaking news and comment | The Citizen](https://www.citizen.co.za/news/south-africa/)
+- [South Africa News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/south-africa/)
+- [Top Stories | Latest News in South Africa | eNCA](https://www.enca.com/)
+- [News | SouthAfrica | News24](https://www.news24.com/southafrica/news)
+- [South Africa Local News · Latest SA Headlines · News.co.za](https://news.co.za/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/iol/news/south-africa/)
+

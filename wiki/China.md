@@ -515,3 +515,28 @@ Tags: `South Korea (English)` `2026-10`
 - [Lee Choon-jae](https://en.wikipedia.org/wiki/Lee_Choon-jae)
 - [Korean Americans](https://en.wikipedia.org/wiki/Korean_Americans)
 
+### China(検索日時 / searched at: 2026-10-27)
+
+Tags: `China` `2026-10`
+
+- [头条新闻_今日中国](http://www.baidu.com/link?url=iufNJ3a9-yqh3y54EQmVxwlnZPeioHwTIXB-SRYUSqrOKXS5Kd9WArc5NukQBcvOfzuGnPybXNqXoA3N3bvXE_)
+- [今日头条](https://www.toutiao.com/)
+- [今日头条](http://www.baidu.com/link?url=iufNJ3a9-yqh3y54EQmVxzhmq60vsyztnTQDmModQlCrwx_6MNPNLUCwJ9Ubr1iP)
+- [今日头条](http://www.baidu.com/link?url=qX73OWCYXjw5l9dtanVQmpTCIUaUgKql7qURYAJhA82F8WrJrTqVhZTHNZfktJ-D)
+- [头条新闻 _头条_ 中国 政府网](http://www.baidu.com/link?url=EWAO2XIHx-XTtpptGYrgwfepVqprkMmYzLR8-XVlNJ37PRSbI1GCHMHRT0taB--1)
+- [今日中国 _ 新闻 频道_央视网(cctv.com)](http://www.baidu.com/link?url=SDfidqkPC9sTL370TkN4XXegWGpXomedXqMT03EQNdT-4iiw7JvL2-DkBLt0yyo1YBRzqqMhoL3h013UG_JePK)
+- [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=-nbZL4RMlThl7ZLKH5tEYcv_wi0R-QFcXGH-qI7bx-82gvpDHOjh8yUjTuLaAOAs6VPdVoJU24xhuanJ4HKzKxZD_gepTqIRpwXxjlHSjLzkLB1rfOGfdv7pbxEc6gP2BwZVTWUpvDfqLhgwZXbxVK)
+- [中国新闻网_梳理天下新闻](https://www.chinanews.com.cn/)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar News Today | Latest Burma & Junta News ...](https://www.newsnow.com/ng/World/Asia/Myanmar?type=ln)
+- [Myanmar news headlines - Asean News Today](https://aseannewstoday.com/myanmar-news-headlines/)
+- [Myanmar News Today | Latest Burma & Junta News - NewsNow](https://www.newsnow.com/us/World/Asia/Myanmar)
+- [Myanmar Breaking News Headlines Today | Ground News](https://ground.news/interest/myanmar-burma)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
+- [News Archives - Myanmar Now](https://myanmar-now.org/en/news/category/news/)
+

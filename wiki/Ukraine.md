@@ -603,3 +603,40 @@ Tags: `Taiwan (English)` `2026-10`
 - [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 
+### Ukraine(検索日時 / searched at: 2026-10-27)
+
+Tags: `Ukraine` `2026-10`
+
+- [Новини України і світу сьогодні. Головні і ...](https://glavcom.ua/)
+- [Головні новини України сьогодні - Espreso TV](https://espreso.tv/ukrayina)
+- [Новини України сьогодні — всі головні події ...](https://ukr.news/)
+- [ᐈ Головні новини України та світу за сьогодні](https://www.ukr.net/news/main.html)
+- [Новини України - останні новини України ...](https://www.unian.ua/)
+- [Новини - Останні новини України сьогодні | РБК ...](https://www.rbc.ua/)
+- [Свіжі новини України та світу за сьогодні — delo.ua](https://delo.ua/news/)
+- [Новини України. Останні новини сьогодні онлайн ...](https://news.liga.net/ua)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス、ニュースと展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「スイス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「スイス」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [SWI swissinfo.ch 日本語版 (@swissinfo.ch_jp) · Bern - Instagram](https://www.instagram.com/swissinfo.ch_jp/)
+- [スイス のメディアが報じた日本の ニュース ｜6/23号 - Swissinfo](https://www.swissinfo.ch/jpn/various/society-5-0%E3%80%81%E5%9C%B0%E7%8D%84%E8%88%B9%E3%80%81%E5%8F%8D%E6%99%82%E8%A8%88%E5%9B%9E%E3%82%8A-%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%8C%E5%A0%B1%E3%81%98%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/91654718)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+
+
+Tags: `China (English)` `2026-10`
+
+- [China News | Today's Breaking Stories | Reuters](https://www.reuters.com/world/china/)
+- [China news - breaking news, video, headlines and opinion | CNN](https://www.cnn.com/world/china)
+- [China News Headlines, Latest China News and Live Updates ...](https://timesofindia.indiatimes.com/world/china)
+- [China Breaking News & Headlines | South China Morning Post](https://www.scmp.com/news/china)
+- [China News: Latest & Breaking Chinese News Headlines ...](https://7news.com.au/travel/china)
+- [China News - Headlines, Stories & Videos - Chinadaily.com.cn](https://www.chinadaily.com.cn/china/index.html)
+- [China News | Latest China Updates - NewsNow](https://www.newsnow.com/us/World/Asia/China)
+- [CGTN | Breaking News, China News, World News and …](https://en.cgtn.com/)
+

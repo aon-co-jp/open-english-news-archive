@@ -431,3 +431,40 @@ Tags: `Brazil (English)` `2026-10`
 - [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Egypt(検索日時 / searched at: 2026-10-27)
+
+Tags: `Egypt` `2026-10`
+
+- [مصر اليوم | Egypt Today | آخر أخبار مصر اليوم | المزيد ...](https://www.egypt-today.com/)
+- [بوابة أخبار اليوم الإلكترونية - الصفحة الرئيسية](https://akhbarelyom.com/)
+- [مصر اليوم](https://www.masralyoum.net/)
+- [المصري اليوم | الصفحة الرئيسية لموقع المصري اليوم](https://www.almasryalyoum.com/section/index/today)
+- [اليوم السابع](https://www.youm7.com/)
+- [المصري اليوم](https://www.almasryalyoum.com/)
+- [أخبار عاجلة - اليوم السابع](https://www.youm7.com/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1)
+- [أهم أخبار مصر العاجلة والمباشرة | العربية](https://www.alarabiya.net/arab-and-world/egypt)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Daily Austria News | Breaking News & Headlines from Austria](https://dailyaustrianews.com/)
+- [Latest News from Austria - The Local](https://www.thelocal.at/category/austria-news)
+- [Austria Breaking News Headlines Today | Ground News](https://ground.news/interest/austria)
+- [Austria - Euronews](https://www.euronews.com/tag/austria)
+- [Austria - BBC News](https://www.bbc.com/news/topics/c1038wnxny7t)
+- [Vienna Breaking News Headlines Today | Ground News](https://ground.news/interest/vienna-austria)
+- [Vienna News & Austria News in English | The International](https://theinternational.at/)
+- [Google News - Austria - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXd29BQVAB)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [タジキスタンのニュース・読売新聞の最新記事 : 読売新聞](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [Tajikistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [中国首相、 タジキスタン との安全保障協力深化呼びかけ …](https://news.yahoo.co.jp/articles/62b9cabd2515390f265d16b2a0c077122da4d717)
+- [ニュース 及びイベント | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/information/news-and-events-ja?page=8)
+

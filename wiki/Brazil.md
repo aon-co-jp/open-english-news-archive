@@ -530,3 +530,28 @@ Tags: `Brazil` `2026-10`
 - [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
 - [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
 
+### Brazil(検索日時 / searched at: 2026-10-27)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/ultima-hora)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Últimas Notícias de hoje | Fique ligado na CNN Brasil](https://www.cnnbrasil.com.br/ultimas-noticias/)
+- [As principais notícias de hoje no Brasil e no mundo](https://www.terra.com.br/noticias/ao-vivo/33274/)
+- [CNN Brasil | Notícias Ao Vivo do Brasil e do Mundo](https://www.cnnbrasil.com.br/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [Italy：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [イタリア ｜ローマ中心部でのデモ実施に伴う注意喚起（10/17）](https://www.tokutenryoko.com/news/passage/18756)
+- [イタリア 新聞 (@ciao_journal) · Milan - Instagram](https://www.instagram.com/ciao_journal/)
+- [「イタリア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「イタリア」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [イタリア - BBCニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+

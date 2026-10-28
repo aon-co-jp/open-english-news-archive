@@ -454,3 +454,40 @@ Tags: `Israel` `2026-10`
 - [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Israel(検索日時 / searched at: 2026-10-27)
+
+Tags: `Israel` `2026-10`
+
+- [Israel News | Israel.com](https://www.israel.com/news)
+- [Israel Breaking News Headlines Today | Ground News](https://ground.news/interest/israel)
+- [Israel - BBC News](https://www.bbc.com/news/topics/c302m85q5ljt)
+- [Top Israel News Headlines from Israeli Newspapers and news ...](https://www.israelam.com/top-israel-news-headlines/)
+- [Israel news, updates on the war with Hamas - CNN](https://www.cnn.com/world/middleeast/israel)
+- [Google News - Israel - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE56Y0hvU0JXVnVMVWRDS0FBUAE?hl=en-IL&ceid=IL%3Aen)
+- [Israel National News](https://www.israelnationalnews.com/)
+- [The Times of Israel | News from Israel, the Middle East and ...](https://www.timesofisrael.com/)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー最新ニュース・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマーの経済ニュース・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー最新ニュース – ミャンマー最新ニュース・情報誌 ...](https://myanmarjapon.com/newsdigest)
+- [「ミャンマー」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマーニュース -ミャンマーの最新ニュース・最新情報をお ...](https://www.myanmar-news.asia/)
+- [ミャンマー情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [今日 の ミャンマーニュース - 日本 ミャンマー 支援機構 (JMSA)](https://www.japan-myanmar.com/myanmar-news/)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Italian News in English: Today’s Headlines - Italia Mia](https://www.italiamia.com/italian-news-english/)
+- [Italy Breaking News Headlines Today | Ground News](https://ground.news/interest/italy)
+- [News from Italy: Today's Latest Updates](https://italien.news/en/latest-news/)
+- [Italy News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/it/)
+- [Italy News: Latest & Breaking Italy News Headlines & Updates ...](https://7news.com.au/news/italy)
+- [Latest Italy News, Breaking Italy News, Italy News Headlines ...](https://www.wionews.com/tags/italy)
+- [Italy - Euronews](https://www.euronews.com/tag/italy)
+- [Italy News Today in English | Latest Italy News - NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Southern+Europe/Italy)
+

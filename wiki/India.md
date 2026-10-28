@@ -671,3 +671,16 @@ Tags: `Iran (English)` `2026-10`
 - [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 
+### India(検索日時 / searched at: 2026-10-27)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [String regular expression java](https://stackoverflow.com/questions/27226847)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+- [Hindustan Times: Breaking News, Latest News, India News ...](https://www.hindustantimes.com/)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Latest News, Breaking News, Top News Headlines and ...](https://timesofindia.indiatimes.com/news)
+- [Latest News Headlines on World, Business, Politics ...](https://timesofindia.indiatimes.com/intversion.cms)
+

@@ -457,3 +457,16 @@ Tags: `Russia (English)` `2026-10`
 - [News](https://en.wikipedia.org/wiki/News)
 - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 
+### Switzerland(検索日時 / searched at: 2026-10-27)
+
+Tags: `Switzerland` `2026-10`
+
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Schweiz – News und Hintergründe zum Inland | NZZ …](https://www.nzz.ch/schweiz)
+- [Aktuelle News und Schlagzeilen aus Schweiz und Welt](https://www.bluewin.ch/de/news)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+- [Schweiz: Aktuelle News, Bilder & Nachrichten - WELT](https://www.welt.de/themen/schweiz/)
+- [Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe ...](https://www.tagesanzeiger.ch/)
+

@@ -650,3 +650,64 @@ Tags: `Afghanistan (English)` `2026-10`
 - [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
 - [Erin Burnett](https://en.wikipedia.org/wiki/Erin_Burnett)
 
+### Russia(検索日時 / searched at: 2026-10-27)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Google Новости - Россия - Последние](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFppYm5vU0FuSnZLQUFQAQ?hl=ru&ceid=RU:ru)
+- [Лента новостей в режиме реального времени ...](https://www.kommersant.ru/lenta)
+- [Дзен: последние новости России и мира сегодня](https://dzen.ru/news)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [Iran | Iran | Today's latest from Al Jazeera](https://www.aljazeera.com/where/iran/)
+- [Iran News: Latest & Breaking Iranian News Headlines ...](https://7news.com.au/news/iran)
+- [Iran News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/ir/)
+- [Iran News | Iran Latest Updates - NewsNow](https://www.newsnow.com/us/World/Middle+East/Iran)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FuUnlLQUFQAQ)
+- [Home | Iran International](https://www.iranintl.com/en)
+- [Iran News: Latest stories and updates | The Jerusalem Post](https://www.jpost.com/middle-east/iran-news)
+- [Latest Iran News, Breaking Iran News, Iran News Headlines ...](https://www.wionews.com/tags/iran)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「エジプト」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [エジプトのニュース・読売新聞の最新記事 : 読売新聞](https://www.yomiuri.co.jp/keyword/39753/)
+- [「エジプト」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [Egypt：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [提唱者死亡で支持拡大 エジプト 発「食事療法」が中東で物議](https://mainichi.jp/articles/20260808/k00/00m/030/046000c)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- [Taiwan News: Latest & Breaking Taiwan News Headlines ...](https://7news.com.au/news/taiwan)
+- [Taiwan Breaking News Headlines Today | Ground News](https://ground.news/interest/taiwan)
+- [Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/)
+- [Taiwan News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/taiwan/)
+- [Taiwan news - breaking stories, video, analysis and opinion | CNN](https://www.cnn.com/world/asia/taiwan)
+- [Latest | Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/category/sys_LatestNews)
+- [Taiwan News - Taipei Times](https://www.taipeitimes.com/News/taiwan)
+- [Google News - Taiwan - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFptTXpJU0FuUnlLQUFQAQ?hl=en-US&ceid=US:en)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [French：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [フランス - BBCニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「フランス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [パリの ニュース ：地域情報・文化・トレンドをチェック](https://www.sortiraparis.com/ja/nyusu/pari-de)
+- [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
+

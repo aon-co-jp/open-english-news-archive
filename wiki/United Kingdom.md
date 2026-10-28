@@ -552,3 +552,40 @@ Tags: `United Kingdom` `2026-10`
 - [USA Today](https://en.wikipedia.org/wiki/USA_Today)
 - [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
 
+### United Kingdom(検索日時 / searched at: 2026-10-27)
+
+Tags: `United Kingdom` `2026-10`
+
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [United Kingdom News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/gb/)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [Latest UK news | The Guardian](https://www.theguardian.com/uk-news)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Germany News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/de/)
+- [Germany News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/germany/)
+- [Germany News Today | Newsaly](https://newsaly.com/germany)
+- [Germany News | Germany News Today - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/Germany)
+- [Latest news from Germany in English | Deutschland in English](https://deutschlandinenglish.com/)
+- [Germany News: Latest & Breaking Germany News ...](https://7news.com.au/news/germany)
+- [Germany News - Latest Germany News, Breaking Germany ...](https://www.wionews.com/tags/germany)
+- [News and current affairs from Germany and around the world](https://www.dw.com/en/top-stories/s-9097)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - BBC](https://www.bbc.com/japanese/video-58252831)
+- [アフガニスタン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「アフガニスタン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [Afghanistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+- [アフガニスタン ・タリバン暫定政権 - 朝日新聞](https://www.asahi.com/topics/AP-d8d5fa8d-4c92-484a-b1c5-32e9ff6dc3a3/)
+- [パキスタンが アフガニスタン の首都など空爆、越境攻撃が激化](https://www.bbc.com/japanese/articles/c0q3pnd55lno)
+

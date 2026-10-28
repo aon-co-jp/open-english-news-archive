@@ -571,3 +571,16 @@ Tags: `Afghanistan` `2026-10`
 - [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
 - [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
 
+### Afghanistan(検索日時 / searched at: 2026-10-27)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان خبرونه - AfghanNow.net](https://afghannow.net/%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86/)
+- [اخبار افغانستان - اطلاعات روز](https://www.etilaatroz.com/category/news/afghanistan/)
+- [کورپاڼه - افغان اتلان · پښتو](https://ps.afghanatalan.com/)
+- [کورنی | افغانستان انټرنشنل پښتو](https://www.afintl.com/pa)
+- [BBC News, پښتو - کور پاڼه](https://www.bbc.com/pashto)
+- [د نن ورځې مهم خبرونه | KDR News - Facebook](https://www.facebook.com/KDRNewsPashto/videos/%D8%AF-%D9%86%D9%86-%D9%88%D8%B1%DA%81%DB%90-%D9%85%D9%87%D9%85-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87/2273575576707151/)
+- [د افغانستان او نړۍ تازه ترین ورځني خبرونه - آفاق ...](https://afaaq.af/%da%a9%d9%88%d8%b1-%d9%be%d8%a7%da%bc%d9%87/)
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+

@@ -440,3 +440,16 @@ Tags: `Egypt (English)` `2026-10`
 - [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Italy(検索日時 / searched at: 2026-10-27)
+
+Tags: `Italy` `2026-10`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Ultime notizie dal mondo in tempo reale | Ansa](https://www.ansa.it/sito/notizie/topnews/index.shtml)
+- [Ultime notizie di Cronaca: news oggi in tempo reale - Tgcom24](https://www.tgcom24.mediaset.it/cronaca/)
+- [Today - Ultime notizie dall'Italia e dal Mondo](https://www.today.it/)
+- [Notizie dall'Italia: ultime notizie - StrettoWeb](https://www.strettoweb.com/notizie-italia/)
+- [La Stampa - Ultime notizie di cronaca e news dall'Italia e dal ...](https://www.lastampa.it/)
+- [Ultime notizie - Today](https://www.today.it/notizie/tutte/)
+- [Notizie Oggi - Scopri le ultime news con Canale Italia](https://canaleitalia.it/programmi/notizie-oggi/)
+

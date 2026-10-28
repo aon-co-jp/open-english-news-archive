@@ -502,3 +502,16 @@ Tags: `Switzerland (English)` `2026-10`
 - [CNN](https://en.wikipedia.org/wiki/CNN)
 - [Ye Live Concert Tour](https://en.wikipedia.org/wiki/Ye_Live_Concert_Tour)
 
+### Germany(検索日時 / searched at: 2026-10-27)
+
+Tags: `Germany` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [Aktuelle Politik-Nachrichten und News aus Deutschland](https://www.allgemeine-zeitung.de/politik/politik-deutschland/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
+- [tagesschau.de - die erste Adresse für Nachrichten und ...](https://www.tagesschau.de/)
+

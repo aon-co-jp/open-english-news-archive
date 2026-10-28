@@ -954,3 +954,52 @@ Tags: `Iran` `2026-10`
 - [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
 - [دست‌های هدیه‌داده‌شده: داستان بن کارسون](https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%D8%AF%DB%8C%D9%87%E2%80%8C%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87:_%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86_%DA%A9%D8%A7%D8%B1%D8%B3%D9%88%D9%86)
 
+### Iran(検索日時 / searched at: 2026-10-27)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [ایران - جدیدترین و آخرین اخبار ایران | شهر خبر](https://www.shahrekhabar.com/tag/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
+- [شهر خبر - تیتر جدیدترین و آخرین اخبار ایران و جهان](https://www.shahrekhabar.com/)
+- [پارسیک - اخبار ایران - Parseek](https://www.parseek.com/Iran/)
+- [خبرگزاری ایسنا | صفحه اصلی | ISNA News Agency](https://www.isna.ir/)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Afghanistan News: Latest Afghanistan News Today | AP News](https://apnews.com/hub/afghanistan)
+- [Afghanistan Breaking News Headlines Today | Ground …](https://ground.news/interest/afghanistan)
+- [Afghanistan News | Afghanistan Latest Updates 24/7 ...](https://www.newsnow.com/us/World/Asia/Afghanistan?type=ln)
+- [Afghanistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/afghanistan/)
+- [Afghanistan news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/afghanistan)
+- [Afghanistan News Today – Breaking News, Politics, Sports ...](https://www.ariananews.af/)
+- [Afghanistan - BBC News](https://www.bbc.com/news/topics/c8nq32jw5r5t)
+- [Google News - Afghanistan - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BrWkJJQ2MzSW9BQVAB)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [ニュース カテゴリ： タイ ローカル ニュース - ワイズデジタル](https://www.wisebk.com/news_category/thai_local_news/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [「タイ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [日刊タイニュース | タイの政治、経済、社会に関する最新情報 ...](https://nikkanthainews.com/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Tajikistan Breaking News Headlines Today | Ground News](https://ground.news/interest/tajikistan)
+- [Tajikistan Today | Breaking News & Economy](https://tajikistantoday.com/)
+- [Tajikistan | Tajikistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/tajikistan)
+- [Tajikistan News - Latest Tajikistan News, Breaking ...](https://www.wionews.com/tags/tajikistan)
+- [Latest Tajikistan News - Breaking Tajikistan Updates Today](https://caspianpost.com/tajikistan)
+- [Asia-Plus — News from Tajikistan and Central Asia](https://asiaplus.news/en/homepage-en/)
+- [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
+- [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
+

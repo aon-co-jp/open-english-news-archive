@@ -736,3 +736,16 @@ Tags: `Tajikistan` `2026-10`
 - [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
 - [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
 
+### Tajikistan(検索日時 / searched at: 2026-10-27)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Тоҷикистон-Арабистон - Хабарҳои муҳими имрӯз ...](https://sputnik.tj/geo_Toikiston-Arabiston/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [Хабарҳои Тоҷикистон ва ҷаҳон - Istiklol.tj](https://istiklol.tj/)
+- [Имрӯз дар ноҳияҳои алоҳидаи Тоҷикистон чангу ...](https://khovar.tj/2026/10/imr-z-dar-no-iya-oi-alo-idai-to-ikiston-changu-ubor-ba-amal-meoyad-12/)
+- [Радиои «Имрӯз» — Википедия](https://tg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B8_%C2%AB%D0%98%D0%BC%D1%80%D3%AF%D0%B7%C2%BB)
+- [ИмрӯзNews](https://imruz.tj/)
+- [Новости Таджикистана — ИмрӯзNews](https://imruz.tj/category/news-of-tajikistan/)
+- [Farmatsevt | Имрӯз барои ҳар як фарди Тоҷикистон ...](https://www.instagram.com/reel/DeF1uHKoExd/)
+

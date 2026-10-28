@@ -551,3 +551,52 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
 - [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
 
+### Malaysia(検索日時 / searched at: 2026-10-27)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Berita dan Informasi Malaysia Terkini dan Terbaru Hari ini ...](https://www.detik.com/tag/malaysia/)
+- [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/?m=1)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 | 最新中国ニュース | ロイター](https://www.reuters.com/jp/world/china/)
+- [中国・台湾 < 国際 - 産経ニュース](https://www.sankei.com/world/china/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [Xinhua - jp. news .cn](https://jp.news.cn/)
+- [中国・習近平政権 関連ニュース：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [「中国」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [ロシア - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/russia/)
+- [ロシア | 最新ロシアニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [「ロシア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [ロシア - BBCニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア の新聞/ ニュース /各種情報](https://jp.newsconc.com/world/europe/russia.html)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル日報の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [ブラジル - BBCニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+- [南米の鼓動をキャッチ！ ブラジル日報](https://www.brasilnippou.com/)
+- [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+

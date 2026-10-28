@@ -389,3 +389,40 @@ Tags: `Myanmar (English)` `2026-10`
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### France(検索日時 / searched at: 2026-10-27)
+
+Tags: `France` `2026-10`
+
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+- [France 24 - Infos, news & actualités - L'information ...](https://www.france24.com/fr/)
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [Politique : dernières actualités et infos en direct - 20 Minutes](https://www.20minutes.fr/politique/)
+- [Ouest-France : toute l'actualité en direct, l'info en continu en ...](https://www.ouest-france.fr/)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [Egypt News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/eg/)
+- [Egypt: headlines today | Africa Front Page](https://www.africafrontpage.com/egypt)
+- [Egypt – Dailynewsegypt](https://www.dailynewsegypt.com/category/egypt/)
+- [Egypt Today | Egypt News | Latest News From Egypt .](https://www.egypt-today.com/en/)
+- [Dailynewsegypt – Egypt’s Only Daily Independent …](https://www.dailynewsegypt.com/)
+- [Egypt News: Latest & Breaking Egypt News Headlines ...](https://7news.com.au/news/egypt)
+- [Egypt Today | Egypt Latest News | Breaking News | Egypt Now](https://www.egypt-today.com/en/news)
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+

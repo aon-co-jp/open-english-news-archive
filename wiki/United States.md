@@ -553,3 +553,28 @@ Tags: `Germany (Japanese)` `2026-10`
 - [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 - [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
 
+### United States(検索日時 / searched at: 2026-10-27)
+
+Tags: `United States` `2026-10`
+
+- [Associated Press News: Breaking News | Latest News Today](https://apnews.com/)
+- [ABC News - Breaking News, Latest News and Videos](https://abcnews.com/)
+- [Breaking News, Latest News and Videos | CNN](https://www.cnn.com/)
+- [USA News Today | Latest USA & White House News - NewsNow](https://www.newsnow.com/us/US)
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [United States News: Latest & Breaking USA News ...](https://7news.com.au/news/united-states)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [イラン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [「イラン」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [イラン 大統領の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%83%A9%E3%83%B3%E5%A4%A7%E7%B5%B1%E9%A0%98.html)
+- [「イラン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10110)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+

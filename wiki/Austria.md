@@ -504,3 +504,15 @@ Tags: `Austria` `2026-10`
 - [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
 - [BR24](https://de.wikipedia.org/wiki/BR24)
 
+### Austria(検索日時 / searched at: 2026-10-27)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [Aktuelle Politik-Nachrichten und News aus Deutschland](https://www.allgemeine-zeitung.de/politik/politik-deutschland/)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
+

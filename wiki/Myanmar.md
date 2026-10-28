@@ -595,3 +595,16 @@ Tags: `Italy (English)` `2026-10`
 - [Fox News](https://en.wikipedia.org/wiki/Fox_News)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Myanmar(検索日時 / searched at: 2026-10-27)
+
+Tags: `Myanmar` `2026-10`
+
+- [ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက ...](https://www.bbc.com/burmese)
+- [မြန်မာသတင်း - DVB Burmese](https://burmese.dvb.no/categories/news)
+- [သတင်း Archives - Myanmar Now](https://myanmar-now.org/mm/news/category/news/)
+- [ထူးခြားသတင်းများ | Ministry Of Information](https://www.moi.gov.mm/breaking-news)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [News | နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm/news)
+- [နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm)
+- [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
+
