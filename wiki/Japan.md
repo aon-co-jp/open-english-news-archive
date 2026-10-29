@@ -486,3 +486,64 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
 - [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
 
+### Japan(検索日時 / searched at: 2026-10-28)
+
+Tags: `Japan` `2026-10`
+
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [最新の主要ニュース - ライブドアニュース](https://news.livedoor.com/topics/category/main/)
+- [Google ニュース - 日本 - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE5mTTJRU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [国内ニュース - Yahoo!ニュース](https://news.yahoo.co.jp/categories/domestic)
+- [読売新聞 : きょうの最新ニュース・速報：発行部数No.1](https://www.yomiuri.co.jp/)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [ロシア | 最新ロシアニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [ロシア - BBCニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [ロシア - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/russia/)
+- [ロシアのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/russia)
+- [Google ニュース - ロシア - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFppYm5vU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [ウクライナ情勢 | 最新ウクライナニュース | ロイター](https://www.reuters.com/jp/world/ukraine/)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [「アフガニスタン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [アフガニスタン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン - 。今日の最新ニュースと主な出来事。 - Sputnik ...](https://sputniknews.jp/geo_afghanistan/)
+- [Afghanistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン - BBCニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - YouTube](https://www.youtube.com/watch?v=QRZ13r6mEZc)
+- [アフガニスタン 最新情報 タリバンが実権握る - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3.html)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [Russia News: Latest & Breaking Russian News Headlines ...](https://7news.com.au/news/russia)
+- [Russia news - breaking stories, video and analysis | CNN](https://www.cnn.com/world/europe/russia)
+- [Inside Russia — News from the front](https://insiderussia.com/)
+- [Russia | Russia | Today's latest from Al Jazeera](https://www.aljazeera.com/where/russia/)
+- [Russian Federation (The) Breaking News Headlines Today ...](https://ground.news/interest/russia)
+- [Russia News - Latest Russia News, Breaking Russia News ...](https://www.wionews.com/tags/russia)
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/russia/)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス、ニュースと展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「スイス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「スイス」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [スイスのニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [スイス：ニュースまとめ【10/27更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3508/)
+

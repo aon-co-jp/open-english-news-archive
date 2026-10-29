@@ -491,3 +491,16 @@ Tags: `Italy (English)` `2026-10`
 - [Italy - Euronews](https://www.euronews.com/tag/italy)
 - [Italy News Today in English | Latest Italy News - NewsNow](https://www.newsnow.co.uk/h/World+News/Europe/Southern+Europe/Italy)
 
+### Israel(検索日時 / searched at: 2026-10-28)
+
+Tags: `Israel` `2026-10`
+
+- [Israel News | Israel.com](https://www.israel.com/news)
+- [Israel Breaking News Headlines Today | Ground News](https://ground.news/interest/israel)
+- [Israel News - CNBC](https://www.cnbc.com/israel-news/?msockid=19d3d5411ef76e89356dcd411fd46fbc)
+- [Israel news, updates on the war with Hamas - CNN](https://www.cnn.com/world/middleeast/israel)
+- [Israel - BBC News](https://www.bbc.com/news/topics/c302m85q5ljt)
+- [The Times of Israel | News from Israel, the Middle East and ...](https://www.timesofisrael.com/)
+- [Israel Gaza war | Latest News & Updates | BBC News](https://www.bbc.com/news/topics/c2vdnvdg6xxt)
+- [Israel National News](https://www.israelnationalnews.com/)
+

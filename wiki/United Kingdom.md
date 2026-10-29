@@ -589,3 +589,12 @@ Tags: `Afghanistan (Japanese)` `2026-10`
 - [アフガニスタン ・タリバン暫定政権 - 朝日新聞](https://www.asahi.com/topics/AP-d8d5fa8d-4c92-484a-b1c5-32e9ff6dc3a3/)
 - [パキスタンが アフガニスタン の首都など空爆、越境攻撃が激化](https://www.bbc.com/japanese/articles/c0q3pnd55lno)
 
+### United Kingdom(検索日時 / searched at: 2026-10-28)
+
+Tags: `United Kingdom` `2026-10`
+
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+

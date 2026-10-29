@@ -711,3 +711,40 @@ Tags: `France (Japanese)` `2026-10`
 - [パリの ニュース ：地域情報・文化・トレンドをチェック](https://www.sortiraparis.com/ja/nyusu/pari-de)
 - [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
 
+### Russia(検索日時 / searched at: 2026-10-28)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Россия - последние новости сегодня - РИА Новости](https://ria.ru/location_rossiyskaya-federatsiya/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Новости России — последние и главные новости ...](https://ren.tv/news/v-rossii)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Лента новостей в режиме реального времени ...](https://www.kommersant.ru/lenta)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [South Korea News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/kr/)
+- [South Korea News Today | Latest Seoul & Korea News ...](https://www.newsnow.com/us/World/Asia/South+Korea)
+- [Korea (the Republic Of) Breaking News Headlines Today ...](https://ground.news/interest/south-korea)
+- [South Korea News: Latest & Breaking South Korea News ...](https://7news.com.au/news/south-korea)
+- [South Korea news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/south-korea)
+- [South Korea Latest Headlines | nooze.news](https://nooze.news/kr)
+- [South Korea News | Today's Latest Stories | Reuters](https://www.reuters.com/world/south-korea/)
+- [Google News - South Korea - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp4WkRNU0FuWnBLQUFQAQ?hl=en-US&ceid=US:en)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [台湾情勢 | 最新台湾情勢ニュース | ロイター](https://www.reuters.com/jp/world/taiwan/)
+- [フォーカス台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [台湾 問題の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E5%8F%B0%E6%B9%BE%E5%95%8F%E9%A1%8C.html)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [もっと 台湾 ｜ 台湾 旅行に役立つグルメ・ ニュース ・観光情報 ...](https://motto.tw/)
+- [台湾 新聞- 日台に関する ニュース](https://taiwannews.jp/)
+

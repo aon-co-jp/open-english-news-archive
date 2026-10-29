@@ -426,3 +426,28 @@ Tags: `Egypt (English)` `2026-10`
 - [Egypt Today | Egypt Latest News | Breaking News | Egypt Now](https://www.egypt-today.com/en/news)
 - [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
 
+### France(検索日時 / searched at: 2026-10-28)
+
+Tags: `France` `2026-10`
+
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [France 24 - Infos, news & actualités - L'information ...](https://www.france24.com/fr/)
+- [Ouest-France : toute l'actualité en direct, l'info en …](https://www.ouest-france.fr/)
+- [20 Minutes - Toute l’actualité en direct et les dernières infos ...](https://www.20minutes.fr/)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Germany News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/de/)
+- [Germany News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/germany/)
+- [Latest news from Germany in English | Deutschland in English](https://deutschlandinenglish.com/)
+- [Germany News | Germany News Today - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/Germany)
+- [Germany News: Latest & Breaking Germany News ...](https://7news.com.au/news/germany)
+- [Germany News - Latest Germany News, Breaking Germany ...](https://www.wionews.com/tags/germany)
+- [News and current affairs from Germany and around the world](https://www.dw.com/en/top-stories/s-9097)
+- [Germany | News and in-depth reporting from Berlin and beyond](https://www.dw.com/en/germany/s-1432)
+

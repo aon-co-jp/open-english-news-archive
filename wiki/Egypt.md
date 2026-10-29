@@ -468,3 +468,74 @@ Tags: `Tajikistan (Japanese)` `2026-10`
 - [中国首相、 タジキスタン との安全保障協力深化呼びかけ …](https://news.yahoo.co.jp/articles/62b9cabd2515390f265d16b2a0c077122da4d717)
 - [ニュース 及びイベント | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/information/news-and-events-ja?page=8)
 
+### Egypt(検索日時 / searched at: 2026-10-28)
+
+Tags: `Egypt` `2026-10`
+
+- [دار أخبار اليوم](https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%8A%D9%88%D9%85)
+- [القاهرة الإخبارية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9)
+- [رئيس مصر](https://ar.wikipedia.org/wiki/%D8%B1%D8%A6%D9%8A%D8%B3_%D9%85%D8%B5%D8%B1)
+- [مصر](https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1)
+- [انتخابات الرئاسة المصرية 2030](https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2030)
+- [محمد نجيب](https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%AC%D9%8A%D8%A8)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/fr/)
+- [France News: Latest & Breaking France News Headlines ...](https://7news.com.au/news/france)
+- [France news - breaking stories, video, analysis and …](https://www.cnn.com/world/europe/france)
+- [France 24 - International breaking news, top stories and headlines](https://www.france24.com/en/)
+- [France News | Latest French News - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/France)
+- [France - BBC News](https://www.bbc.com/news/topics/c302m85qenyt)
+- [France News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/france/)
+- [Latest news reports on FRANCE, French politics and …](https://www.france24.com/en/france/)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジルの今日を、毎日ひとまとめに](https://brazil-issue.com/ja/)
+- [ブラジル 情報リンク集](https://www.kufs.ac.jp/Brazil/03docentes/sumida/link.br.html)
+- [Brazil：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [南米の鼓動をキャッチ！ ブラジル日報](https://www.brasilnippou.com/)
+- [ブラジルのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/brazil)
+- [ブラジル - BBCニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+- [ブラジル：ニュースまとめ【10/28更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/4476/)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [韓国 | 最新韓国ニュース | ロイター](https://www.reuters.com/jp/world/korea/)
+- [中央日報 - 韓国の最新ニュースを日本語でサービスします](https://japanese.joins.com/)
+- [韓国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/south-korea)
+- [最新の韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [韓国 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/306d5b1c48e24febedba3bf58a5307599f68e2b5501eccfda9f7fb8064c3f559)
+- [韓国ニュース・一般総合 | wowKorea（ワウコリア）](https://www3.wowkorea.jp/news/knews/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [韓国のニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/south-korea)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Daily Austria News | Breaking News & Headlines from Austria](https://dailyaustrianews.com/)
+- [Austria Breaking News Headlines Today | Ground News](https://ground.news/interest/austria)
+- [Austria - Euronews](https://www.euronews.com/tag/austria)
+- [Latest News from Austria - The Local](https://www.thelocal.at/category/austria-news)
+- [Austria - BBC News](https://www.bbc.com/news/topics/c1038wnxny7t)
+- [Google News - Austria - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXd29BQVAB)
+- [Vienna, Austria Local News Today: Breaking Stories ...](https://voxorb.com/news/vienna-austria)
+- [news.ORF.at](https://orf.at/)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 | 最新中国ニュース | ロイター](https://www.reuters.com/jp/world/china/)
+- [最新の中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [中国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/china)
+- [中国・習近平政権 関連ニュース：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [「中国」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「中国」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10086)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+

@@ -626,3 +626,40 @@ Tags: `South Korea (Japanese)` `2026-10`
 - [「 韓国 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
 - [韓国 ・朝鮮半島に関する ニュース と解説 - 日本経済新聞](https://www.nikkei.com/international/korea/)
 
+### Cambodia(検索日時 / searched at: 2026-10-28)
+
+Tags: `Cambodia` `2026-10`
+
+- [Cambodia News: - Khmer News - ពត៌មាន ...](https://www.cambodia.org/news/)
+- [Post Khmer Insights: Accurate Cambodia National News](https://www.postkhmer.com/)
+- [ព័ត៌មាន កម្ពុជា - Cambodia News - វីអូអេ - VOA ...](https://khmer.voanews.com/z/2277)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+- [កម្ពុជា៖ ព័ត៌មាន, podcasts, វីដេអូ និង ...](https://www.rfi.fr/km/%E1%9E%96%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%99%E1%9E%82%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9E%B9%E1%9F%87/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [កម្ពុជា - RFI - Radio France Internationale](https://www.rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [ព័ត៌មានជាតិ - ព័ត៌មានថ្មី ...](https://khmer.cambojanews.com/news/national/)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [「イタリア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「イタリア」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [Italy：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア - BBCニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [イタリアのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/italy)
+- [「 イタリア 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー最新ニュース・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマーニュース -ミャンマーの最新ニュース・最新情報をお ...](https://www.myanmar-news.asia/)
+- [ミャンマーの経済ニュース・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [「ミャンマー」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [ミャンマー の現状を伝える「JMSA ミャンマーニュース 」](https://www.japan-myanmar.com/myanmarnewsblog/)
+

@@ -555,3 +555,40 @@ Tags: `Italy (Japanese)` `2026-10`
 - [「イタリア」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
 - [イタリア - BBCニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
 
+### Brazil(検索日時 / searched at: 2026-10-28)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Notícias ao Minuto Brasil - Última hora](https://www.noticiasaominuto.com.br/ultima-hora)
+- [Últimas Notícias de hoje | Fique ligado na CNN Brasil](https://www.cnnbrasil.com.br/ultimas-noticias/)
+- [CNN Brasil | Notícias Ao Vivo do Brasil e do Mundo](https://www.cnnbrasil.com.br/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [Egypt News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/eg/)
+- [Egypt: headlines today | Africa Front Page](https://www.africafrontpage.com/egypt)
+- [Egypt Today | Egypt News | Latest News From Egypt .](https://www.egypt-today.com/en/)
+- [Egypt News: Latest & Breaking Egypt News Headlines ...](https://7news.com.au/news/egypt)
+- [Egypt – Dailynewsegypt](https://www.dailynewsegypt.com/category/egypt/)
+- [Dailynewsegypt – Egypt’s Only Daily Independent …](https://www.dailynewsegypt.com/)
+- [Egypt Today | Egypt Latest News | Breaking News | Egypt Now](https://www.egypt-today.com/en/news)
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- [News today from Switzerland - SWI swissinfo.ch](https://www.swissinfo.ch/eng/latest-news/)
+- [Switzerland News — Today's Headlines on the News Map](https://globalnewsmap.net/country/switzerland)
+- [News from Switzerland Today - SWI swissinfo.ch](https://www.swissinfo.ch/eng/briefing/)
+- [Switzerland Breaking News Headlines Today | Ground News](https://ground.news/interest/switzerland)
+- [Switzerland News Today | SchweizHeute](https://schweizheute.com/en)
+- [Times of Switzerland - Swiss News in English: Politics, Law ...](https://timesofswitzerland.ch/)
+- [Geneva Breaking News Headlines Today | Ground News](https://ground.news/interest/geneva-switzerland)
+- [Google News - Switzerland - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0ZW5BU0FuSjFLQUFQAQ?hl=en-US&ceid=US%3Aen)
+

@@ -513,3 +513,28 @@ Tags: `Germany (Japanese)` `2026-10`
 - [「ドイツ」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
 - [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 
+### Philippines(検索日時 / searched at: 2026-10-28)
+
+Tags: `Philippines` `2026-10`
+
+- [Pilipinas: balita – all.news](https://www.all.news/news/philippines/filipino/)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Pilipino Star Ngayon - Probinsiya | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/probinsiya)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/headlines/balita-ngayon)
+- [Pilipino Star Ngayon - Metro | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/metro)
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Balita | Balitambayan - GMA Network](https://www.gmanetwork.com/news/balitambayan/balita/)
+- [Latest Philippine News - Bombo Radyo News](https://www.bomboradyo.com/)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ情勢 | 最新ウクライナニュース | ロイター](https://www.reuters.com/jp/world/ukraine/)
+- [ウクライナ情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [ウクライナのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/ukraine)
+- [ロシア | 最新ロシアニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [新着ニュース](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ侵攻 - BBCニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [Google ニュース - ウクライナ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGQwTWpFU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+

@@ -470,3 +470,64 @@ Tags: `Switzerland` `2026-10`
 - [Schweiz: Aktuelle News, Bilder & Nachrichten - WELT](https://www.welt.de/themen/schweiz/)
 - [Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe ...](https://www.tagesanzeiger.ch/)
 
+### Switzerland(検索日時 / searched at: 2026-10-28)
+
+Tags: `Switzerland` `2026-10`
+
+- [Schweiz - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/schweiz)
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt](https://www.20min.ch/)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Schweiz – News und Hintergründe zum Inland | NZZ Nachrichten](https://www.nzz.ch/schweiz)
+- [Aktuelle News und Schlagzeilen aus Schweiz und Welt](https://www.bluewin.ch/de/news)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Japan Today](https://japantoday.com/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/)
+- [Japan News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/jp/)
+- [Japan - News - The Japan Times](https://www.japantimes.co.jp/news/japan/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/?shr=p)
+- [Today’s Top Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/)
+- [The Japan Times - News On Japan, Business News, Opinion ...](https://www.japantimes.co.jp/)
+- [Japan Daily News - The Mainichi](https://mainichi.jp/english/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand News: Latest & Breaking Thailand News Headlines ...](https://7news.com.au/news/thailand)
+- [Thailand news - breaking news, video, headlines and opinion ...](https://www.cnn.com/world/asia/thailand)
+- [Thailand News Articles, Breaking Stories & Headlines](https://thethaiger.com/news/national)
+- [Today's Thailand's top headlines - Thai Times](https://thaitimes.com/today-s-thailand-s-top-headlines)
+- [Thailand News Today | Latest Thailand News - NewsNow ...](https://www.newsnow.com/us/World/Asia/Thailand?type=ln)
+- [Thailand News Today: Breaking News & Top Stories | Thaiger](https://thethaiger.com/)
+- [Bangkok Post - Thailand news | Latest & Breaking News, Live ...](https://www.bangkokpost.com/thailand)
+- [Bangkok Post - The world’s window in Thailand | Breaking ...](https://www.bangkokpost.com/)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [イラン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [「イラン」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イランのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/iran)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [Google ニュース - イラン - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [「イラン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10110)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [イランの関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/06fd6249c78927c72400/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [Iran News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/ir/)
+- [Iran | Iran | Today's latest from Al Jazeera](https://www.aljazeera.com/where/iran/)
+- [Iran News: Latest Iran News Headlines, Iran Breaking News ...](https://www.timesnownews.com/topic/iran)
+- [Iran News: Latest & Breaking Iranian News Headlines ...](https://7news.com.au/news/iran)
+- [Iran News | Iran Latest Updates - NewsNow](https://www.newsnow.com/us/World/Middle+East/Iran)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FuUnlLQUFQAQ)
+- [Home | Iran International](https://www.iranintl.com/en)
+- [Latest Iran News, Breaking Iran News, Iran News Headlines ...](https://www.wionews.com/tags/iran)
+

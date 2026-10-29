@@ -578,3 +578,28 @@ Tags: `Iran (Japanese)` `2026-10`
 - [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
 - [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
 
+### United States(検索日時 / searched at: 2026-10-28)
+
+Tags: `United States` `2026-10`
+
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [USA News Today | Latest USA & White House News - NewsNow](https://www.newsnow.com/us/US)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+- [Associated Press News: Breaking News | Latest News Today](https://apnews.com/)
+- [Google News - U.S. - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en)
+- [ABC News - Breaking News, Latest News and Videos](https://abcnews.com/)
+- [Breaking News, Latest News and Videos | CNN](https://www.cnn.com/)
+- [NBC News – Breaking Headlines and Video Reports on World ...](https://www.nbcnews.com/)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Afghanistan News: Latest Afghanistan News Today | AP News](https://apnews.com/hub/afghanistan)
+- [Afghanistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/afghanistan/)
+- [Afghanistan - BBC News](https://www.bbc.com/news/topics/c8nq32jw5r5t)
+- [Afghanistan Breaking News Headlines Today | Ground …](https://ground.news/interest/afghanistan)
+- [Afghanistan news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/afghanistan)
+- [Afghanistan News | Afghanistan Latest Updates 24/7 ...](https://www.newsnow.com/us/World/Asia/Afghanistan?type=ln)
+- [Afghanistan News | Afghanistan Latest Updates 24/7 - NewsNow](https://www.newsnow.com/ca/World/Asia/Afghanistan)
+- [Google News - Afghanistan - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BrWkJJQ2MzSW9BQVAB)
+

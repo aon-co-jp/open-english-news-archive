@@ -506,3 +506,28 @@ Tags: `Brazil (English)` `2026-10`
 - [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ)
 - [Brazil news in English - NewsNow](https://www.newsnow.com/us/World/Latin+America/South+America/Brazil)
 
+### Thailand(検索日時 / searched at: 2026-10-28)
+
+Tags: `Thailand` `2026-10`
+
+- [ข่าว ข่าววันนี้ ข่าวด่วนทั่ว ...](https://thethaiger.com/th/thai-news/)
+- [Thaiger ข่าวประเทศไทย : ข่าววันนี้ ...](https://thethaiger.com/th/)
+- [ข่าวเด่นวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news)
+- [ข่าวล่าสุดวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news/today)
+- [ข่าวไทยรัฐ ข่าวล่าสุด ข่าวด่วน ...](https://www.thairath.co.th/news)
+- [ข่าวทั่วไทย รวมข่าว ...](https://www.thairath.co.th/news/local)
+- [ข่าว | อมรินทร์ ทีวี ช่อง 34 | AmarinTV HD 34](https://www.amarintv.com/news)
+- [ข่าว ข่าววันนี้ ข่าวล่าสุด ... - BBC](https://www.bbc.com/thai)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「エジプト」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [エジプトのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/egypt)
+- [Egypt：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [Google ニュース - エジプト - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpyTlRRU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [エジプト：ニュースまとめ【10/27更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3511/)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt/page3)
+- [エジプトの最新ニュース：朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html?msockid=19d3d5411ef76e89356dcd411fd46fbc)
+

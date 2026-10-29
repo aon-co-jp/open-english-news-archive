@@ -1003,3 +1003,16 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
 - [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
 
+### Iran(検索日時 / searched at: 2026-10-28)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [عصر ایران](https://www.asriran.com/)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [پایگاه خبری جماران | اخبار روز ایران و جهان](https://www.jamaran.news/)
+- [خبر فوری - اخبار فوری و لحظه ای | در لحظه با خبر ...](https://www.khabarfoori.com/)
+- [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان ...](https://www.khabaronline.ir/)
+- [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
+

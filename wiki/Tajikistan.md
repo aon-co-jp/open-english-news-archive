@@ -749,3 +749,28 @@ Tags: `Tajikistan` `2026-10`
 - [Новости Таджикистана — ИмрӯзNews](https://imruz.tj/category/news-of-tajikistan/)
 - [Farmatsevt | Имрӯз барои ҳар як фарди Тоҷикистон ...](https://www.instagram.com/reel/DeF1uHKoExd/)
 
+### Tajikistan(検索日時 / searched at: 2026-10-28)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Хабарҳо - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/khabarho/)
+- [Тоҷикистон — ИмрӯзNews](https://imruz.tj/tj/category/news-of-tajikistan-tj/)
+- [Хабарҳои Тоҷикистон ва ҷаҳон - Istiklol.tj](https://istiklol.tj/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [Радиои «Имрӯз» — Википедия](https://tg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B8_%C2%AB%D0%98%D0%BC%D1%80%D3%AF%D0%B7%C2%BB)
+- [Имрӯз дар баъзе минтақаҳои Тоҷикистон борон ...](https://khovar.tj/2026/10/imr-z-dar-baze-minta-a-oi-to-ikiston-boron-meborad-3/)
+- [ИмрӯзNews](https://imruz.tj/)
+- [Субҳ ба хайр, Тоҷикистон! Як рӯз дар таърих ...](https://asiaplus.news/tg/2026/10/28/subh-ba-hajr-tojikiston-yak-ruz-dar-tarih-zodruzi-shahsiyatho-vazi-havo-baroi-28-oktyabri-soli-2025/)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Tajikistan Breaking News Headlines Today | Ground News](https://ground.news/interest/tajikistan)
+- [Tajikistan Today | Breaking News & Economy](https://tajikistantoday.com/)
+- [Tajikistan | Tajikistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/tajikistan)
+- [Tajikistan News - Latest Tajikistan News, Breaking ...](https://www.wionews.com/tags/tajikistan)
+- [Latest Tajikistan News - Breaking Tajikistan Updates Today](https://caspianpost.com/tajikistan)
+- [Asia-Plus — News from Tajikistan and Central Asia](https://asiaplus.news/en/homepage-en/)
+- [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
+- [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
+

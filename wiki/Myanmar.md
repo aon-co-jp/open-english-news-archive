@@ -608,3 +608,28 @@ Tags: `Myanmar` `2026-10`
 - [နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm)
 - [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
 
+### Myanmar(検索日時 / searched at: 2026-10-28)
+
+Tags: `Myanmar` `2026-10`
+
+- [သတင်း Archives - Myanmar Now](https://myanmar-now.org/mm/news/category/news/)
+- [ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက ...](https://www.bbc.com/burmese)
+- [ထူးခြားသတင်းများ | Ministry Of Information](https://www.moi.gov.mm/breaking-news)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [News | နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm/news)
+- [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
+- [ဗွီအိုအေ မြန်မာဌာန](https://burmese.voanews.com/)
+- [DVB - Democratic Voice of Burma](https://burmese.dvb.no/)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar News — Today's Headlines on the News Map](https://globalnewsmap.net/country/myanmar)
+- [Myanmar news headlines - Asean News Today](https://aseannewstoday.com/myanmar-news-headlines/)
+- [Myanmar Breaking News Headlines Today | Ground News](https://ground.news/interest/myanmar-burma)
+- [Myanmar News Today | Latest Burma & Junta News - NewsNow](https://www.newsnow.com/ng/World/Asia/Myanmar)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [Myanmar | Myanmar | Today's latest from Al Jazeera](https://www.aljazeera.com/where/myanmar/)
+- [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
+- [Myanmar - BBC News](https://www.bbc.com/news/topics/c302m85q5vzt)
+

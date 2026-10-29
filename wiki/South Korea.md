@@ -535,3 +535,40 @@ Tags: `South Korea` `2026-10`
 - [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
 - [오늘 고속도로 통행량 554만대로 예상돼 - 주요 뉴스 | 알림마당 | 한국 도로교통공단 tbn 교통방송](https://www.tbn.or.kr/notice/tbnnews2_view.tbn?BOARD_ID=N011&newsCD=N000000765131)
 
+### South Korea(検索日時 / searched at: 2026-10-28)
+
+Tags: `South Korea` `2026-10`
+
+- [[부동산 뉴스 오늘 ] 한국 공인중개사협회, 40년 역사 넘어 ‘법정단체 시대’ 열었다!](https://blog.naver.com/headn_/224434142541)
+- [FOX 오늘 의 이슈](https://www.youtube.com/)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [2026년 오늘 의 경제 주요 뉴스 브리핑](https://newsbon9.blogspot.com/2026/05/)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [오늘 고속도로 통행량 554만대로 예상돼 - 주요 뉴스 | 알림마당 | 한국 도로교통공단 tbn 교통방송](https://www.tbn.or.kr/notice/tbnnews2_view.tbn?BOARD_ID=N011&newsCD=N000000765131)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+- [가장빠른 주식 뉴스 국내주식 뉴스 오늘](https://overseasstockevents.com/%ea%b0%80%ec%9e%a5%eb%b9%a0%eb%a5%b8-%ec%a3%bc%ec%8b%9d%eb%89%b4%ec%8a%a4-%ea%b5%ad%eb%82%b4%ec%a3%bc%ec%8b%9d-%eb%89%b4%ec%8a%a4-%ec%98%a4%eb%8a%98/)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- [Taiwan News: Latest & Breaking Taiwan News Headlines ...](https://7news.com.au/news/taiwan)
+- [Taiwan Breaking News Headlines Today | Ground News](https://ground.news/interest/taiwan)
+- [Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/)
+- [Taiwan news - breaking stories, video, analysis and opinion | CNN](https://www.cnn.com/world/asia/taiwan)
+- [Taiwan News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/taiwan/)
+- [Taiwan News - Taipei Times](https://www.taipeitimes.com/News/taiwan)
+- [Google News - Taiwan - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFptTXpJU0FuUnlLQUFQAQ?hl=en-US&ceid=US:en)
+- [Latest | Taiwan News - Voice of the People, Bridge to the World](https://www.taiwannews.com.tw/category/sys_LatestNews)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [Ukraine News Today Live | War with Russia - NewsNow](https://www.newsnow.com/us/World/Europe/Eastern+Europe/Ukraine)
+- [Ukraine News today - Latest news & Video | RBC-Ukraine](https://newsukraine.rbc.ua/)
+- [Latest Ukraine and Russia at War News | Top Headlines on ...](https://www.reuters.com/world/ukraine-russia-war/)
+- [Ukraine | Ukraine | Today's latest from Al Jazeera](https://www.aljazeera.com/where/ukraine/)
+- [Get the Latest Ukraine News Today - Kyiv Post](https://www.kyivpost.com/)
+- [The Kyiv Independent — News from Ukraine, Eastern Europe](https://kyivindependent.com/)
+- [Ukraine War | Latest News & Updates| BBC News](https://www.bbc.com/news/war-in-ukraine)
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+

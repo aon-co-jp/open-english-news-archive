@@ -540,3 +540,40 @@ Tags: `Myanmar (English)` `2026-10`
 - [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
 - [News Archives - Myanmar Now](https://myanmar-now.org/en/news/category/news/)
 
+### China(検索日時 / searched at: 2026-10-28)
+
+Tags: `China` `2026-10`
+
+- [头条新闻_今日中国](http://www.baidu.com/link?url=_sJNJsW6d-WP2qjjPgkqhoElwoggVrTB-mqQkXLKVn0j3s7HfDPVx2HKnalkum4_1wEb6Zp4B8yXAdIQzZp3CK)
+- [今日头条](http://www.baidu.com/link?url=UscPgN_6ofOqEzvajO7M9ff83wM3hJ2gCUwpX1BnGz6eDnMZF794Px82ob1b6jCH)
+- [中国新闻 网_梳理天下新闻](http://www.baidu.com/link?url=A78he6FA0Op1h2PCnhF3uBrGFu-0eofYEF8yw25Y0Oe)
+- [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=t0Jj9iG8edeg3PnBV5fheK_WLjxKnADZLt2xMcVPvOH9YEf6rH14URKK4IH9e1m22Wq-_a9TP72-8H4hVzbgxOzdQW5VGq425wypxIGLIBxU1r0rOS1Fiv7g_7ThHqJlCUQcWVRopudZZ8ecdQ4wJq)
+- [今日中国 _ 新闻 频道_央视网(cctv.com)](http://www.baidu.com/link?url=_sJNJsW6d-WP2qjjPgkqhg_eqy4aoOLQNVvZlgaHafxiGjvmfHpwPTyHZfcvni-aIZrzwHzMyxn-RnpbGOeJVs5Xm12FzPg4Moyj5Bk7qIK)
+- [中国新闻 _央视网(cctv.com)](http://www.baidu.com/link?url=A78he6FA0Op1h2PCnhF3uFMflb7beo9kOYPV0BhSVXuUVblnyht0mGJ__LUu4fyo)
+- [今日 国内 新闻 _最新国内新闻报道_最近国内热点新闻评论-手机闽南网](http://www.baidu.com/link?url=_sJNJsW6d-WP2qjjPgkqhkRKZyTvQUw0FDVn2Jj1OFxAw9E-7QORASaijfNIvCED)
+- [中国新闻 _央视网(cctv.com)](http://www.baidu.com/link?url=UscPgN_6ofOqEzvajO7M9azA3lfHc1BKVDzPAS3jNF9xFb99EkyDy58nQ0APuK1w1kV-ucSwdKt7A7zwy-K-KK)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Brazil News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/br/)
+- [Today in Brazil — Brazilian news in English](https://www.todayinbrazil.com/)
+- [Brazil - BBC News](https://www.bbc.com/news/topics/cmj34zmw77wt)
+- [Brazil news in English - NewsNow](https://www.newsnow.com/us/World/Latin+America/South+America/Brazil)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [Tajikistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [「タジキスタン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10129)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタンの最新ニュース：朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html?msockid=19d3d5411ef76e89356dcd411fd46fbc)
+- [今日の話題 - 毎日新聞](https://mainichi.jp/today/)
+

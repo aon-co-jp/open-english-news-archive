@@ -453,3 +453,16 @@ Tags: `Italy` `2026-10`
 - [Ultime notizie - Today](https://www.today.it/notizie/tutte/)
 - [Notizie Oggi - Scopri le ultime news con Canale Italia](https://canaleitalia.it/programmi/notizie-oggi/)
 
+### Italy(検索日時 / searched at: 2026-10-28)
+
+Tags: `Italy` `2026-10`
+
+- [Today - Ultime notizie dall'Italia e dal Mondo](https://www.today.it/)
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Ultime notizie dal mondo in tempo reale | Ansa](https://www.ansa.it/sito/notizie/topnews/index.shtml)
+- [Notizie dall'Italia: ultime notizie - StrettoWeb](https://www.strettoweb.com/notizie-italia/)
+- [Ultime Notizie di Politica italiana ed estera oggi – Tgcom24](https://www.tgcom24.mediaset.it/politica/)
+- [La Stampa - Ultime notizie di cronaca e news dall'Italia e dal ...](https://www.lastampa.it/)
+- [RaiNews | Le ultime notizie gratuite aggiornate in tempo reale](https://www.rainews.it/)
+- [Notizie Oggi - Scopri le ultime news con Canale Italia](https://canaleitalia.it/programmi/notizie-oggi/)
+

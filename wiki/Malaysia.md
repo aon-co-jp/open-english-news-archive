@@ -600,3 +600,16 @@ Tags: `Brazil (Japanese)` `2026-10`
 - [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
 - [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
 
+### Malaysia(検索日時 / searched at: 2026-10-28)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Berita dan Informasi Malaysia Terkini dan Terbaru Hari ini ...](https://www.detik.com/tag/malaysia/)
+- [Berita Terkini Malaysia - The Sun](https://thesun.my/berita/)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+- [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+

@@ -640,3 +640,64 @@ Tags: `China (English)` `2026-10`
 - [China News | Latest China Updates - NewsNow](https://www.newsnow.com/us/World/Asia/China)
 - [CGTN | Breaking News, China News, World News and …](https://en.cgtn.com/)
 
+### Ukraine(検索日時 / searched at: 2026-10-28)
+
+Tags: `Ukraine` `2026-10`
+
+- [Новини України і світу сьогодні. Головні і ...](https://glavcom.ua/)
+- [Головні новини України сьогодні - Espreso TV](https://espreso.tv/ukrayina)
+- [Новини України сьогодні — всі головні події ...](https://ukr.news/)
+- [Новини України - останні новини України ...](https://www.unian.ua/)
+- [ТСН • Новини України: останні, термінові та ...](https://tsn.ua/)
+- [Свіжі новини України та світу за сьогодні — delo.ua](https://delo.ua/news/)
+- [Новини - Останні новини України сьогодні | РБК ...](https://www.rbc.ua/)
+- [Новини України. Останні новини сьогодні онлайн ...](https://news.liga.net/ua)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [「ドイツ」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_germany/)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツの最新ニュース：朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html?msockid=19d3d5411ef76e89356dcd411fd46fbc)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Italian News in English: Today’s Headlines - Italia Mia](https://www.italiamia.com/italian-news-english/)
+- [Italy News Today — Latest Headlines & Breaking News](https://feedpals.com/italy/)
+- [Italy Breaking News Headlines Today | Ground News](https://ground.news/interest/italy)
+- [News from Italy: Today's Latest Updates](https://italien.news/en/latest-news/)
+- [Italy News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/it/)
+- [Italy News: Latest & Breaking Italy News Headlines & Updates ...](https://7news.com.au/news/italy)
+- [Italy - Euronews](https://www.euronews.com/tag/italy)
+- [Google News - Italy - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FuTnlLQUFQAQ)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [「ドイツ」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_germany/)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [「タイ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [日刊タイニュース | タイの政治、経済、社会に関する最新情報 ...](https://nikkanthainews.com/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイピックス — タイの最新ニュースを日本語で毎日配信](https://thai-picks.com/)
+- [Google ニュース - タイ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRtTVhnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイニュース速報ポータルサイトータイランド通信-ニュース ...](http://thai.news-agency.jp/articles/category/)
+

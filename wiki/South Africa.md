@@ -501,3 +501,16 @@ Tags: `South Africa` `2026-10`
 - [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
 - [IOL News | Latest South African News](https://www.iol.co.za/iol/news/south-africa/)
 
+### South Africa(検索日時 / searched at: 2026-10-28)
+
+Tags: `South Africa` `2026-10`
+
+- [News - SA Today](https://www.satodaynews.co.za/sa-today-news.html)
+- [South Africa news today: latest headlines, politics & economy ...](https://www.za24.news/)
+- [South Africa stories, breaking news and comment | The Citizen](https://www.citizen.co.za/news/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/iol/news/south-africa/)
+- [South Africa News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [Top Stories South Africa · Latest SA News · News.co.za](https://news.co.za/top-stories/)
+- [South Africa | News24](https://www.news24.com/SouthAfrica)
+
