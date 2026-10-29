@@ -17,6 +17,7 @@
 - [Israel](wiki/Israel.md)
 - [Italy](wiki/Italy.md)
 - [Japan](wiki/Japan.md)
+- [JP](wiki/JP.md)
 - [Malaysia](wiki/Malaysia.md)
 - [Myanmar](wiki/Myanmar.md)
 - [Netherlands](wiki/Netherlands.md)
