@@ -527,3 +527,15 @@ Tags: `Germany` `2026-10`
 - [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
 - [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
 
+### Germany(検索日時 / searched at: 2026-10-29)
+
+Tags: `Germany` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [WELT - Aktuelle Nachrichten, News, Hintergründe & Videos](https://www.welt.de/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
+

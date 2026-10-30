@@ -531,3 +531,16 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt/page3)
 - [エジプトの最新ニュース：朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html?msockid=19d3d5411ef76e89356dcd411fd46fbc)
 
+### Thailand(検索日時 / searched at: 2026-10-29)
+
+Tags: `Thailand` `2026-10`
+
+- [ข่าว ข่าววันนี้ ข่าวด่วนทั่ว ...](https://thethaiger.com/th/thai-news/)
+- [Thaiger ข่าวประเทศไทย : ข่าววันนี้ ...](https://thethaiger.com/th/)
+- [ข่าวเด่นวันนี้ | Thai PBS News ข่าวไทย ...](https://www.thaipbs.or.th/news)
+- [ข่าว ข่าววันนี้ ข่าวล่าสุด ... - BBC](https://www.bbc.com/thai)
+- [ข่าวไทยรัฐ ข่าวล่าสุด ข่าวด่วน ...](https://www.thairath.co.th/news)
+- [ข่าว ข่าววันนี้ ข่าวสด ข่าว ...](https://www.sanook.com/news/)
+- [Sanook - ข่าว ข่าววันนี้ ข่าวสด ข่าว ...](https://news.sanook.com/index.php)
+- [รัฐบาลไทย | ข่าว](https://www.thaigov.go.th/th/news)
+

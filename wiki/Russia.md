@@ -748,3 +748,16 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [もっと 台湾 ｜ 台湾 旅行に役立つグルメ・ ニュース ・観光情報 ...](https://motto.tw/)
 - [台湾 新聞- 日台に関する ニュース](https://taiwannews.jp/)
 
+### Russia(検索日時 / searched at: 2026-10-29)
+
+Tags: `Russia` `2026-10`
+
+- [Главные новости сегодня в России, а также самые ...](https://www.mk.ru/news/)
+- [Россия сегодня. Главные новости, Обзор мировых ...](https://www.rftoday.ru/)
+- [Россия - последние новости сегодня - РИА Новости](https://ria.ru/location_rossiyskaya-federatsiya/)
+- [Новости России и мира сегодня - Рамблер/новости](https://news.rambler.ru/)
+- [Лента новостей — РИА Новости — события в ...](https://ria.ru/lenta/index.html)
+- [Новости России и мира - главные новости сегодня ...](https://strana.life/)
+- [Дзен: последние новости России и мира сегодня](https://dzen.ru/news)
+- [Россия сегодня](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F)
+

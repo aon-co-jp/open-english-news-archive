@@ -1016,3 +1016,16 @@ Tags: `Iran` `2026-10`
 - [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان ...](https://www.khabaronline.ir/)
 - [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
 
+### Iran(検索日時 / searched at: 2026-10-29)
+
+Tags: `Iran` `2026-10`
+
+- [صفحه اصلی | Iran International](https://www.iranintl.com/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/)
+- [آخرین اخبار روز ایران و جهان ؛ خبرهای امروز ...](https://www.tasnimnews.ir/fa)
+- [خبرگزاری جمهوری اسلامی |صفحه اصلی | IRNA News Agency](https://www.irna.ir/)
+- [پارسیک - اخبار ایران - Parseek](https://www.parseek.com/Iran/)
+- [ایران اینترنشنال - پخش زنده - YouTube](https://www.youtube.com/c/IRANINTL/live)
+- [شهر خبر - تیتر جدیدترین و آخرین اخبار ایران و جهان](https://www.shahrekhabar.com/)
+- [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان ...](https://www.khabaronline.ir/)
+

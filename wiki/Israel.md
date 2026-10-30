@@ -504,3 +504,16 @@ Tags: `Israel` `2026-10`
 - [Israel Gaza war | Latest News & Updates | BBC News](https://www.bbc.com/news/topics/c2vdnvdg6xxt)
 - [Israel National News](https://www.israelnationalnews.com/)
 
+### Israel(検索日時 / searched at: 2026-10-29)
+
+Tags: `Israel` `2026-10`
+
+- [Israel News | Israel.com](https://www.israel.com/news)
+- [Israel Breaking News Headlines Today | Ground News](https://ground.news/interest/israel)
+- [Israel News - CNBC](https://www.cnbc.com/israel-news/?msockid=39d6db1d796a68ff3ee9c31c786a694d)
+- [Israel News - The Jerusalem Post](https://www.jpost.com/israel-news)
+- [Israel - BBC News](https://www.bbc.com/news/topics/c302m85q5ljt)
+- [The State of Israel · Daily Israeli News and Knowledge …](https://thestateofisrael.com/)
+- [Israel National News](https://www.israelnationalnews.com/)
+- [Google News - Israel - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE56Y0hvU0JXVnVMVWRDS0FBUAE?hl=en-IL&ceid=IL%3Aen)
+

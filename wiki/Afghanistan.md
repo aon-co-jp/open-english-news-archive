@@ -609,3 +609,28 @@ Tags: `China (English)` `2026-10`
 - [China News | Latest China Updates - NewsNow](https://www.newsnow.com/us/World/Asia/China)
 - [CGTN | Breaking News, China News, World News and …](https://en.cgtn.com/)
 
+### Afghanistan(検索日時 / searched at: 2026-10-29)
+
+Tags: `Afghanistan` `2026-10`
+
+- [افغانستان خبرونه - AfghanNow.net](https://afghannow.net/%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86/)
+- [پښتو SBS | د افغانستان د نن ورځې مهم خبرونه](https://www.sbs.com.au/language/pashto/ps/podcast-episode/afghanistan-update/mk0e90xx6)
+- [اخبار افغانستان - اطلاعات روز](https://www.etilaatroz.com/category/news/afghanistan/)
+- [کورپاڼه - افغان اتلان · پښتو](https://ps.afghanatalan.com/)
+- [BBC News, پښتو - کور پاڼه](https://www.bbc.com/pashto)
+- [کورنی | افغانستان انټرنشنل پښتو](https://www.afintl.com/pa)
+- [د نن ورځې مهم خبرونه | KDR News - Facebook](https://www.facebook.com/KDRNewsPashto/videos/%D8%AF-%D9%86%D9%86-%D9%88%D8%B1%DA%81%DB%90-%D9%85%D9%87%D9%85-%D8%AE%D8%A8%D8%B1%D9%88%D9%86%D9%87/2273575576707151/)
+- [افغانستان - جدیدترین و آخرین اخبار افغانستان ...](https://www.shahrekhabar.com/tag/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+
+
+Tags: `Afghanistan (Japanese)` `2026-10`
+
+- [アフガニスタン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「アフガニスタン」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [Afghanistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - YouTube](https://www.youtube.com/watch?v=QRZ13r6mEZc)
+- [アフガニスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/0bedd85b653193eb89cb1131c79b5e035495e267faff7829d380f75c4b2f6f66)
+- [アフガニスタン のいま | UNHCR 日本](https://www.unhcr.org/jp/spotlight-2021-12-afghanistan-on-the-brink)
+

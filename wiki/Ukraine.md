@@ -701,3 +701,16 @@ Tags: `Thailand (Japanese)` `2026-10`
 - [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
 - [タイニュース速報ポータルサイトータイランド通信-ニュース ...](http://thai.news-agency.jp/articles/category/)
 
+### Ukraine(検索日時 / searched at: 2026-10-29)
+
+Tags: `Ukraine` `2026-10`
+
+- [Новини України і світу сьогодні. Головні і ...](https://glavcom.ua/)
+- [Головні новини України сьогодні - Espreso TV](https://espreso.tv/ukrayina)
+- [Новини України - останні новини України ...](https://r.unian.ua/)
+- [ᐈ Головні новини України та світу за сьогодні](https://www.ukr.net/news/main.html)
+- [Свіжі новини України та світу за сьогодні — delo.ua](https://delo.ua/news/)
+- [Новини України. Останні новини сьогодні онлайн ...](https://news.liga.net/ua)
+- [Новини України: стрічка свіжих новин на сайті ТСН](https://tsn.ua/ukrayina)
+- [Україна | Головні новини з України сьогодні - Kyiv ...](https://www.kyivpost.com/uk/category/ukraine-uk)
+

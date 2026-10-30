@@ -633,3 +633,52 @@ Tags: `Myanmar (English)` `2026-10`
 - [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
 - [Myanmar - BBC News](https://www.bbc.com/news/topics/c302m85q5vzt)
 
+### Myanmar(検索日時 / searched at: 2026-10-29)
+
+Tags: `Myanmar` `2026-10`
+
+- [ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက ...](https://www.bbc.com/burmese)
+- [သတင်း Archives - Myanmar Now](https://myanmar-now.org/mm/news/category/news/)
+- [News | နိုင်ငံတကာမြန်မာ့သတင်း](https://www.bnionline.net/mm/news)
+- [သတင်းများ - မြန်မာဌာန - Radio Free Asia](https://www.rfa.org/burmese/news/)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [ထူးခြားသတင်းများ | Ministry Of Information](https://www.moi.gov.mm/breaking-news)
+- [သတင်းများ | Information and Public Relations Department](https://www.moi.gov.mm/iprd/news)
+- [DVB - Democratic Voice of Burma](https://burmese.dvb.no/)
+
+
+Tags: `Russia (Japanese)` `2026-10`
+
+- [ロシア | 最新ロシアニュース | ロイター](https://www.reuters.com/jp/world/russia/)
+- [ロシア - BBCニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「ロシア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [ロシア のウクライナ侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+
+
+Tags: `Ukraine (English)` `2026-10`
+
+- [Ukraine Breaking News Headlines Today | Ground News](https://ground.news/interest/ukraine)
+- [Ukraine News Today Live | War with Russia - NewsNow](https://www.newsnow.com/us/World/Europe/Eastern+Europe/Ukraine)
+- [Latest Ukraine and Russia at War News | Top Headlines on ...](https://www.reuters.com/world/ukraine-russia-war/)
+- [Get the Latest Ukraine News Today - Kyiv Post](https://www.kyivpost.com/)
+- [Ukraine News Today Live | War with Russia - NewsNow](https://www.newsnow.com/ca/World/Europe/Eastern+Europe/Ukraine)
+- [Ukraine | Ukraine | Today's latest from Al Jazeera](https://www.aljazeera.com/where/ukraine/)
+- [Ukraine News today - Latest news & Video | RBC-Ukraine](https://newsukraine.rbc.ua/)
+- [Ukraine War | Latest News & Updates| BBC News](https://www.bbc.com/news/war-in-ukraine)
+
+
+Tags: `Afghanistan (English)` `2026-10`
+
+- [Afghanistan News: Latest Afghanistan News Today | AP News](https://apnews.com/hub/afghanistan)
+- [Afghanistan Breaking News Headlines Today | Ground …](https://ground.news/interest/afghanistan)
+- [Afghanistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/afghanistan/)
+- [Afghanistan - BBC News](https://www.bbc.com/news/topics/c8nq32jw5r5t)
+- [Afghanistan News - Latest Afghanistan News, Breaking ...](https://www.wionews.com/tags/afghanistan)
+- [Afghanistan news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/afghanistan)
+- [Afghanistan News | Afghanistan Latest Updates 24/7 - NewsNow](https://www.newsnow.com/ca/World/Asia/Afghanistan)
+- [Afghanistan News Today – Breaking News, Politics, Sports ...](https://www.ariananews.af/)
+

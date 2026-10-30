@@ -663,3 +663,40 @@ Tags: `Myanmar (Japanese)` `2026-10`
 - [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
 - [ミャンマー の現状を伝える「JMSA ミャンマーニュース 」](https://www.japan-myanmar.com/myanmarnewsblog/)
 
+### Cambodia(検索日時 / searched at: 2026-10-29)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - វីអូអេ - VOA Khmer](https://khmer.voanews.com/cambodiatoday)
+- [Cambodia Today – កម្ពុជាថ្ងៃនេះ](https://camdaynews.com.kh/)
+- [ព័ត៌មានកម្ពុជាថ្ងៃនេះ ...](https://kampuchea.news/kh/)
+- [វីអូអេ - ព័ត៌មាន VOA](https://khmer.voanews.com/)
+- [ក្រសួងព័ត៌មាន — Ministry of Information](https://info.gov.kh/)
+- [កម្ពុជា៖ ព័ត៌មាន, podcasts, វីដេអូ និង ...](https://www.rfi.fr/km/%E1%9E%96%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%99%E1%9E%82%E1%9E%93%E1%9F%92%E1%9E%9B%E1%9E%B9%E1%9F%87/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [Post Khmer Insights: Accurate Cambodia National News](https://www.postkhmer.com/)
+- [ព័ត៌មានជាតិ - ព័ត៌មានថ្មី ...](https://khmer.cambojanews.com/news/national/)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [Egypt News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/eg/)
+- [Egypt: headlines today | Africa Front Page](https://www.africafrontpage.com/egypt)
+- [Egypt – Dailynewsegypt](https://www.dailynewsegypt.com/category/egypt/)
+- [Dailynewsegypt – Egypt’s Only Daily Independent Newspaper ...](https://www.dailynewsegypt.com/)
+- [Egypt Today | Egypt News | Latest News From Egypt .](https://www.egypt-today.com/en/)
+- [Egypt News: Latest & Breaking Egypt News Headlines ...](https://7news.com.au/news/egypt)
+- [Egypt Today | Egypt Latest News | Breaking News | Egypt Now](https://www.egypt-today.com/en/news)
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Tajikistan Breaking News Headlines Today | Ground News](https://ground.news/interest/tajikistan)
+- [Tajikistan Today | Breaking News & Economy](https://tajikistantoday.com/)
+- [Tajikistan | Tajikistan | Today's latest from Al Jazeera](https://www.aljazeera.com/where/tajikistan)
+- [Tajikistan News - Latest Tajikistan News, Breaking ...](https://www.wionews.com/tags/tajikistan)
+- [Latest Tajikistan News - Breaking Tajikistan Updates Today](https://caspianpost.com/tajikistan)
+- [Asia-Plus — News from Tajikistan and Central Asia](https://asiaplus.news/en/homepage-en/)
+- [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
+- [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
+

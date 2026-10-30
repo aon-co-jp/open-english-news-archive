@@ -528,3 +528,75 @@ Tags: `Austria` `2026-10`
 - [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
 - [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
 
+### Austria(検索日時 / searched at: 2026-10-29)
+
+Tags: `Austria` `2026-10`
+
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [WELT - Aktuelle Nachrichten, News, Hintergründe & Videos](https://www.welt.de/)
+- [heute-Nachrichten - Aktuelle ZDF-Nachrichten aus aller …](https://www.zdfheute.de/video/heute-nachrichten)
+- [Aktuelle Nachrichten | DIE ZEIT](https://www.zeit.de/news/nachrichten)
+- [ZDFheute - Aktuelle Nachrichten und Videos auf einen Blick](https://www.zdfheute.de/)
+- [Die neuesten Nachrichten rund um die Uhr. - Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-100.html)
+- [Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de](https://www.n-tv.de/)
+
+
+Tags: `Thailand (Japanese)` `2026-10`
+
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [「タイ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [タイニュース 速報ポータルサイトータイランド通信](http://thai.news-agency.jp/)
+- [タイ 関連 ニュース の一覧 | 【公式】 タイ 国政府観光庁](https://www.thailandtravel.or.jp/news/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+
+
+Tags: `France (Japanese)` `2026-10`
+
+- [フランス - BBCニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [French：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [今日のフランス | フランス情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
+- [「フランス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [パリの最新ニュース動画｜今日のパリニュース（フランス）](https://globenow.tv/ja/place/paris)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [フランスのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/france)
+
+
+Tags: `Austria (English)` `2026-10`
+
+- [Daily Austria News | Breaking News & Headlines from Austria](https://dailyaustrianews.com/)
+- [Latest News from Austria - The Local](https://www.thelocal.at/category/austria-news)
+- [Austria Breaking News Headlines Today | Ground News](https://ground.news/interest/austria)
+- [Austria - Euronews](https://www.euronews.com/tag/austria)
+- [Austria - BBC News](https://www.bbc.com/news/topics/c1038wnxny7t)
+- [Vienna Breaking News Headlines Today | Ground News](https://ground.news/interest/vienna-austria)
+- [Vienna, Austria Local News Today: Breaking Stories ...](https://voxorb.com/news/vienna-austria)
+- [Google News - Austria - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXd29BQVAB)
+
+
+Tags: `France (English)` `2026-10`
+
+- [France News: Latest & Breaking France News Headlines ...](https://7news.com.au/news/france)
+- [France News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/fr/)
+- [France news - breaking stories, video, analysis and …](https://www.cnn.com/world/europe/france)
+- [France 24 - International breaking news, top stories and headlines](https://www.france24.com/en/)
+- [France - BBC News](https://www.bbc.com/news/topics/c302m85qenyt)
+- [Google News - France - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSmxiaWdBUAE)
+- [France News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/france/)
+- [France - World news, culture and opinion - Le Monde.fr](https://www.lemonde.fr/en/france/)
+
+
+Tags: `Brazil (Japanese)` `2026-10`
+
+- [「ブラジル」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル日報の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [南米の鼓動をキャッチ！ ブラジル日報](https://www.brasilnippou.com/)
+- [ブラジル - BBCニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/brazil_newsmedia)
+- [【 ブラジルニュース 速報集】 ブラジル 日報 - X](https://x.com/BRASILNIPPOU)
+- [ブラジルのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/brazil)
+

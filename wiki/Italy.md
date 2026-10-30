@@ -466,3 +466,40 @@ Tags: `Italy` `2026-10`
 - [RaiNews | Le ultime notizie gratuite aggiornate in tempo reale](https://www.rainews.it/)
 - [Notizie Oggi - Scopri le ultime news con Canale Italia](https://canaleitalia.it/programmi/notizie-oggi/)
 
+### Italy(検索日時 / searched at: 2026-10-29)
+
+Tags: `Italy` `2026-10`
+
+- [Today - Ultime notizie dall'Italia e dal Mondo](https://www.today.it/)
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Ultime notizie dal mondo in tempo reale | Ansa](https://www.ansa.it/sito/notizie/topnews/index.shtml)
+- [Notizie dall'Italia: ultime notizie - StrettoWeb](https://www.strettoweb.com/notizie-italia/)
+- [Ultime notizie di Cronaca: news oggi in tempo reale - Tgcom24](https://www.tgcom24.mediaset.it/cronaca/)
+- [Notizie Oggi - Scopri le ultime news con Canale Italia](https://canaleitalia.it/programmi/notizie-oggi/)
+- [RaiNews | Le ultime notizie gratuite aggiornate in tempo reale](https://www.rainews.it/)
+- [News in tempo reale, ultime notizie e video | Adnkronos](https://www.adnkronos.com/)
+
+
+Tags: `Japan (English)` `2026-10`
+
+- [Japan Today](https://japantoday.com/)
+- [Japan News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/jp/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/)
+- [News On Japan](https://newsonjapan.com/v3/)
+- [Japan - News - The Japan Times](https://www.japantimes.co.jp/news/japan/)
+- [The Japan News - News from Japan, Breaking News, Politics ...](https://japannews.yomiuri.co.jp/?lang=ja)
+- [Japan News Today | Latest Japanese & Tokyo News - NewsNow](https://www.newsnow.com/ca/World/Asia/Japan)
+- [Today’s Top Japan and World News | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/news/)
+
+
+Tags: `South Korea (English)` `2026-10`
+
+- [South Korea News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/kr/)
+- [Korea (the Republic Of) Breaking News Headlines Today ...](https://ground.news/interest/south-korea)
+- [South Korea News Today | Latest Seoul & Korea News ...](https://www.newsnow.com/us/World/Asia/South+Korea)
+- [South Korea news - breaking stories, video, analysis and ...](https://www.cnn.com/world/asia/south-korea)
+- [South Korea News: Latest & Breaking South Korea News ...](https://7news.com.au/news/south-korea)
+- [South Korea Latest Headlines | nooze.news](https://nooze.news/kr)
+- [South Korea News | Today's Latest Stories | Reuters](https://www.reuters.com/world/south-korea/)
+- [The Korea Times](https://www.koreatimes.co.kr/)
+

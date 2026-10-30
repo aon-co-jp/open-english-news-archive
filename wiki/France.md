@@ -451,3 +451,52 @@ Tags: `Germany (English)` `2026-10`
 - [News and current affairs from Germany and around the world](https://www.dw.com/en/top-stories/s-9097)
 - [Germany | News and in-depth reporting from Berlin and beyond](https://www.dw.com/en/germany/s-1432)
 
+### France(検索日時 / searched at: 2026-10-29)
+
+Tags: `France` `2026-10`
+
+- [France - Actualité, infos et vidéos en direct – franceinfo](https://www.franceinfo.fr/france/)
+- [franceinfo - Actualités en temps réel et info en direct](https://www.franceinfo.fr/)
+- [Google Actualités - France - Dernières infos](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&ceid=FR%3Afr)
+- [Actualités du jour et en direct - Le Monde](https://www.lemonde.fr/actualite-en-continu/)
+- [France : News et actualité en continu - France 24](https://www.france24.com/fr/france/)
+- [France 24 - Infos, news & actualités - L'information ...](https://www.france24.com/fr/)
+- [Ouest-France : toute l'actualité en direct, l'info en …](https://www.ouest-france.fr/)
+- [TF1 Info - Actualités du jour en direct : Actualité en France et à ...](https://www.tf1info.fr/)
+
+
+Tags: `Iran (English)` `2026-10`
+
+- [Iran News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/ir/)
+- [Iran | Iran | Today's latest from Al Jazeera](https://www.aljazeera.com/where/iran/)
+- [Iran News: Latest & Breaking Iranian News Headlines ...](https://7news.com.au/news/iran)
+- [Iran News: Latest Iran News Headlines, Iran Breaking News ...](https://www.timesnownews.com/topic/iran)
+- [Iran News | Iran Latest Updates - NewsNow](https://www.newsnow.com/us/World/Middle+East/Iran)
+- [Home | Iran International](https://www.iranintl.com/en)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FtVnVLQUFQAQ?hl=en-US&ceid=US:en)
+- [Google News - Iran - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE56YUhBU0FuUnlLQUFQAQ)
+
+
+Tags: `Tajikistan (Japanese)` `2026-10`
+
+- [Tajikistan：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタンのニュース・読売新聞の最新記事 : 読売新聞](https://www.yomiuri.co.jp/keyword/74884/)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+
+
+Tags: `Italy (Japanese)` `2026-10`
+
+- [「イタリア」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「イタリア」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [Italy：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア - BBCニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリアのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/italy)
+- [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
+- [イタリア：ニュースまとめ【10/30更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/1838/)
+

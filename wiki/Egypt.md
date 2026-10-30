@@ -539,3 +539,16 @@ Tags: `China (Japanese)` `2026-10`
 - [「中国」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10086)
 - [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
 
+### Egypt(検索日時 / searched at: 2026-10-29)
+
+Tags: `Egypt` `2026-10`
+
+- [بوابة أخبار اليوم الإلكترونية - الصفحة الرئيسية](https://akhbarelyom.com/)
+- [مصر ـ أخبار مصر - عاجل | مصر اليوم | Egypt Today | egypttoday](https://www.egypt-today.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%B9%D8%A7%D8%AC%D9%84%D8%A9)
+- [مصر اليوم | Egypt Today | آخر أخبار مصر اليوم | المزيد ...](https://www.egypt-today.com/)
+- [أهم أخبار مصر العاجلة والمباشرة | العربية](https://www.alarabiya.net/arab-and-world/egypt)
+- [الرئيسية| بوابة أخبار اليوم الإلكترونية](https://akhbarelyom.com/news/newssection/304/1/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+- [المصري اليوم | الصفحة الرئيسية لموقع المصري اليوم](https://www.almasryalyoum.com/section/index/today)
+- [اليوم السابع](https://www.youm7.com/)
+- [المصري اليوم](https://www.almasryalyoum.com/)
+

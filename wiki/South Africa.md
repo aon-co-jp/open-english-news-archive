@@ -514,3 +514,16 @@ Tags: `South Africa` `2026-10`
 - [Top Stories South Africa · Latest SA News · News.co.za](https://news.co.za/top-stories/)
 - [South Africa | News24](https://www.news24.com/SouthAfrica)
 
+### South Africa(検索日時 / searched at: 2026-10-29)
+
+Tags: `South Africa` `2026-10`
+
+- [South Africa news today: latest headlines, politics & economy ...](https://www.za24.news/)
+- [South Africa stories, breaking news and comment | The Citizen](https://www.citizen.co.za/news/south-africa/)
+- [IOL News | Latest South African News](https://www.iol.co.za/iol/news/south-africa/)
+- [News | SouthAfrica | News24](https://www.news24.com/southafrica/news)
+- [IOL News | Latest South African News](https://www.iol.co.za/news/south-africa/)
+- [South Africa News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/south-africa/)
+- [Top Stories | Latest News in South Africa | eNCA](https://www.enca.com/)
+- [Top Stories South Africa · Latest SA News · News.co.za](https://news.co.za/top-stories/)
+

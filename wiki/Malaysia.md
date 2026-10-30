@@ -613,3 +613,16 @@ Tags: `Malaysia` `2026-10`
 - [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
 - [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
 
+### Malaysia(検索日時 / searched at: 2026-10-29)
+
+Tags: `Malaysia` `2026-10`
+
+- [Berita Utama Malaysia & Dunia | Harian Metro](https://www.hmetro.com.my/utama)
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Berita Terkini Malaysia - The Sun](https://thesun.my/berita/)
+- [Berita Harian (BHarian Online) | Berita Malaysia & Dunia Terkini](https://www.bharian.com.my/)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/)
+- [Berita dan Informasi Malaysia Terkini dan Terbaru Hari ini ...](https://www.detik.com/tag/malaysia/)
+- [Terkini | BULETIN TV3 Malaysia](https://www.buletintv3.my/)
+- [Berita Utama - MalaysiaNow](https://www.malaysianow.com/my/section/lead-story)
+

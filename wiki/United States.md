@@ -603,3 +603,40 @@ Tags: `Afghanistan (English)` `2026-10`
 - [Afghanistan News | Afghanistan Latest Updates 24/7 - NewsNow](https://www.newsnow.com/ca/World/Asia/Afghanistan)
 - [Google News - Afghanistan - Latest](https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BrWkJJQ2MzSW9BQVAB)
 
+### United States(検索日時 / searched at: 2026-10-29)
+
+Tags: `United States` `2026-10`
+
+- [Associated Press News: Breaking News | Latest News Today](https://apnews.com/)
+- [U.S. News | Latest National News, Videos & Photos](https://abcnews.com/US)
+- [U.S. News: Latest news, breaking news, today's news ...](https://www.cbsnews.com/us/)
+- [USA News Today | Latest USA & White House News - NewsNow](https://www.newsnow.com/us/US)
+- [U.S. News: Latest Breaking Stories and Video on National Issues](https://www.nbcnews.com/us-news)
+- [CBS News | Breaking News, Top Stories & Exclusive Coverage](https://www.cbsnews.com/)
+- [Google News - U.S. - Latest](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en)
+- [ABC News - Breaking News, Latest News and Videos](https://abcnews.com/)
+
+
+Tags: `Thailand (English)` `2026-10`
+
+- [Thailand News: Latest & Breaking Thailand News Headlines ...](https://7news.com.au/news/thailand)
+- [Thailand News Today: Breaking News & Top Stories | Thaiger](https://thethaiger.com/)
+- [Thailand news - breaking news, video, headlines and opinion ...](https://www.cnn.com/world/asia/thailand)
+- [Thailand News Articles, Breaking Stories & Headlines](https://thethaiger.com/news/national)
+- [Bangkok Post - Thailand news | Latest & Breaking News, Live ...](https://www.bangkokpost.com/thailand)
+- [Today's headlines - Thai Times](https://thaitimes.com/today-s-headlines)
+- [Today's Thailand's top headlines - Thai Times](https://thaitimes.com/today-s-thailand-s-top-headlines)
+- [Thailand News Today | Latest Thailand News - NewsNow ...](https://www.newsnow.com/us/World/Asia/Thailand?type=ln)
+
+
+Tags: `Egypt (Japanese)` `2026-10`
+
+- [「エジプト」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「エジプト」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [Egypt：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [エジプトのニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/egypt)
+- [Google ニュース - エジプト - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpyTlRRU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+- [エジプト：ニュースまとめ【10/27更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3511/)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+

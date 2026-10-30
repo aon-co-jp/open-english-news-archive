@@ -592,3 +592,100 @@ Tags: `Switzerland (English)` `2026-10`
 - [Geneva Breaking News Headlines Today | Ground News](https://ground.news/interest/geneva-switzerland)
 - [Google News - Switzerland - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0ZW5BU0FuSjFLQUFQAQ?hl=en-US&ceid=US%3Aen)
 
+### Brazil(検索日時 / searched at: 2026-10-29)
+
+Tags: `Brazil` `2026-10`
+
+- [Notícias ao Minuto Brasil - Últimas notícias do Brasil](https://www.noticiasaominuto.com.br/brasil/)
+- [Notícias Nacionais: O que acontece hoje no Brasil | Band](https://www.band.com.br/nacional)
+- [UOL Notícias | Notícias do Dia no Brasil e no Mundo](https://noticias.uol.com.br/)
+- [Últimas Notícias de hoje | Fique ligado na CNN Brasil](https://www.cnnbrasil.com.br/ultimas-noticias/)
+- [As principais notícias de hoje no Brasil e no mundo](https://www.terra.com.br/noticias/ao-vivo/33274/)
+- [CNN Brasil | Notícias Ao Vivo do Brasil e do Mundo](https://www.cnnbrasil.com.br/)
+- [g1 - O portal de notícias da Globo](https://g1.globo.com/)
+- [Google Notícias - Brasil - Mais recentes](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREUxWm5JU0JYQjBMVUpTS0FBUAE?hl=pt-BR&ceid=BR%3Apt-419)
+
+
+Tags: `Brazil (English)` `2026-10`
+
+- [Brazil News | Today's Latest Stories | Reuters](https://www.reuters.com/world/brazil/)
+- [Brazil News: Latest & Breaking Brazil News Headlines ...](https://7news.com.au/news/brazil)
+- [Brazil Breaking News Headlines Today | Ground News](https://ground.news/interest/brazil)
+- [Brazil News Today — Latest Brazil News in English | The Rio ...](https://www.riotimesonline.com/brazil)
+- [Brazil News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/br/)
+- [Today in Brazil — Brazilian news in English](https://www.todayinbrazil.com/)
+- [Brazil - BBC News](https://www.bbc.com/news/topics/cmj34zmw77wt)
+- [Google News - Brazil - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+
+
+Tags: `Ukraine (Japanese)` `2026-10`
+
+- [ウクライナ情勢 | 最新ウクライナニュース | ロイター](https://www.reuters.com/jp/world/ukraine/)
+- [ウクライナ侵攻 - BBCニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [新着ニュース](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+
+
+Tags: `Switzerland (English)` `2026-10`
+
+- [Switzerland News — Today's Headlines on the News Map](https://globalnewsmap.net/country/switzerland)
+- [News today from Switzerland - SWI swissinfo.ch](https://www.swissinfo.ch/eng/latest-news/)
+- [Switzerland Breaking News Headlines Today | Ground …](https://ground.news/interest/switzerland)
+- [Switzerland News Today | SchweizHeute](https://schweizheute.com/en)
+- [Times of Switzerland - Swiss News in English: Politics, Law ...](https://timesofswitzerland.ch/)
+- [Google News - Switzerland - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0ZW5BU0FuSjFLQUFQAQ?hl=en-US&ceid=US%3Aen)
+- [Geneva Breaking News Headlines Today | Ground News](https://ground.news/interest/geneva-switzerland)
+- [Switzerland - News and perspectives - SWI swissinfo.ch](https://www.swissinfo.ch/eng/)
+
+
+Tags: `Germany (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツ - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_germany/)
+- [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+
+
+Tags: `South Korea (Japanese)` `2026-10`
+
+- [韓国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/south-korea)
+- [最新の韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [韓国 | 最新韓国ニュース | ロイター](https://www.reuters.com/jp/world/korea/)
+- [中央日報 - 韓国の最新ニュースを日本語でサービスします](https://japanese.joins.com/)
+- [聯合ニュース](https://jp.yna.co.kr/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [韓国のニュース｜今日の最新ニュース動画（都市別）](https://globenow.tv/ja/place/country/south-korea)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+
+
+Tags: `Myanmar (English)` `2026-10`
+
+- [Myanmar News — Today's Headlines on the News Map](https://globalnewsmap.net/country/myanmar)
+- [Myanmar News Today | Latest Burma & Junta News ...](https://www.newsnow.com/ng/World/Asia/Myanmar?type=ln)
+- [Myanmar News Today | Latest Burma & Junta News - NewsNow](https://www.newsnow.com/us/World/Asia/Myanmar)
+- [Myanmar Breaking News Headlines Today | Ground News](https://ground.news/interest/myanmar-burma)
+- [The Irrawaddy - Covering Burma and Southeast Asia](https://www.irrawaddy.com/)
+- [Myanmar | Myanmar | Today's latest from Al Jazeera](https://www.aljazeera.com/where/myanmar/)
+- [Home - Myanmar Now](https://myanmar-now.org/en/)
+- [Google News - Myanmar (Burma) - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFI0Ymw4U0FuUm9LQUFQAQ)
+
+
+Tags: `China (Japanese)` `2026-10`
+
+- [中国 | 最新中国ニュース | ロイター](https://www.reuters.com/jp/world/china/)
+- [中国のニュース・速報|47NEWS（よんななニュース）](https://www.47news.jp/world/china)
+- [「中国」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国・習近平政権 関連ニュース：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [最新の中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+

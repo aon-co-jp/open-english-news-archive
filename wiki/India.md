@@ -697,3 +697,28 @@ Tags: `India` `2026-10`
 - [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
 - [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
 
+### India(検索日時 / searched at: 2026-10-29)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [India News | Today's latest updates and breaking news from ...](https://www.ndtv.com/india)
+- [Latest News, Breaking News, Top News Headlines and ...](https://timesofindia.indiatimes.com/news)
+- [India News, Latest Breaking News Headlines from India, Live ...](https://www.indiatoday.in/india)
+- [India News: Latest India News, Today breaking News ...](https://www.hindustantimes.com/india-news)
+- [India News, Latest India News, Today's Breaking News ...](https://indianexpress.com/section/india/)
+- [Latest News Today, Breaking News, India News, Top ...](https://indianexpress.com/)
+- [Latest News, Breaking News Today - Entertainment, …](https://www.indiatoday.in/)
+
+
+Tags: `Switzerland (Japanese)` `2026-10`
+
+- [スイス、ニュースと展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [「スイス」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「スイス」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [スイスのニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [スイス：ニュースまとめ【10/28更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3508/)
+

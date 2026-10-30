@@ -774,3 +774,16 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
 - [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
 
+### Tajikistan(検索日時 / searched at: 2026-10-29)
+
+Tags: `Tajikistan` `2026-10`
+
+- [Хабарҳо - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/khabarho/)
+- [Тоҷикистон — ИмрӯзNews](https://imruz.tj/tj/category/news-of-tajikistan-tj/)
+- [Хабарҳои Тоҷикистон ва ҷаҳон - Istiklol.tj](https://istiklol.tj/)
+- [Иқтисод - Хабарҳои муҳими имрӯз ва рӯйдодҳои ...](https://sputnik.tj/economy/)
+- [Радиои «Имрӯз» — Википедия](https://tg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B8_%C2%AB%D0%98%D0%BC%D1%80%D3%AF%D0%B7%C2%BB)
+- [Дар Тоҷикистон Форуми чоруми байнипарламентии ...](https://khovar.tj/2026/10/dar-to-ikiston-alasai-forumi-chorumi-bajniparlamentii-davlat-oi-osiyoi-markaz-barguzor-gardid/)
+- [Субҳ ба хайр, Тоҷикистон! Як рӯз дар таърих ...](https://asiaplus.news/tg/2026/10/29/subh-ba-hajr-tojikiston-yak-ruz-dar-tarih-zodruzi-shahsiyatho-vazi-havo-baroi-29-oktyabri-soli-2025/)
+- [ИМРӮЗ-РӮЗИ ҶАҲОНИИ ПАРАНДАҲОИ МУҲОҶИР ...](https://khovar.tj/2026/10/imr-z-r-zi-a-onii-paranda-oi-mu-o-ir-ududi-to-ikiston-yake-az-masir-oi-asosii-k-chishi-parandagon-dar-osiyo-ast/)
+

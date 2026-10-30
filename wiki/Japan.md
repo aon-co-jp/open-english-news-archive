@@ -547,3 +547,28 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
 - [スイス：ニュースまとめ【10/27更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3508/)
 
+### Japan(検索日時 / searched at: 2026-10-29)
+
+Tags: `Japan` `2026-10`
+
+- [Yahoo!ニュース](https://news.yahoo.co.jp/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [主要トピックス一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/topics/top-picks)
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [日テレNEWS NNN｜日本テレビ系NNN30局のニュースサイト](https://news.ntv.co.jp/)
+
+
+Tags: `Italy (English)` `2026-10`
+
+- [Italian News in English: Today’s Headlines - Italia Mia](https://www.italiamia.com/italian-news-english/)
+- [Italy News Today — Latest Headlines & Breaking News](https://feedpals.com/italy/)
+- [Italy Breaking News Headlines Today | Ground News](https://ground.news/interest/italy)
+- [News from Italy: Today's Latest Updates](https://italien.news/en/latest-news/)
+- [Italy News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/it/)
+- [Italy - Euronews](https://www.euronews.com/tag/italy)
+- [Italy News Today in English | Latest Italy News - NewsNow ...](https://www.newsnow.com/us/World/Europe/Southern+Europe/Italy?type=ln)
+- [Google News - Italy - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FuTnlLQUFQAQ)
+

@@ -531,3 +531,40 @@ Tags: `Iran (English)` `2026-10`
 - [Home | Iran International](https://www.iranintl.com/en)
 - [Latest Iran News, Breaking Iran News, Iran News Headlines ...](https://www.wionews.com/tags/iran)
 
+### Switzerland(検索日時 / searched at: 2026-10-29)
+
+Tags: `Switzerland` `2026-10`
+
+- [20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt](https://www.20min.ch/)
+- [Schweiz - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/schweiz)
+- [Schweizer Nachrichten heute | SchweizHeute](https://schweizheute.com/de)
+- [Aktuelle News aus der Schweiz und weltweit – SRF](https://www.srf.ch/news)
+- [Schweiz heute | Überregionale News aus der Schweiz](https://www.schweizheute.ch/)
+- [Schweiz – News und Hintergründe zum Inland | NZZ Nachrichten](https://www.nzz.ch/schweiz)
+- [Blick: Nachrichten und Schlagzeilen aus der Schweiz und ...](https://www.blick.ch/)
+- [News für die Schweiz - Nau.ch](https://www.nau.ch/)
+
+
+Tags: `Taiwan (Japanese)` `2026-10`
+
+- [台湾情勢 | 最新台湾情勢ニュース | ロイター](https://www.reuters.com/jp/world/taiwan/)
+- [Taiwan Today](https://jp.taiwantoday.tw/)
+- [フォーカス台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [台北市の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E5%8F%B0%E5%8C%97%E5%B8%82.html)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
+- [「 台湾 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/taiwan/)
+
+
+Tags: `Germany (English)` `2026-10`
+
+- [Germany News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/de/)
+- [Germany News | Latest Headlines & Stories | Reuters](https://www.reuters.com/world/germany/)
+- [Germany News: Latest & Breaking Germany News ...](https://7news.com.au/news/germany)
+- [Germany News | Germany News Today - NewsNow](https://www.newsnow.com/us/World/Europe/Western+Europe/Germany)
+- [Latest news from Germany in English | Deutschland in English](https://deutschlandinenglish.com/)
+- [Germany - Euronews](https://www.euronews.com/tag/germany)
+- [Deutschland - aktuelle Nachrichten - tagesschau.de](https://www.tagesschau.de/thema/deutschland)
+- [WELT - Aktuelle Nachrichten, News, Hintergründe & Videos](https://www.welt.de/)
+

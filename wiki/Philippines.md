@@ -538,3 +538,16 @@ Tags: `Ukraine (Japanese)` `2026-10`
 - [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
 - [Google ニュース - ウクライナ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGQwTWpFU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
 
+### Philippines(検索日時 / searched at: 2026-10-29)
+
+Tags: `Philippines` `2026-10`
+
+- [Pilipinas: balita – all.news](https://www.all.news/news/philippines/filipino/)
+- [Pilipino Star Ngayon | Balita ngayon - Philstar.com](https://www.philstar.com/pilipino-star-ngayon/)
+- [Balita Ngayon - Latest Philippine News Headlines | Tambayan](https://tambayan.app/balita/all)
+- [BALITANG NGAYON - Sari Story](https://www.saristorynetwork.com/balitang-ngayon)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Breaking News & Headlines in the Philippines | ABS-CBN News](https://www.abs-cbn.com/news)
+- [Latest Philippine News - Bombo Radyo News](https://www.bomboradyo.com/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+

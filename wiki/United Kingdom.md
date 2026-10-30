@@ -598,3 +598,76 @@ Tags: `United Kingdom` `2026-10`
 - [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
 - [USA Today](https://en.wikipedia.org/wiki/USA_Today)
 
+### United Kingdom(検索日時 / searched at: 2026-10-29)
+
+Tags: `United Kingdom` `2026-10`
+
+- [UK News - The latest headlines from the UK | Sky News](https://news.sky.com/uk)
+- [United Kingdom News — Today's Headlines on the News Map](https://globalnewsmap.net/country/united-kingdom)
+- [United Kingdom News Today — Top Headlines | VaaWaa.com](https://vaawaa.com/country/gb/)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&ceid=GB%3Aen)
+- [UK | Latest News & Updates | BBC News](https://www.bbc.co.uk/news/uk)
+- [UK | Latest News & Updates - BBC](https://www.bbc.com/news/uk)
+- [Latest UK news | The Guardian](https://www.theguardian.com/uk-news)
+- [Google News - United Kingdom - Latest](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&ceid=GB%3Aen)
+
+
+Tags: `China (English)` `2026-10`
+
+- [China News | Today's Breaking Stories | Reuters](https://www.reuters.com/world/china/)
+- [China News Headlines, Latest China News and Live Updates ...](https://timesofindia.indiatimes.com/world/china)
+- [China news - breaking news, video, headlines and opinion | CNN](https://www.cnn.com/world/china)
+- [China News - Headlines, Stories & Videos - Chinadaily.com.cn](https://www.chinadaily.com.cn/china/index.html)
+- [China Breaking News & Headlines | South China Morning Post](https://www.scmp.com/news/china)
+- [China News - Latest China News, Breaking China News ...](https://www.wionews.com/tags/china)
+- [CGTN | Breaking News, China News, World News and …](https://en.cgtn.com/)
+- [China News Service Website - Headlines, stories, photos and ...](https://www.ecns.cn/)
+
+
+Tags: `Myanmar (Japanese)` `2026-10`
+
+- [ミャンマー最新ニュース・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマーニュース -ミャンマーの最新ニュース・最新情報をお ...](https://www.myanmar-news.asia/)
+- [「ミャンマー」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー の現状を伝える「JMSA ミャンマーニュース 」](https://www.japan-myanmar.com/myanmarnewsblog/)
+
+
+Tags: `Austria (Japanese)` `2026-10`
+
+- [ドイツの最新ニュースを日本語で毎日お届け - ドイツ生活情報 ...](http://www.newsdigest.de/newsde/news/news/)
+- [「ドイツ」のニュース一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツ - BBCニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際ニュース：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/germany_newsmedia)
+- [ドイツ - 。今日の最新ニュースと主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_germany/)
+- [Google ニュース - ドイツ - 最新](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtcGhLQUFQAQ?hl=ja&ceid=JP%3Aja)
+
+
+Tags: `Iran (Japanese)` `2026-10`
+
+- [イラン情勢 関連ニュース - 時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [「イラン」のニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イランの関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/06fd6249c78927c72400/)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [【最新 イラン 情勢】 イラン “最大の橋”攻撃 約100人死傷 ...](https://www.youtube.com/watch?v=ap5YhPsMulM)
+
+
+Tags: `Russia (English)` `2026-10`
+
+- [Russia News: Latest & Breaking Russian News Headlines ...](https://7news.com.au/news/russia)
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia news - breaking stories, video and analysis | CNN](https://www.cnn.com/world/europe/russia)
+- [Inside Russia — News from the front](https://insiderussia.com/)
+- [Russian Federation (The) Breaking News Headlines Today ...](https://ground.news/interest/russia)
+- [Russia News - Latest Russia News, Breaking Russia News ...](https://www.wionews.com/tags/russia)
+- [Russia News: Latest Headlines and Breaking Stories | Daily ...](https://dailydigest.com/world/russia/)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+
