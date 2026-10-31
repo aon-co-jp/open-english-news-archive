@@ -700,3 +700,9 @@ Tags: `Tajikistan (English)` `2026-10`
 - [Tajikistan | The Times Of Central Asia | News Coverage Online](https://timesca.com/tajikistan/)
 - [Tajikistan News | Tajikistan Latest News - NewsNow](https://www.newsnow.com/us/World/Asia/Tajikistan)
 
+### Cambodia(検索日時 / searched at: 2026-10-30)
+
+Tags: `Cambodia` `2026-10`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+

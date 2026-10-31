@@ -640,3 +640,15 @@ Tags: `Egypt (Japanese)` `2026-10`
 - [エジプト：ニュースまとめ【10/27更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3511/)
 - [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
 
+### United States(検索日時 / searched at: 2026-10-30)
+
+Tags: `United States` `2026-10`
+
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
+- [ABC News - Breaking News, Latest News and Videos](https://abcnews.com/)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
+- [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News](https://www.nbcnews.com/)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+

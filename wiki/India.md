@@ -722,3 +722,15 @@ Tags: `Switzerland (Japanese)` `2026-10`
 - [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
 - [スイス：ニュースまとめ【10/28更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/3508/)
 
+### India(検索日時 / searched at: 2026-10-30)
+
+Tags: `India` `2026-10`
+
+- [How to make two column in a batch file?](https://stackoverflow.com/questions/13654471)
+- [Load CSV file in single variant column in snowflake table](https://stackoverflow.com/questions/72475744)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [String regular expression java](https://stackoverflow.com/questions/27226847)
+- [Aaj Tak](https://en.wikipedia.org/wiki/Aaj_Tak)
+- [List of terrorist incidents in India](https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_India)
+- [Rahul Shivshankar](https://en.wikipedia.org/wiki/Rahul_Shivshankar)
+

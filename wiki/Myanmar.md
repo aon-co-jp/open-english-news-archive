@@ -682,3 +682,20 @@ Tags: `Afghanistan (English)` `2026-10`
 - [Afghanistan News | Afghanistan Latest Updates 24/7 - NewsNow](https://www.newsnow.com/ca/World/Asia/Afghanistan)
 - [Afghanistan News Today – Breaking News, Politics, Sports ...](https://www.ariananews.af/)
 
+### Myanmar(検索日時 / searched at: 2026-10-30)
+
+Tags: `Myanmar` `2026-10`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (English)` `2026-10`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+

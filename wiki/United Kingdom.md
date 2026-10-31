@@ -671,3 +671,12 @@ Tags: `Russia (English)` `2026-10`
 - [Russia News: Latest Headlines and Breaking Stories | Daily ...](https://dailydigest.com/world/russia/)
 - [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
 
+### United Kingdom(検索日時 / searched at: 2026-10-30)
+
+Tags: `United Kingdom` `2026-10`
+
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+

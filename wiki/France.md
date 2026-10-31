@@ -500,3 +500,16 @@ Tags: `Italy (Japanese)` `2026-10`
 - [イタリア の 主要 メディアまとめ【 ニュース 編】 - Global PR Wire](https://globalprwire.com/mediacolumn/italia_news)
 - [イタリア：ニュースまとめ【10/30更新】 - ライブドアニュース](https://news.livedoor.com/topics/keyword/1838/)
 
+### France(検索日時 / searched at: 2026-10-30)
+
+Tags: `France` `2026-10`
+
+- [Île-de-France](https://fr.wikipedia.org/wiki/%C3%8Ele-de-France)
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Génération.s](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration.s)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Extrême gauche en France](https://fr.wikipedia.org/wiki/Extr%C3%AAme_gauche_en_France)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+
