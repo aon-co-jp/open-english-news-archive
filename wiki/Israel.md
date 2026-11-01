@@ -574,3 +574,15 @@ Tags: `Afghanistan (Japanese)` `2026-10`
 - [アフガニスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/0bedd85b653193eb89cb1131c79b5e035495e267faff7829d380f75c4b2f6f66)
 - [アフガニスタン のいま | UNHCR 日本](https://www.unhcr.org/jp/spotlight-2021-12-afghanistan-on-the-brink)
 
+### Israel(検索日時 / searched at: 2026-10-31)
+
+Tags: `Israel` `2026-10`
+
+- [List of Israeli assassinations](https://en.wikipedia.org/wiki/List_of_Israeli_assassinations)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

@@ -576,3 +576,16 @@ Tags: `Taiwan (English)` `2026-10`
 - [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 
+### Philippines(検索日時 / searched at: 2026-10-31)
+
+Tags: `Philippines` `2026-10`
+
+- [Pinakamuling Balita sa Pilipinas Ngayon (Tagalog News Headlines)](https://www.randall-travel-award.missouri.edu/latest-news-in-the-philippines-today-tagalog-1326637427.html)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita Pilipinas Ngayon - Wikipedia](https://en.wikipedia.org/wiki/Balita_Pilipinas_Ngayon)
+- [Balita Sa Tagalog Ngayong Araw | Balitambayan](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+

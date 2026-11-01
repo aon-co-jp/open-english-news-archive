@@ -706,3 +706,40 @@ Tags: `Cambodia` `2026-10`
 
 - [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
 
+### Cambodia(検索日時 / searched at: 2026-10-31)
+
+Tags: `Cambodia` `2026-10`
+
+- [កម្ពុជាថ្ងៃនេះ - វីអូអេ - VOA Khmer](https://khmer.voanews.com/cambodiatoday)
+- [ព័ត៌មានពេលរាត្រី ៦ សីហា៖ លោក ហ៊ុន ម៉ាណែត ថា ក្រុមហ៊ុន​ខ្មែរ​នឹង​វិនិយោគ​ទាំងស្រុង​លើ​គម្រោង​ព្រែក... - YouTube](https://www.youtube.com/watch?v=OvhSuR31UTU)
+- [ថែសុខភាព! ព្យុះទី ៣១ ឈ្មោះ «អ៊ីនហ្វា» វិវត្តជាព្យុះសង្ឃរា បណ្ដាលឱ្យ កម្ពុជា អាចមានភ្លៀងធ្លាក់ ផ្គររន្ទះ ខ្យល់កន្ត្រាក់ ចាប់ពីថ្ងៃនេះ - Popular Magazine](https://popular.com.kh/%E1%9E%90%E1%9F%82%E1%9E%9F%E1%9E%BB%E1%9E%81%E1%9E%97%E1%9E%B6%E1%9E%96-%E1%9E%96%E1%9F%92%E1%9E%99%E1%9E%BB%E1%9F%87%E1%9E%91%E1%9E%B8-%E1%9F%A3%E1%9F%A1-%E1%9E%88%E1%9F%92%E1%9E%98%E1%9F%84/)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [លោក ឆៃ ស៊ីណារិទ្ធ៖ រដ្ឋាភិបាល​កម្ពុជាកំពុងបន្ត​បោសសម្អាតបទល្មើសអនឡាញឲ្យអស់ពីប្រទេស - បទសម្ភាស - RFI](https://rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%9C%E1%9E%B7%E1%9E%92%E1%9E%B8%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9F%81%E1%9E%84%E1%9E%91%E1%9F%80%E1%9E%8F/%E1%9E%94%E1%9E%91%E1%9E%9F%E1%9E%98%E1%9F%92%E1%9E%97%E1%9E%B6%E1%9E%9F/20261030-%E1%9E%9B%E1%9F%84%E1%9E%80-%E1%9E%86%E1%9F%83-%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%8E%E1%9E%B6%E1%9E%9A%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%92%E1%9F%96-%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%8B%E1%9E%B6%E1%9E%97%E1%9E%B7%E1%9E%94%E1%9E%B6%E1%9E%9B%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%E1%9E%80%E1%9F%86%E1%9E%96%E1%9E%BB%E1%9E%84%E1%9E%94%E1%9E%93%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9F%84%E1%9E%9F%E1%9E%9F%E1%9F%86%E1%9E%A2%E1%9E%B6%E1%9E%8F%E1%9E%94%E1%9E%91%E1%9E%9B%E1%9F%92%E1%9E%98%E1%9E%BE%E1%9E%9F%E1%9E%A2%E1%9E%93%E1%9E%A1%E1%9E%B6%E1%9E%89%E1%9E%B2%E1%9F%92%E1%9E%99%E1%9E%A2%E1%9E%9F%E1%9F%8B%E1%9E%96%E1%9E%B8%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F?GJlXzGgqHj=)
+- [ព័ត៌មានកម្ពុជា - YouTube](https://www.youtube.com/playlist?list=PL1ie9jay6H_CQZROxOD2XmLhjZDdgi3Cw)
+- [ក្រសួងវប្បធម៌ប្រកាសពីការប្រគល់ត្រលប់វត្ថុសិល្បៈខ្មែរចំនួន ១៨ ពីទីក្រុងឡុងដ៍](https://infotainment.ams.com.kh/news/culture/ministry-of-culture-announces-the-return-of-18-khmer-artifacts-from-london-united-kingdom/)
+
+
+Tags: `Taiwan (English)` `2026-10`
+
+- [Taiwan-related terms](https://en.wikipedia.org/wiki/Taiwan-related_terms)
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [News](https://en.wikipedia.org/wiki/News)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
+
+Tags: `Tajikistan (English)` `2026-10`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [2025 New Orleans truck attack](https://en.wikipedia.org/wiki/2025_New_Orleans_truck_attack)
+- [Jihadi John](https://en.wikipedia.org/wiki/Jihadi_John)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+
