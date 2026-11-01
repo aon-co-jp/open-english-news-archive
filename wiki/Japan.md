@@ -641,3 +641,16 @@ Tags: `Germany (English)` `2026-10`
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 - [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
 
+### Japan(検索日時 / searched at: 2026-10-31)
+
+Tags: `Japan` `2026-10`
+
+- [日本経済新聞 - ニュース・速報 最新情報](https://www.nikkei.com/)
+- [NHKニュース 速報・最新情報](https://news.web.nhk/newsweb)
+- [Yahoo!ニュース - Yahoo! JAPAN](https://news.yahoo.co.jp/)
+- [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
+- [新着ニュース一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-latest-nationwide)
+- [Google ニュース](https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja)
+- [時事ドットコム：時事通信社が運営するニュースサイト](https://www.jiji.com/)
+- [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
+

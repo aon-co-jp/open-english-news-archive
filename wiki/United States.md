@@ -652,3 +652,15 @@ Tags: `United States` `2026-10`
 - [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News](https://www.nbcnews.com/)
 - [Headline](https://en.wikipedia.org/wiki/Headline)
 
+### United States(検索日時 / searched at: 2026-10-31)
+
+Tags: `United States` `2026-10`
+
+- [US News - The latest headlines from the US | Sky News](https://news.sky.com/us)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
+- [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
+- [U.S. News: Latest news, breaking news, today's news stories updated daily from CBS News](https://www.cbsnews.com/us/)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+
