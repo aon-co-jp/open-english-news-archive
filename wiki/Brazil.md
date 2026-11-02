@@ -713,3 +713,38 @@ Tags: `Brazil` `2026-10`
 - [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
 - [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
 
+### Brazil(検索日時 / searched at: 2026-11-01)
+
+Tags: `Brazil` `2026-11`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Agência Brasil](https://pt.wikipedia.org/wiki/Ag%C3%AAncia_Brasil)
+- [Banco do Brasil](https://pt.wikipedia.org/wiki/Banco_do_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [Nachrichten Deutschland Heute - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsgermany&hl=ja)
+
+
+Tags: `Japan (English)` `2026-11`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News](https://en.wikipedia.org/wiki/News)
+

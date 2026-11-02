@@ -589,3 +589,47 @@ Tags: `Philippines` `2026-10`
 - [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
 - [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
 
+### Philippines(検索日時 / searched at: 2026-11-01)
+
+Tags: `Philippines` `2026-11`
+
+- [Pinakamuling Balita sa Pilipinas Ngayon (Tagalog News Headlines)](https://www.randall-travel-award.missouri.edu/latest-news-in-the-philippines-today-tagalog-1326637427.html)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita Pilipinas Ngayon - Wikipedia](https://en.wikipedia.org/wiki/Balita_Pilipinas_Ngayon)
+- [Balita Sa Tagalog Ngayong Araw | Balitambayan](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [Pilipinas Balita Ngayon-PBN | Lipa City | Facebook](https://www.facebook.com/p/Pilipinas-Balita-Ngayon-PBN-61550901577576/)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [PBS News Hour](https://en.wikipedia.org/wiki/PBS_News_Hour)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [Erin Burnett](https://en.wikipedia.org/wiki/Erin_Burnett)
+
+
+Tags: `China (English)` `2026-11`
+
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+

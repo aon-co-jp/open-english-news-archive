@@ -616,3 +616,38 @@ Tags: `Taiwan (Japanese)` `2026-10`
 - [台湾ニュース - 台北駐日経済文化代表処 Taipei Economic and ...](https://www.roc-taiwan.org/jp_ja/cat/14.html)
 - [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
 
+### Germany(検索日時 / searched at: 2026-11-01)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [RTL aktuell](https://de.wikipedia.org/wiki/RTL_aktuell)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [Notícias do Brasil de Hoje - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsbrazil&hl=ja)
+- [「 ブラジル 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/brazil/)
+
+
+Tags: `Afghanistan (Japanese)` `2026-11`
+
+- [アフガニスタン 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/0bedd85b653193eb89cb1131c79b5e035495e267faff7829d380f75c4b2f6f66)
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [アフガニスタン のいま | UNHCR 日本](https://www.unhcr.org/jp/spotlight-2021-12-afghanistan-on-the-brink)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン の ニュース 放送に女性キャスター戻る - YouTube](https://www.youtube.com/watch?v=QRZ13r6mEZc)
+

@@ -861,3 +861,35 @@ Tags: `Italy (English)` `2026-10`
 - [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
 - [Fox News](https://en.wikipedia.org/wiki/Fox_News)
 
+### Tajikistan(検索日時 / searched at: 2026-11-01)
+
+Tags: `Tajikistan` `2026-11`
+
+- [Рӯзнома](https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%BD%D0%BE%D0%BC%D0%B0)
+- [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+
+
+Tags: `Switzerland (Japanese)` `2026-11`
+
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [Schweiz News - Aktuelle Infos - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.alllatestnews.schweiznewspaper&hl=ja)
+- [swissinfo.ch - スイス インフォ (@switzerlandinjapanese)](https://www.facebook.com/switzerlandinjapanese/)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [スイス の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/switzerland)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [「 ミャンマー 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/myanmar/)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/newsdigest)
+

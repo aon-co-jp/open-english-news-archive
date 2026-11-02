@@ -736,3 +736,49 @@ Tags: `Ukraine` `2026-10`
 - [Донецькі новини](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D1%96_%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8)
 - [Україна 24](https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_24)
 
+### Ukraine(検索日時 / searched at: 2026-11-01)
+
+Tags: `Ukraine` `2026-11`
+
+- [Українські національні новини](https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8)
+- [РИА Новости](https://uk.wikipedia.org/wiki/%D0%A0%D0%98%D0%90_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)
+- [USA Today](https://uk.wikipedia.org/wiki/USA_Today)
+- [Медіа Група Україна](https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D1%96%D0%B0_%D0%93%D1%80%D1%83%D0%BF%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
+- [Донецькі новини](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D1%96_%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8)
+- [Україна 24](https://uk.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_24)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics)
+- [Jihadi John](https://en.wikipedia.org/wiki/Jihadi_John)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [List of designated terrorist groups](https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwan-related terms](https://en.wikipedia.org/wiki/Taiwan-related_terms)
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+

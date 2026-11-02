@@ -601,3 +601,15 @@ Tags: `Switzerland` `2026-10`
 - [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
 - [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
 
+### Switzerland(検索日時 / searched at: 2026-11-01)
+
+Tags: `Switzerland` `2026-11`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+- [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
+

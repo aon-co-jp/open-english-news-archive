@@ -677,3 +677,11 @@ Tags: `France (English)` `2026-10`
 - [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Malaysia(検索日時 / searched at: 2026-11-01)
+
+Tags: `Malaysia` `2026-11`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+

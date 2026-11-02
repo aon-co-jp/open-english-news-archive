@@ -701,3 +701,36 @@ Tags: `France (Japanese)` `2026-10`
 - [今日 の フランス | フランス 情報メディアのET TOI（エトワ）](https://www.parisettoi.fr/news/)
 - [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
 
+### United Kingdom(検索日時 / searched at: 2026-11-01)
+
+Tags: `United Kingdom` `2026-11`
+
+- [2026 in the United Kingdom](https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom)
+- [Timeline of GB News](https://en.wikipedia.org/wiki/Timeline_of_GB_News)
+- [Headlines!](https://en.wikipedia.org/wiki/Headlines!)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [神田ADB総裁、 タジキスタン における雇用創出と成長促進に向け](https://www.adb.org/ja/news/adb-president-launches-new-partnership-strategy-boost-jobs-and-growth-tajikistan)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン 治安最新情報（2026年8月） - 海外安全.jp](https://kaigaianzen.jp/europe/tajikistan/)
+- [＜帰国大使は語る＞おもてなしが光る中央アジアの国 ...](https://www.kasumigasekikai.or.jp/%EF%BC%9C%E5%B8%B0%E5%9B%BD%E5%A4%A7%E4%BD%BF%E3%81%AF%E8%AA%9E%E3%82%8B%EF%BC%9E%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%8C%E5%85%89%E3%82%8B%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%82%B8%E3%82%A2/)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [フランス の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/france)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [ニュース ・社会問題 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+

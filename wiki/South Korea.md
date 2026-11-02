@@ -646,3 +646,62 @@ Tags: `South Korea` `2026-10`
 - [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
 - [전체 뉴스 - 한국 경제](https://www.hankyung.com/all-news)
 
+### South Korea(検索日時 / searched at: 2026-11-01)
+
+Tags: `South Korea` `2026-11`
+
+- [[ 한국뉴스 TV] 26년 10월 30일 (금) 오늘 의 주요 뉴스](https://www.24news.kr/news/articleView.html?idxno=311898)
+- [오늘 의 뉴스 요약 - 한국 주요 뉴스 3줄 정리 | Easy Brief](https://ez-brief.com/)
+- [IT/테크 주요 뉴스 오늘 의 핵심 흐름과 실무 시사점 분석](https://bstar36.tistory.com/610)
+- [가장빠른 주식 뉴스 국내주식 뉴스 오늘](https://overseasstockevents.com/%ea%b0%80%ec%9e%a5%eb%b9%a0%eb%a5%b8-%ec%a3%bc%ec%8b%9d%eb%89%b4%ec%8a%a4-%ea%b5%ad%eb%82%b4%ec%a3%bc%ec%8b%9d-%eb%89%b4%ec%8a%a4-%ec%98%a4%eb%8a%98/)
+- [📰 오늘 뉴스 헤드라인 Top 30 — 실시간 주요 기사](https://trendk.kr/trend/news)
+- [이 시각 주요 뉴스 (26. 09. 27. 12시) - KTV 국민방송](https://m.ktv.go.kr/program/again/view?content_id=761574)
+- [10월 5일- 세계 주요 언론이 본 한국](https://cafe.daum.net/achasansijo/IWBC/31?q=%ED%95%9C%EA%B5%AD%20%EB%89%B4%EC%8A%A4%20%EC%98%A4%EB%8A%98%20%EC%A3%BC%EC%9A%94&re=1)
+- [9월 8일 한국 주요 뉴스 TOP 10](https://nwforyou.tistory.com/753)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Media coverage of North Korea](https://en.wikipedia.org/wiki/Media_coverage_of_North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [TikTok in Iran](https://en.wikipedia.org/wiki/TikTok_in_Iran)
+- [Crime in Iran](https://en.wikipedia.org/wiki/Crime_in_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイ 情報 新着記事 - 海外生活ブログ](https://overseas.blogmura.com/thailand/new-post)
+
+
+Tags: `Switzerland (English)` `2026-11`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Die Weltwoche](https://en.wikipedia.org/wiki/Die_Weltwoche)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [Ye Live Concert Tour](https://en.wikipedia.org/wiki/Ye_Live_Concert_Tour)
+

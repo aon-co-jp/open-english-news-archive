@@ -705,3 +705,21 @@ Tags: `Myanmar` `2026-10`
 
 - (no items / 記事なし)
 
+### Myanmar(検索日時 / searched at: 2026-11-01)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (Japanese)` `2026-11`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [韓国 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/306d5b1c48e24febedba3bf58a5307599f68e2b5501eccfda9f7fb8064c3f559)
+- [Chosun Online - 朝鮮日報](https://www.chosunonline.com/svc/list.html)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+

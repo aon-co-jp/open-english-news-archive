@@ -586,3 +586,50 @@ Tags: `Israel` `2026-10`
 - [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### Israel(検索日時 / searched at: 2026-11-01)
+
+Tags: `Israel` `2026-11`
+
+- [List of Israeli assassinations](https://en.wikipedia.org/wiki/List_of_Israeli_assassinations)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Gaza war](https://en.wikipedia.org/wiki/Gaza_war)
+- [Israeli occupation of the Gaza Strip](https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Gaza_Strip)
+- [Israeli government response to the October 7 attacks](https://en.wikipedia.org/wiki/Israeli_government_response_to_the_October_7_attacks)
+- [Casualties of the Gaza war](https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
+
+Tags: `France (English)` `2026-11`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [ウクルインフォルム通信](https://www.ukrinform.jp/)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [ロシア の新聞/ ニュース /各種情報](https://jp.newsconc.com/world/europe/russia.html)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+
