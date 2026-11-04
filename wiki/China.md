@@ -640,3 +640,57 @@ Tags: `Ukraine (English)` `2026-11`
 - [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 
+### China(検索日時 / searched at: 2026-11-03)
+
+Tags: `China` `2026-11`
+
+- [中国新闻 网- 今日头条](http://www.baidu.com/link?url=S-_KxIYKyR2aZ6XwGa80WzHH_JI8fpPA99tTtqYg56XmOnmlI3Sr2sh5Puwl8aMOfpBwCjUUQUo2FuDg6g_OFq)
+- [今日头条](http://www.baidu.com/link?url=rT6AAHWBW204HaU6GovrC7sb5XuBbfWrZu4b7NtTnWt4Yt6qKLy21z0wFx6nY5c2)
+- [头条新闻_今日中国](http://www.baidu.com/link?url=Z-oayzjDxi-q1-D9HYNp8PgVV-S1urk3ecjXUkXgSShN-LJhCHh5NGQx4TLS_NakjpILdoRNkOivpnAVpW4Qaq)
+- [头条新闻](http://www.baidu.com/link?url=vDM5eVjk9LuDlGrfMSqFfWS4x9N63G_uqOdXcgkZH_yb-dq7e11CSL87d6-Z76X-)
+- [首页 头条 --人民网](http://www.baidu.com/link?url=vDM5eVjk9LuDlGrfMSqFfX2akIGNyd43-jSycysOY0P89pfltxFEQckN149o0Me1z4geA3rNCWlakJx5xY7gfz6yRlGpH4p5vY1CNrfyAGO)
+- [央视网的头条主页 - 今日头条](http://www.baidu.com/link?url=vUenmJOD2AK9Mh6X1wOJSPmwIB9ZiOkBUlOoEN3FIdLN1MiNBSdMmjvyzlgA2d74uO2M0kI8VkXLKEzsc5_Y9gqYSc10b-C4PT6w2zb3TXmS58yEaLusCKKic_Blagwg-izgqxNRIMrpltI4-NC23a)
+- [央广聚焦 新闻头条 _央广网](http://www.baidu.com/link?url=BeswqX4spSisAHl4AkXKyzO2c0saYLaB6vhHX9xZok1JJ6IgoSO52kdSTTFY-M4B)
+- [中国新闻 _央视网(cctv.com)](http://www.baidu.com/link?url=31-xu0646w7apyT35kk1Ate8y3zAyr9q1xSXvhchlGtOuTMc_02slKAqS_AdU6ne)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [Mass media in South Korea](https://en.wikipedia.org/wiki/Mass_media_in_South_Korea)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Media coverage of North Korea](https://en.wikipedia.org/wiki/Media_coverage_of_North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+
+
+Tags: `Thailand (English)` `2026-11`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Crime in Thailand](https://en.wikipedia.org/wiki/Crime_in_Thailand)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+- [BBC News](https://en.wikipedia.org/wiki/BBC_News)
+
+
+Tags: `Brazil (English)` `2026-11`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

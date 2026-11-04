@@ -723,3 +723,9 @@ Tags: `South Korea (Japanese)` `2026-11`
 - [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
 - [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
 
+### Myanmar(検索日時 / searched at: 2026-11-03)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
