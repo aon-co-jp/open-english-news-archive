@@ -676,3 +676,15 @@ Tags: `United States` `2026-11`
 - [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](https://www.foxnews.com/)
 - [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
 
+### United States(検索日時 / searched at: 2026-11-03)
+
+Tags: `United States` `2026-11`
+
+- [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
+- [US news from the Guardian | The Guardian](https://www.theguardian.com/us-news)
+- [U.S. News: Latest Breaking Stories and Video on National Issues | NBC News](https://www.nbcnews.com/us-news)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video](https://www.washingtonpost.com/)
+- [U.S. News: Latest news, breaking news, today's news stories updated daily from CBS News](https://www.cbsnews.com/us/)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+
