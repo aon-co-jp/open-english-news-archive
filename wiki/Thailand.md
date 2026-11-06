@@ -655,3 +655,39 @@ Tags: `Tajikistan (Japanese)` `2026-11`
 - [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
 - [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
 
+### Thailand(検索日時 / searched at: 2026-11-05)
+
+Tags: `Thailand` `2026-11`
+
+- [สำนักข่าวไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A2)
+- [วันนักข่าว](https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7)
+- [ครอบครัวข่าว 3](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7_3)
+- [สถานีโทรทัศน์แห่งประเทศไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2)
+- [สำนักข่าวกรมประชาสัมพันธ์](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C)
+- [ข่าวช่อง 7HD](https://th.wikipedia.org/wiki/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87_7HD)
+- [สนามข่าว 7 สี](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7_7_%E0%B8%AA%E0%B8%B5)
+- [สมาคมนักข่าวนักหนังสือพิมพ์แห่งประเทศไทย](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2)
+
+
+Tags: `Germany (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+
+
+Tags: `France (English)` `2026-11`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

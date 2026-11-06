@@ -646,3 +646,62 @@ Tags: `Philippines` `2026-11`
 - [Balita - Balita](https://balita.mb.com.ph/balita/)
 - [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
 
+### Philippines(検索日時 / searched at: 2026-11-05)
+
+Tags: `Philippines` `2026-11`
+
+- [Big News](https://en.wikipedia.org/wiki/Big_News)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
+- [List of TV5 original programming](https://en.wikipedia.org/wiki/List_of_TV5_original_programming)
+- [List of programs broadcast by DZRH/DZRH News Television](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_DZRH/DZRH_News_Television)
+- [List of longest-running Philippine television series](https://en.wikipedia.org/wiki/List_of_longest-running_Philippine_television_series)
+- [1987 in Philippine television](https://en.wikipedia.org/wiki/1987_in_Philippine_television)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [2025 Hong Kong Sixes](https://en.wikipedia.org/wiki/2025_Hong_Kong_Sixes)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [Erin Burnett](https://en.wikipedia.org/wiki/Erin_Burnett)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [ロシア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/russia/)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [News](https://en.wikipedia.org/wiki/News)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+

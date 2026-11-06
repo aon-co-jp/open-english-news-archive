@@ -1175,3 +1175,35 @@ Tags: `Iran` `2026-11`
 - [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
 - [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
 
+### Iran(検索日時 / searched at: 2026-11-05)
+
+Tags: `Iran` `2026-11`
+
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [خط ۴ انتقال آب از دریای عمان به شرق ایران](https://fa.wikipedia.org/wiki/%D8%AE%D8%B7_%DB%B4_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84_%D8%A2%D8%A8_%D8%A7%D8%B2_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D8%B9%D9%85%D8%A7%D9%86_%D8%A8%D9%87_%D8%B4%D8%B1%D9%82_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [احمد میرزاپور](https://fa.wikipedia.org/wiki/%D8%A7%D8%AD%D9%85%D8%AF_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%D9%BE%D9%88%D8%B1)
+- [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
+- [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
+
+
+Tags: `Afghanistan (Japanese)` `2026-11`
+
+- [アフガニスタン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=2108afghanistan)
+- [「 アフガニスタン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10105)
+- [アフガニスタン ・イスラム共和国の関連情報 - フォロー](https://follow.yahoo.co.jp/themes/009cdd0d709727a72400/)
+- [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
+- [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
+- [Afghanistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Afghanistan)
+- [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
+- [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
+
+
+Tags: `Thailand (English)` `2026-11`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+- [BBC News](https://en.wikipedia.org/wiki/BBC_News)
+

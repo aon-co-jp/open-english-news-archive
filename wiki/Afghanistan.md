@@ -767,3 +767,34 @@ Tags: `Germany (Japanese)` `2026-11`
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 - [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
 
+### Afghanistan(検索日時 / searched at: 2026-11-05)
+
+Tags: `Afghanistan` `2026-11`
+
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
+- [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
+
+
+Tags: `Switzerland (Japanese)` `2026-11`
+
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [スイス - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_switzerland/)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
+
+
+Tags: `Japan (English)` `2026-11`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

@@ -901,3 +901,71 @@ Tags: `Tajikistan` `2026-11`
 - [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
 - [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
 
+### Tajikistan(検索日時 / searched at: 2026-11-05)
+
+Tags: `Tajikistan` `2026-11`
+
+- [Рӯзнома](https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%BD%D0%BE%D0%BC%D0%B0)
+- [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
+- [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
+
+
+Tags: `Egypt (Japanese)` `2026-11`
+
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt/page2)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425?page=3)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0ee2889867904a8f2378/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Reactions to the 2014 Peshawar school massacre](https://en.wikipedia.org/wiki/Reactions_to_the_2014_Peshawar_school_massacre)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [Eurasian Economic Union](https://en.wikipedia.org/wiki/Eurasian_Economic_Union)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [ブラジル 日報 Jornal Brasil Nippou - YouTube](https://www.youtube.com/@BrasilNippou/playlists)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [Notícias do Brasil de Hoje - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsbrazil&hl=ja)
+- [ブラジル - BBC ニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [COVID-19 pandemic in Taiwan](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Taiwan)
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+

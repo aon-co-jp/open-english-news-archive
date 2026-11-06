@@ -637,3 +637,14 @@ Tags: `Egypt` `2026-11`
 - [انتخابات الرئاسة المصرية 2030](https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_2030)
 - [محمد نجيب](https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%AC%D9%8A%D8%A8)
 
+### Egypt(検索日時 / searched at: 2026-11-05)
+
+Tags: `Egypt` `2026-11`
+
+- [الصفحة الرئيسة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9)
+- [دار أخبار اليوم](https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%8A%D9%88%D9%85)
+- [القاهرة الإخبارية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9)
+- [رئيس مصر](https://ar.wikipedia.org/wiki/%D8%B1%D8%A6%D9%8A%D8%B3_%D9%85%D8%B5%D8%B1)
+- [مصر](https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1)
+- [بي إن سبورتس الإخبارية](https://ar.wikipedia.org/wiki/%D8%A8%D9%8A_%D8%A5%D9%86_%D8%B3%D8%A8%D9%88%D8%B1%D8%AA%D8%B3_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9)
+

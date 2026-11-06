@@ -584,3 +584,62 @@ Tags: `South Africa` `2026-11`
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+### South Africa(検索日時 / searched at: 2026-11-05)
+
+Tags: `South Africa` `2026-11`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Lara Logan](https://en.wikipedia.org/wiki/Lara_Logan)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/france/)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Economy of Egypt](https://en.wikipedia.org/wiki/Economy_of_Egypt)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [新着 ニュース - ウクルインフォルム通信](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+- [ウクルインフォルム通信](https://www.ukrinform.jp/)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+

@@ -599,3 +599,36 @@ Tags: `Ukraine (English)` `2026-11`
 - [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 
+### France(検索日時 / searched at: 2026-11-05)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [France 24](https://fr.wikipedia.org/wiki/France_24)
+- [Génération.s](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration.s)
+- [France Football](https://fr.wikipedia.org/wiki/France_Football)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Fabrice Arfi](https://fr.wikipedia.org/wiki/Fabrice_Arfi)
+
+
+Tags: `China (English)` `2026-11`
+
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+
+
+Tags: `Ukraine (English)` `2026-11`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Disinformation in the Russo-Ukrainian war](https://en.wikipedia.org/wiki/Disinformation_in_the_Russo-Ukrainian_war)
+- [Ukraine bioweapons conspiracy theory](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
+- [Far-right politics in Ukraine](https://en.wikipedia.org/wiki/Far-right_politics_in_Ukraine)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+

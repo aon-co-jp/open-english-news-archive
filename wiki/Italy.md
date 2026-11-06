@@ -643,3 +643,82 @@ Tags: `Italy` `2026-11`
 - [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
 - [ANSA](https://it.wikipedia.org/wiki/ANSA)
 
+### Italy(検索日時 / searched at: 2026-11-05)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Pagina principale](https://it.wikipedia.org/wiki/Pagina_principale)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [ANSA](https://it.wikipedia.org/wiki/ANSA)
+
+
+Tags: `Brazil (English)` `2026-11`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [時事速報：アジア／バンコク版－時事通信社 - JIJI-WEB](https://jijiweb.jiji.com/info/sample/bangkok.html)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `Italy (Japanese)` `2026-11`
+
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [Notizie Italia: Ultima Ora - Google Play のアプリ](https://play.google.com/store/apps/details?id=com.bestonlinenews.newsitaly&hl=ja)
+- [「 イタリア 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+- [イタリア 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/6a23dcecdbb44001d0f00f92fade3287eef9989efa2f4b2782f701dceb20e638)
+
+
+Tags: `China (Japanese)` `2026-11`
+
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [最新の 中国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/42/)
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+- [中国 ・習近平政権 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [中国 の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/007c341ed731341e2337/)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Media coverage of North Korea](https://en.wikipedia.org/wiki/Media_coverage_of_North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
+- [Korean Americans](https://en.wikipedia.org/wiki/Korean_Americans)
+

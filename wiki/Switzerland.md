@@ -625,3 +625,27 @@ Tags: `Switzerland` `2026-11`
 - [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
 - [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
 
+### Switzerland(検索日時 / searched at: 2026-11-05)
+
+Tags: `Switzerland` `2026-11`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+- [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
+- [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマーニュース](https://www.myanmar-news.asia/)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+

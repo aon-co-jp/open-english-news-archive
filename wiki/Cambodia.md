@@ -786,3 +786,57 @@ Tags: `Afghanistan (Japanese)` `2026-11`
 - [アフガニスタン - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzr421t)
 - [「 アフガニスタン 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000226)
 
+### Cambodia(検索日時 / searched at: 2026-11-05)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
+
+Tags: `Switzerland (English)` `2026-11`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Die Weltwoche](https://en.wikipedia.org/wiki/Die_Weltwoche)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [List of vice presidential trips made by JD Vance](https://en.wikipedia.org/wiki/List_of_vice_presidential_trips_made_by_JD_Vance)
+
+
+Tags: `Iran (Japanese)` `2026-11`
+
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [「 イラン 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10110)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+- [イラン の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/06fd6249c78927c72400/)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [イラン 安保委トップ、 プーチン氏と会談 最高指導者の親書 ...](https://www.reuters.com/jp/world/security/L4XVLZNF45J4RNQOBGNVVOUXXY-2026-11-05/)
+
+
+Tags: `South Korea (Japanese)` `2026-11`
+
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+

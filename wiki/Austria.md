@@ -708,3 +708,13 @@ Tags: `Germany (English)` `2026-11`
 - [News ticker](https://en.wikipedia.org/wiki/News_ticker)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Austria(検索日時 / searched at: 2026-11-05)
+
+Tags: `Austria` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+
