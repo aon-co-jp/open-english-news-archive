@@ -772,3 +772,16 @@ Tags: `Brazil` `2026-11`
 - [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
 - [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
 
+### Brazil(検索日時 / searched at: 2026-11-07)
+
+Tags: `Brazil` `2026-11`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Agência Brasil](https://pt.wikipedia.org/wiki/Ag%C3%AAncia_Brasil)
+- [Armas Nacionais do Brasil](https://pt.wikipedia.org/wiki/Armas_Nacionais_do_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Banco do Brasil](https://pt.wikipedia.org/wiki/Banco_do_Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+

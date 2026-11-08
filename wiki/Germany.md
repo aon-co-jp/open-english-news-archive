@@ -695,3 +695,26 @@ Tags: `Taiwan (Japanese)` `2026-11`
 - [台湾 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/taiwan)
 - [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
 
+### Germany(検索日時 / searched at: 2026-11-07)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
