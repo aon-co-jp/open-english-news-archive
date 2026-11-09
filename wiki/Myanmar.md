@@ -763,3 +763,9 @@ Tags: `Tajikistan (English)` `2026-11`
 - [Eurasian Economic Union](https://en.wikipedia.org/wiki/Eurasian_Economic_Union)
 - [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
 
+### Myanmar(検索日時 / searched at: 2026-11-08)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+

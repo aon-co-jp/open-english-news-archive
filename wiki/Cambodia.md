@@ -870,3 +870,9 @@ Tags: `Thailand (Japanese)` `2026-11`
 - [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
 - [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
 
+### Cambodia(検索日時 / searched at: 2026-11-08)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
