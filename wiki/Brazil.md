@@ -821,3 +821,75 @@ Tags: `France (Japanese)` `2026-11`
 - [今日 の フランス](https://www.parisettoi.fr/news/)
 - [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
 
+### Brazil(検索日時 / searched at: 2026-11-09)
+
+Tags: `Brazil` `2026-11`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Agência Brasil](https://pt.wikipedia.org/wiki/Ag%C3%AAncia_Brasil)
+- [Armas Nacionais do Brasil](https://pt.wikipedia.org/wiki/Armas_Nacionais_do_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Banco do Brasil](https://pt.wikipedia.org/wiki/Banco_do_Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [ブラジル 日報 Jornal Brasil Nippou - YouTube](https://www.youtube.com/@BrasilNippou/playlists)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [ブラジル - BBC ニュース](https://www.bbc.com/japanese/topics/c5qvpx7pjwzt)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [The Korea Times](https://en.wikipedia.org/wiki/The_Korea_Times)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Media coverage of North Korea](https://en.wikipedia.org/wiki/Media_coverage_of_North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
+- [Babymonster](https://en.wikipedia.org/wiki/Babymonster)
+
+
+Tags: `Austria (English)` `2026-11`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Miss Universe 2026](https://en.wikipedia.org/wiki/Miss_Universe_2026)
+- [Lamine Yamal](https://en.wikipedia.org/wiki/Lamine_Yamal)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
