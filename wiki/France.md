@@ -714,3 +714,16 @@ Tags: `Russia (Japanese)` `2026-11`
 - [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
 - [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
 
+### France(検索日時 / searched at: 2026-11-09)
+
+Tags: `France` `2026-11`
+
+- [France 24](https://fr.wikipedia.org/wiki/France_24)
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [France Football](https://fr.wikipedia.org/wiki/France_Football)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Fabrice Arfi](https://fr.wikipedia.org/wiki/Fabrice_Arfi)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+

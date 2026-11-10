@@ -828,3 +828,15 @@ Tags: `Taiwan (English)` `2026-11`
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 - [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
 
+### Italy(検索日時 / searched at: 2026-11-09)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Pagina principale](https://it.wikipedia.org/wiki/Pagina_principale)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Corriere della Sera](https://it.wikipedia.org/wiki/Corriere_della_Sera)
+
