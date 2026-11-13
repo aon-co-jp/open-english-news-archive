@@ -927,3 +927,16 @@ Tags: `Brazil` `2026-11`
 - [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
 - [Bandeira do Brasil](https://pt.wikipedia.org/wiki/Bandeira_do_Brasil)
 
+### Brazil(検索日時 / searched at: 2026-11-12)
+
+Tags: `Brazil` `2026-11`
+
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Economia do Brasil](https://pt.wikipedia.org/wiki/Economia_do_Brasil)
+- [História do Brasil](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [A Fazenda 18](https://pt.wikipedia.org/wiki/A_Fazenda_18)
+- [Copa do Brasil de Futebol](https://pt.wikipedia.org/wiki/Copa_do_Brasil_de_Futebol)
+
