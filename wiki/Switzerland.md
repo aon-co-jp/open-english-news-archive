@@ -954,3 +954,15 @@ Tags: `France (Japanese)` `2026-11`
 - [フランス 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/c8af5159309d6a67f874c08682077bd8d7532c8507496d9a49cb911d8bffab02)
 - [フランス の ニュース ・最新記事 - 読売新聞](https://www.yomiuri.co.jp/keyword/99916/)
 
+### Switzerland(検索日時 / searched at: 2026-11-12)
+
+Tags: `Switzerland` `2026-11`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+- [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
+

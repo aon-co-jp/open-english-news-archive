@@ -789,3 +789,16 @@ Tags: `Taiwan (Japanese)` `2026-11`
 - [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
 - [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
 
+### France(検索日時 / searched at: 2026-11-12)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Audrey Goutard](https://fr.wikipedia.org/wiki/Audrey_Goutard)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
+

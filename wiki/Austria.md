@@ -840,3 +840,13 @@ Tags: `China (Japanese)` `2026-11`
 - [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
 - [中国 の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/007c341ed731341e2337/)
 
+### Austria(検索日時 / searched at: 2026-11-12)
+
+Tags: `Austria` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+

@@ -772,3 +772,13 @@ Tags: `Germany` `2026-11`
 - [RTL aktuell](https://de.wikipedia.org/wiki/RTL_aktuell)
 - [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
 
+### Germany(検索日時 / searched at: 2026-11-12)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+

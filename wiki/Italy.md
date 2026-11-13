@@ -876,3 +876,15 @@ Tags: `Italy` `2026-11`
 - [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
 - [Fake news](https://it.wikipedia.org/wiki/Fake_news)
 
+### Italy(検索日時 / searched at: 2026-11-12)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [QN Quotidiano Nazionale](https://it.wikipedia.org/wiki/QN_Quotidiano_Nazionale)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Fake news](https://it.wikipedia.org/wiki/Fake_news)
+
