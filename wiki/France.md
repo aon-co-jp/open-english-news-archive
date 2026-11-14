@@ -802,3 +802,28 @@ Tags: `France` `2026-11`
 - [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
 - [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
 
+### France(検索日時 / searched at: 2026-11-13)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Hugo Clément](https://fr.wikipedia.org/wiki/Hugo_Cl%C3%A9ment)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Audrey Goutard](https://fr.wikipedia.org/wiki/Audrey_Goutard)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+
+
+Tags: `South Korea (Japanese)` `2026-11`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [最新の 韓国ニュース - ライブドアニュース - Livedoor](https://news.livedoor.com/article/category/44/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+

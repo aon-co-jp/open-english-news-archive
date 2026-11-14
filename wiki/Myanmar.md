@@ -1029,3 +1029,9 @@ Tags: `Ukraine (English)` `2026-11`
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 - [USA Today](https://en.wikipedia.org/wiki/USA_Today)
 
+### Myanmar(検索日時 / searched at: 2026-11-13)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
