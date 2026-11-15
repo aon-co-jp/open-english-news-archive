@@ -860,3 +860,25 @@ Tags: `Austria` `2026-11`
 - [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
 - [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
 
+### Austria(検索日時 / searched at: 2026-11-14)
+
+Tags: `Austria` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [ニュース ・社会問題 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+

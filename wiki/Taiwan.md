@@ -1135,3 +1135,87 @@ Tags: `Taiwan` `2026-11`
 - [寶林茶室中毒案](https://zh.wikipedia.org/wiki/%E5%AF%B6%E6%9E%97%E8%8C%B6%E5%AE%A4%E4%B8%AD%E6%AF%92%E6%A1%88)
 - [有线电视新闻网](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91)
 
+### Taiwan(検索日時 / searched at: 2026-11-14)
+
+Tags: `Taiwan` `2026-11`
+
+- [Yahoo新聞](https://tw.news.yahoo.com/)
+- [李文儀](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%84%80)
+- [NOWnews今日新聞](https://www.nownews.com/)
+- [李晶玉](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%B6%E7%8E%89)
+- [今日頭條新聞網 | 今日新聞頭條，首屈一指的商業、科技、金融與財經新聞頭條平台](https://headnews.com.tw/)
+- [台灣偶像劇列表](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%81%B6%E5%83%8F%E5%8A%87%E5%88%97%E8%A1%A8)
+- [頭條焦點 | NOWnews今日新聞](https://www.nownews.com/cat/column-headline/)
+- [字幕跑馬燈](https://zh.wikipedia.org/wiki/%E5%AD%97%E5%B9%95%E8%B7%91%E9%A6%AC%E7%87%88)
+
+
+Tags: `South Korea (Japanese)` `2026-11`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [最新の 韓国ニュース - ライブドアニュース](https://news.livedoor.com/article/category/44/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [韓国 ・朝鮮半島に関する ニュース と解説 - 日本経済新聞](https://www.nikkei.com/international/korea/)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [タイニュース ＆ タイ ブログ (@Thai_News_JP) / X](https://x.com/Thai_News_JP)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- [ロシア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/russia/)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [Russia ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Russia)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [現地大使館・総領事館からの安全情報 履歴 ドイツ （114件）](https://www.anzen.mofa.go.jp/od/ryojiMail.html?countryCd=0049)
+

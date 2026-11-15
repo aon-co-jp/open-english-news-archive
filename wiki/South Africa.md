@@ -1094,3 +1094,27 @@ Tags: `Tajikistan (Japanese)` `2026-11`
 - [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
 - [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
 
+### South Africa(検索日時 / searched at: 2026-11-14)
+
+Tags: `South Africa` `2026-11`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [Lara Logan](https://en.wikipedia.org/wiki/Lara_Logan)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+- [Eurasian Economic Union](https://en.wikipedia.org/wiki/Eurasian_Economic_Union)
+

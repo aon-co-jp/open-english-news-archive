@@ -827,3 +827,86 @@ Tags: `South Korea (Japanese)` `2026-11`
 - [聯合 ニュース](https://jp.yna.co.kr/)
 - [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
 
+### France(検索日時 / searched at: 2026-11-14)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
+- [François Villeroy de Galhau](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Villeroy_de_Galhau)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0ee2889867904a8f2378/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+
+
+Tags: `Iran (Japanese)` `2026-11`
+
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [イラン - BBC ニュース](https://www.bbc.com/japanese/topics/c8y946g2nz3t)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+- [イラン の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/06fd6249c78927c72400/)
+
+
+Tags: `Germany (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [現地大使館・総領事館からの安全情報 履歴 ドイツ （114件）](https://www.anzen.mofa.go.jp/od/ryojiMail.html?countryCd=0049)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [2025–2026 Iranian protests](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Reactions to the 2026 Iran war](https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war)
+- [List of newspapers in Iran](https://en.wikipedia.org/wiki/List_of_newspapers_in_Iran)
+- [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- [List of wars involving Iran](https://en.wikipedia.org/wiki/List_of_wars_involving_Iran)
+- [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+
+
+Tags: `Ukraine (English)` `2026-11`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Disinformation in the Russo-Ukrainian war](https://en.wikipedia.org/wiki/Disinformation_in_the_Russo-Ukrainian_war)
+- [Far-right politics in Ukraine](https://en.wikipedia.org/wiki/Far-right_politics_in_Ukraine)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+

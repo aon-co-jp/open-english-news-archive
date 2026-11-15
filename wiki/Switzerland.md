@@ -1000,3 +1000,15 @@ Tags: `Tajikistan (English)` `2026-11`
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 - [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
 
+### Switzerland(検索日時 / searched at: 2026-11-14)
+
+Tags: `Switzerland` `2026-11`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+- [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
+

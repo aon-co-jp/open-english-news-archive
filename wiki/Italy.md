@@ -924,3 +924,37 @@ Tags: `Thailand (Japanese)` `2026-11`
 - [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
 - [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
 
+### Italy(検索日時 / searched at: 2026-11-14)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Pagina principale](https://it.wikipedia.org/wiki/Pagina_principale)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [QN Quotidiano Nazionale](https://it.wikipedia.org/wiki/QN_Quotidiano_Nazionale)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Fake news](https://it.wikipedia.org/wiki/Fake_news)
+
+
+Tags: `France (English)` `2026-11`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+

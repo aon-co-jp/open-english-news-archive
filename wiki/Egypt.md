@@ -911,3 +911,56 @@ Tags: `Russia (English)` `2026-11`
 - [News](https://en.wikipedia.org/wiki/News)
 - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 
+### Egypt(検索日時 / searched at: 2026-11-14)
+
+Tags: `Egypt` `2026-11`
+
+- [الصفحة الرئيسة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9)
+- [دار أخبار اليوم](https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%8A%D9%88%D9%85)
+- [مصر](https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1)
+- [أسامة هيكل](https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9_%D9%87%D9%8A%D9%83%D9%84)
+- [قناة المجد الإخبارية](https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [CB Bank](https://en.wikipedia.org/wiki/CB_Bank)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Japan (English)` `2026-11`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)
+
+
+Tags: `Switzerland (English)` `2026-11`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [2026 United States Senate election in Texas](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas)
+
+
+Tags: `China (Japanese)` `2026-11`
+
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [「 中国 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000215)
+- [最新の 中国ニュース](https://news.livedoor.com/article/category/42/)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [中国 ・習近平政権 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+

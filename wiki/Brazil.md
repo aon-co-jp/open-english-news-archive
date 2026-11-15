@@ -988,3 +988,16 @@ Tags: `Myanmar (Japanese)` `2026-11`
 - [ミャンマーニュース](https://www.myanmar-news.asia/)
 - [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
 
+### Brazil(検索日時 / searched at: 2026-11-14)
+
+Tags: `Brazil` `2026-11`
+
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Economia do Brasil](https://pt.wikipedia.org/wiki/Economia_do_Brasil)
+- [História do Brasil](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [Copa do Brasil de Futebol](https://pt.wikipedia.org/wiki/Copa_do_Brasil_de_Futebol)
+- [Maju Coutinho](https://pt.wikipedia.org/wiki/Maju_Coutinho)
+

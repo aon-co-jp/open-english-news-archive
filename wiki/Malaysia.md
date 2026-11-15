@@ -886,3 +886,16 @@ Tags: `Germany (Japanese)` `2026-11`
 - [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
 - [現地大使館・総領事館からの安全情報 履歴 ドイツ （114件）](https://www.anzen.mofa.go.jp/od/ryojiMail.html?countryCd=0049)
 
+### Malaysia(検索日時 / searched at: 2026-11-14)
+
+Tags: `Malaysia` `2026-11`
+
+- [Harian Metro | Berita Malaysia dan berita dunia terkini](https://www.hmetro.com.my/)
+- [Terkini - Utusan Malaysia](https://www.utusan.com.my/terkini/)
+- [Berita tempatan pilihan sepanjang hari ini | Awani](https://www.astroawani.com/berita-malaysia/berita-tempatan-pilihan-sepanjang-hari-ini-274)
+- [Liputan Harian Berita Terkini Di Malaysia](https://www.astroawani.com/berita-malaysia)
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Utusan Malaysia](https://www.utusan.com.my/)
+- [Berita Terkini Malaysia & Dunia | FMT Bahasa Melayu](https://www.freemalaysiatoday.com/berita)
+- [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/home)
+

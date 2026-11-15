@@ -1009,3 +1009,16 @@ Tags: `Switzerland (Japanese)` `2026-11`
 - [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
 - [「 スイス について」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
+### Cambodia(検索日時 / searched at: 2026-11-14)
+
+Tags: `Cambodia` `2026-11`
+
+- [កម្ពុជាថ្ងៃនេះ - វីអូអេ - VOA Khmer](https://khmer.voanews.com/cambodiatoday)
+- [កម្ពុជាថ្ងៃនេះ | Sihanoukville (city) | Facebook](https://www.facebook.com/camdaynews/)
+- [ព័ត៌មានជាតិ - Kampuchea Thmey Daily](https://www.kampucheathmey.com/category/local-news)
+- [សម្តេចតេជោ ៖ ថ្ងៃនេះ ជាខួប៣៥ឆ្នាំនៃការយាងនិវត្តមកមាតុភូមិកម្ពុជាវិញ របស់ព្រះបរមរតនកោដ្ឋ – DAP News](https://dap-news.com/national/2026/11/14/646569/)
+- [ព័ត៌មានពីប្រទេសកម្ពុជា-វិទ្យុបារាំងអន្តរជាតិ RFI ខេមរភាសា](https://www.rfi.fr/km/%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6/)
+- [ព័ត៌មានជាតិ – TVK Cambodia](https://www.tvk.gov.kh/category/national/)
+- [ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ](https://www.rfi.fr/km/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9E%B6%E1%9E%99%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%B9%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8E%E1%9F%8D%E2%80%8B%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%E2%80%8B%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/)
+- [ក្រសួងព័ត៌មាន - Phnom Penh](https://information.gov.kh/)
+

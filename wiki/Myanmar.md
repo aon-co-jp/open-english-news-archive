@@ -1035,3 +1035,21 @@ Tags: `Myanmar` `2026-11`
 
 - (no items / 記事なし)
 
+### Myanmar(検索日時 / searched at: 2026-11-14)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [新着 ニュース - ウクルインフォルム](https://www.ukrinform.jp/block-lastnews)
+- [ウクライナ 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000296)
+- [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+

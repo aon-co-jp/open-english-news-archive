@@ -792,3 +792,59 @@ Tags: `Germany` `2026-11`
 - [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
 - [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
 
+### Germany(検索日時 / searched at: 2026-11-14)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
+
+Tags: `Taiwan (Japanese)` `2026-11`
+
+- [台湾 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/taiwan)
+- [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [台湾ニュース ＠中央社フォーカス 台湾 (@focustaiwanjapa) / X](https://x.com/focustaiwanjapa)
+- [ニュース - : Taiwan Today](https://jp.taiwantoday.tw/list_news)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- [NK News](https://en.wikipedia.org/wiki/NK_News)
+- [North Korea](https://en.wikipedia.org/wiki/North_Korea)
+- [Media coverage of North Korea](https://en.wikipedia.org/wiki/Media_coverage_of_North_Korea)
+- [Jung Kook](https://en.wikipedia.org/wiki/Jung_Kook)
+- [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [Sky News](https://en.wikipedia.org/wiki/Sky_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [News](https://en.wikipedia.org/wiki/News)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+
