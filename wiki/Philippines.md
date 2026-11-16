@@ -885,3 +885,16 @@ Tags: `Italy (Japanese)` `2026-11`
 - [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
 - [イタリア 関連 ニュース - dメニューニュース - NTTドコモ](https://topics.smt.docomo.ne.jp/latestnews/keywords/6a23dcecdbb44001d0f00f92fade3287eef9989efa2f4b2782f701dceb20e638)
 
+### Philippines(検索日時 / searched at: 2026-11-15)
+
+Tags: `Philippines` `2026-11`
+
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+- [Big News](https://en.wikipedia.org/wiki/Big_News)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [List of Philippine television programs by date](https://en.wikipedia.org/wiki/List_of_Philippine_television_programs_by_date)
+- [List of TV5 original programming](https://en.wikipedia.org/wiki/List_of_TV5_original_programming)
+- [List of programs broadcast by DZRH/DZRH News Television](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_DZRH/DZRH_News_Television)
+- [List of longest-running Philippine television series](https://en.wikipedia.org/wiki/List_of_longest-running_Philippine_television_series)
+- [1987 in Philippine television](https://en.wikipedia.org/wiki/1987_in_Philippine_television)
+

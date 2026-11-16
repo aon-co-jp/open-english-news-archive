@@ -910,3 +910,16 @@ Tags: `Ukraine (English)` `2026-11`
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 - [USA Today](https://en.wikipedia.org/wiki/USA_Today)
 
+### France(検索日時 / searched at: 2026-11-15)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Liste des guerres de la France](https://fr.wikipedia.org/wiki/Liste_des_guerres_de_la_France)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Audrey Goutard](https://fr.wikipedia.org/wiki/Audrey_Goutard)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Hiver en France métropolitaine](https://fr.wikipedia.org/wiki/Hiver_en_France_m%C3%A9tropolitaine)
+

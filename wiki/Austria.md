@@ -882,3 +882,14 @@ Tags: `France (Japanese)` `2026-11`
 - [ニュース ・社会問題 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/)
 - [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
 
+### Austria(検索日時 / searched at: 2026-11-15)
+
+Tags: `Austria` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [RTL aktuell](https://de.wikipedia.org/wiki/RTL_aktuell)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+

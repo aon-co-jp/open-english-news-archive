@@ -899,3 +899,11 @@ Tags: `Malaysia` `2026-11`
 - [Berita Terkini Malaysia & Dunia | FMT Bahasa Melayu](https://www.freemalaysiatoday.com/berita)
 - [Astro Awani - Liputan harian berita terkini | Awani](https://www.astroawani.com/home)
 
+### Malaysia(検索日時 / searched at: 2026-11-15)
+
+Tags: `Malaysia` `2026-11`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+

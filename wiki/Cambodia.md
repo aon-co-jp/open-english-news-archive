@@ -1022,3 +1022,9 @@ Tags: `Cambodia` `2026-11`
 - [ព្រឹត្តិការណ៍​កម្ពុជា​ប្រចាំថ្ងៃ](https://www.rfi.fr/km/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%95%E1%9F%92%E1%9E%9F%E1%9E%B6%E1%9E%99%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%B9%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%8E%E1%9F%8D%E2%80%8B%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%E2%80%8B%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83/)
 - [ក្រសួងព័ត៌មាន - Phnom Penh](https://information.gov.kh/)
 
+### Cambodia(検索日時 / searched at: 2026-11-15)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+

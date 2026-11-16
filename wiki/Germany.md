@@ -848,3 +848,14 @@ Tags: `Taiwan (English)` `2026-11`
 - [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 
+### Germany(検索日時 / searched at: 2026-11-15)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [RTL aktuell](https://de.wikipedia.org/wiki/RTL_aktuell)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+
