@@ -1118,3 +1118,152 @@ Tags: `Tajikistan (English)` `2026-11`
 - [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
 - [Eurasian Economic Union](https://en.wikipedia.org/wiki/Eurasian_Economic_Union)
 
+### South Africa(検索日時 / searched at: 2026-11-15)
+
+Tags: `South Africa` `2026-11`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [現地大使館・総領事館からの安全情報 履歴 ドイツ （114件）](https://www.anzen.mofa.go.jp/od/ryojiMail.html?countryCd=0049)
+
+
+Tags: `Switzerland (English)` `2026-11`
+
+- [SWI swissinfo](https://en.wikipedia.org/wiki/SWI_swissinfo)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Die Weltwoche](https://en.wikipedia.org/wiki/Die_Weltwoche)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
+- [CNN](https://en.wikipedia.org/wiki/CNN)
+- [Ye Live Concert Tour](https://en.wikipedia.org/wiki/Ye_Live_Concert_Tour)
+
+
+Tags: `Thailand (English)` `2026-11`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [Crime in Thailand](https://en.wikipedia.org/wiki/Crime_in_Thailand)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [BBC News](https://en.wikipedia.org/wiki/BBC_News)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [ニュース ・社会問題 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [ET TOI（エトワ）| フランス 情報メディア](https://www.parisettoi.fr/)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+
+
+Tags: `France (English)` `2026-11`
+
+- [France 24](https://en.wikipedia.org/wiki/France_24)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Real Raw News](https://en.wikipedia.org/wiki/Real_Raw_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- [ロシア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/russia/)
+- [「 ロシア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20133)
+- [「 ロシア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/russia/)
+- [ロシア - BBC ニュース](https://www.bbc.com/japanese/topics/cnq68k055pwt)
+- [「 ロシア 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000220)
+- [ロシア | 国際の ニュース | JBpress (ジェイビープレス)](https://jbpress.ismedia.jp/subcategory/%E3%83%AD%E3%82%B7%E3%82%A2)
+- [ロシア の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/russia/)
+- [最新 ロシアニュース | ロイター - Reuters](https://www.reuters.com/jp/world/russia/)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- [Tajikistan：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Tajikistan)
+- [タジキスタン の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3.html)
+- [タジキスタン - 。 今日 の最新 ニュース と主な出来事。](https://sputniknews.jp/geo_tajikistan/)
+- [タジキスタン 共和国の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0ee2889867904a8f2378/)
+- [「 タジキスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/tajikistan/)
+- [タジキスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/74884/)
+- [トピック ニュース | 駐日 タジキスタン 共和国大使館](https://www.mfa.tj/ja/tokyo/topical-news-ja)
+- [「 タジキスタン 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3)
+
+
+Tags: `Austria (English)` `2026-11`
+
+- [Vienna](https://en.wikipedia.org/wiki/Vienna)
+- [Anif Palace](https://en.wikipedia.org/wiki/Anif_Palace)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Breitbart News](https://en.wikipedia.org/wiki/Breitbart_News)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Murder of Don Solovich](https://en.wikipedia.org/wiki/Murder_of_Don_Solovich)
+- [Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly)
+- [Santorini International Airport](https://en.wikipedia.org/wiki/Santorini_International_Airport)
+
+
+Tags: `Italy (Japanese)` `2026-11`
+
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリア - 。 今日 の最新 ニュース と主な出来事。 - Sputnik 日本](https://sputniknews.jp/geo_italy/)
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [「 イタリア 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [イタリア - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/it/)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Al-Masry Al-Youm](https://en.wikipedia.org/wiki/Al-Masry_Al-Youm)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [Farouk of Egypt](https://en.wikipedia.org/wiki/Farouk_of_Egypt)
+
+
+Tags: `Egypt (Japanese)` `2026-11`
+
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+- [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
+- [外交政策 ニュース | 在 エジプト 日本国大使館](https://www.eg.emb-japan.go.jp/itpr_ja/index.html)
+
+
+Tags: `Switzerland (Japanese)` `2026-11`
+
+- [スイス 、 ニュース と展望 - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/)
+- [スイス の ニュース - SWI swissinfo.ch](https://www.swissinfo.ch/jpn/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/)
+- [「 スイス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20148)
+- [「 スイス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/switzerland/)
+- [「 スイス 」 ニュース 一覧 | NHK ニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000409)
+- [スイス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%B9%E3%82%A4%E3%82%B9.html)
+- [「 スイス について」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [Swiss ：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Swiss)
+

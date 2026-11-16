@@ -1053,3 +1053,67 @@ Tags: `Ukraine (Japanese)` `2026-11`
 - [ロシアの ウクライナ 侵攻 - Yahoo! ニュース](https://news.yahoo.co.jp/pages/20220217a)
 - [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
 
+### Myanmar(検索日時 / searched at: 2026-11-15)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-11`
+
+- [中国 ・台湾の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [中国 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/china)
+- [中国 の ニュース ・速報|47NEWS（よんなな ニュース ）](https://www.47news.jp/world/china)
+- [人民網日本語版--People's Daily Online](http://j.people.com.cn/)
+- [中国 ・習近平政権 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=Xi_Jinping)
+- [「 中国 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/china/)
+- [最新 中国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/china/)
+- [中国 の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/007c341ed731341e2337/)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [News](https://en.wikipedia.org/wiki/News)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+- [List of Punjabi media](https://en.wikipedia.org/wiki/List_of_Punjabi_media)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- [Bondi Beach shooting](https://en.wikipedia.org/wiki/Bondi_Beach_shooting)
+- [Zapad 2025](https://en.wikipedia.org/wiki/Zapad_2025)
+- [2026](https://en.wikipedia.org/wiki/2026)
+- [2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics)
+- [2020s in politics](https://en.wikipedia.org/wiki/2020s_in_politics)
+- [Islamic veiling practices by country](https://en.wikipedia.org/wiki/Islamic_veiling_practices_by_country)
+- [Kash Patel](https://en.wikipedia.org/wiki/Kash_Patel)
+- [Geographical distribution of Russian speakers](https://en.wikipedia.org/wiki/Geographical_distribution_of_Russian_speakers)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- [Afghanistan - BBC News](https://www.bbc.com/news/topics/c8nq32jw5r5t)
+- [Afghanistan country profile - BBC News](https://www.bbc.com/news/world-south-asia-12011352)
+- [Home | Afghanistan International](https://www.afintl.com/en)
+- [Afghanistan - Wikipedia](https://en.wikipedia.org/wiki/Afghanistan)
+- [Afghanistan | History, Map, Flag, Capital, Population ...](https://www.britannica.com/place/Afghanistan)
+- [Afghanistan - UN News](https://news.un.org/en/focus-topic/afghanistan)
+- [Five years into Taliban rule, Afghanistan plunges into a state ...](https://www.theguardian.com/global-development/2026/aug/15/five-years-taliban-rule-afghanistan-collapse-visualised)
+- [History of Afghanistan - Wikipedia](https://en.wikipedia.org/wiki/History_of_Afghanistan)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- [What in JavaScript can make both contentEditable and textarea unable to recieve any input?](https://stackoverflow.com/questions/26450780)
+- [Russia Beyond](https://en.wikipedia.org/wiki/Russia_Beyond)
+- [Propaganda in Russia](https://en.wikipedia.org/wiki/Propaganda_in_Russia)
+- [How do i Parsing JSON in Php Seprate and loop through data](https://stackoverflow.com/questions/50705864)
+- [Failed to pass Service data to the Component](https://stackoverflow.com/questions/52760901)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+

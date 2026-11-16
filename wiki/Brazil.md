@@ -1001,3 +1001,37 @@ Tags: `Brazil` `2026-11`
 - [Copa do Brasil de Futebol](https://pt.wikipedia.org/wiki/Copa_do_Brasil_de_Futebol)
 - [Maju Coutinho](https://pt.wikipedia.org/wiki/Maju_Coutinho)
 
+### Brazil(検索日時 / searched at: 2026-11-15)
+
+Tags: `Brazil` `2026-11`
+
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Economia do Brasil](https://pt.wikipedia.org/wiki/Economia_do_Brasil)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [História do Brasil](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Brasil)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [Maju Coutinho](https://pt.wikipedia.org/wiki/Maju_Coutinho)
+- [Copa do Brasil de Futebol](https://pt.wikipedia.org/wiki/Copa_do_Brasil_de_Futebol)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [News](https://en.wikipedia.org/wiki/News)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
+
+Tags: `Brazil (English)` `2026-11`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

@@ -1354,3 +1354,38 @@ Tags: `Iran` `2026-11`
 - [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
 - [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
 
+### Iran(検索日時 / searched at: 2026-11-15)
+
+Tags: `Iran` `2026-11`
+
+- [واکنش‌ها به جنگ دوازده‌روزه](https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%E2%80%8C%D9%87%D8%A7_%D8%A8%D9%87_%D8%AC%D9%86%DA%AF_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D9%87)
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [احمد میرزاپور](https://fa.wikipedia.org/wiki/%D8%A7%D8%AD%D9%85%D8%AF_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%D9%BE%D9%88%D8%B1)
+- [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
+- [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
+- [حاکم ممکان](https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%DA%A9%D9%85_%D9%85%D9%85%DA%A9%D8%A7%D9%86)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- [タイ の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/thailand)
+- [newsclip.be | " タイ ニュース "”タイランド ニュース ”"バンコク ...](https://newsclip.be/)
+- [「 タイ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10084)
+- [バンコクの最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF.html)
+- [「 タイ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000386)
+- [タイニュース ・クロスボンバー（X-bomber Thailand） | タイ ...](https://x-bomberth.com/)
+- [タイニュース | バンコク週報](https://bangkokshuho.com/category/thainews/)
+- [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
+
+
+Tags: `Iran (Japanese)` `2026-11`
+
+- [「 イラン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/iran/)
+- [イラン 情勢の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/iran-situation)
+- [最新 イラン 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000183)
+- [イラン の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/06fd6249c78927c72400/)
+- [イラン 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=201905iran)
+- [イラン - BBC ニュース](https://www.bbc.com/japanese/topics/c8y946g2nz3t)
+- [イラン 軍事衝突 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/19061400)
+- [イラン 情勢-WSJ日本版-jp.wsj.com](https://jp.wsj.com/news/iran)
+

@@ -1072,3 +1072,76 @@ Tags: `Afghanistan` `2026-11`
 - [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
 - [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
 
+### Afghanistan(検索日時 / searched at: 2026-11-15)
+
+Tags: `Afghanistan` `2026-11`
+
+- [افغانستان](https://ps.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86)
+- [د لنډې کيسې تاريخچه](https://ps.wikipedia.org/wiki/%D8%AF_%D9%84%D9%86%DA%89%DB%90_%DA%A9%D9%8A%D8%B3%DB%90_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%DA%86%D9%87)
+- [انځور خبريالي](https://ps.wikipedia.org/wiki/%D8%A7%D9%86%DA%81%D9%88%D8%B1_%D8%AE%D8%A8%D8%B1%D9%8A%D8%A7%D9%84%D9%8A)
+
+
+Tags: `Taiwan (Japanese)` `2026-11`
+
+- [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [台湾ニュース ＠中央社フォーカス 台湾 (@focustaiwanjapa) / X](https://x.com/focustaiwanjapa)
+- [ニュース - : Taiwan Today](https://jp.taiwantoday.tw/list_news)
+- [中央社フォーカス 台湾 の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/ftaiwan)
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+
+
+Tags: `Japan (English)` `2026-11`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+
+
+Tags: `South Korea (Japanese)` `2026-11`
+
+- [韓国 | 最新 韓国ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/korea/)
+- [中央日報 - 韓国 の最新 ニュース を日本語でサービスします](https://japanese.joins.com/)
+- [「 韓国 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10085)
+- [聯合 ニュース](https://jp.yna.co.kr/)
+- [聯合 ニュース の記事一覧 - Yahoo!ニュース](https://news.yahoo.co.jp/media/yonh)
+- [「 韓国 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000376)
+- [Kstyle - 韓流・ 韓国 芸能 ニュース はKstyle](https://kstyle.com/)
+- [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [CB Bank](https://en.wikipedia.org/wiki/CB_Bank)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [BBC News](https://en.wikipedia.org/wiki/BBC_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- [ウクライナ 侵攻 - BBC ニュース](https://www.bbc.com/japanese/topics/c50vpymk750t)
+- [ウクライナ 情勢 | 最新 ウクライナニュース | ロイター - Reuters](https://www.reuters.com/jp/world/ukraine/)
+- [「 ウクライナ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/ukraine/)
+- [新着 ニュース - ウクルインフォルム](https://www.ukrinform.jp/block-lastnews)
+- [【 ウクライナ 情勢】特集 ニュース 速報・解説・分析 - 朝日新聞](https://www.asahi.com/topics/AP-7274059d-8405-4d7f-8dbd-8203b01bbbc8/)
+- [ウクライナ にロシアが侵略 最新 ニュース と解説 - 日本経済新聞](https://www.nikkei.com/topics/22012404)
+- [ウクライナ 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000296)
+- [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+
