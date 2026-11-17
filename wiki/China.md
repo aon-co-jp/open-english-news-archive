@@ -694,3 +694,13 @@ Tags: `Brazil (English)` `2026-11`
 - [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### China(検索日時 / searched at: 2026-11-16)
+
+Tags: `China` `2026-11`
+
+- [新闻联播](https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD)
+- [中国中央电视台新闻频道](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93)
+- [李文儀](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%84%80)
+- [澎湃新闻](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB)
+- [有线电视新闻网](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91)
+

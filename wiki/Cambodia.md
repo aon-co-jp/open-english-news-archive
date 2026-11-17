@@ -1028,3 +1028,9 @@ Tags: `Cambodia` `2026-11`
 
 - [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
 
+### Cambodia(検索日時 / searched at: 2026-11-16)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
