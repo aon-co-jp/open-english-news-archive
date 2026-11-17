@@ -1117,3 +1117,9 @@ Tags: `Russia (English)` `2026-11`
 - [News](https://en.wikipedia.org/wiki/News)
 - [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
 
+### Myanmar(検索日時 / searched at: 2026-11-16)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
