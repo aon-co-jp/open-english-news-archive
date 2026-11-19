@@ -985,3 +985,28 @@ Tags: `Afghanistan (English)` `2026-11`
 - [Afghanistan - Country Profile - Nations Online Project](https://www.nationsonline.org/oneworld/afghanistan.htm)
 - [Five years into Taliban rule, Afghanistan plunges into a state ...](https://www.theguardian.com/global-development/2026/aug/15/five-years-taliban-rule-afghanistan-collapse-visualised)
 
+### France(検索日時 / searched at: 2026-11-18)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
+- [Audrey Célestine](https://fr.wikipedia.org/wiki/Audrey_C%C3%A9lestine)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [1450 Internet army](https://en.wikipedia.org/wiki/1450_Internet_army)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
