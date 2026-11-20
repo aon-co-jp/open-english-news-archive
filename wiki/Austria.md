@@ -971,3 +971,13 @@ Tags: `Germany (Japanese)` `2026-11`
 - [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
 - [ドイツニュース ダイジェスト](http://www.newsdigest.de/)
 
+### Austria(検索日時 / searched at: 2026-11-19)
+
+Tags: `Austria` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
