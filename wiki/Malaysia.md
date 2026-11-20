@@ -1004,3 +1004,12 @@ Tags: `France (Japanese)` `2026-11`
 - [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
 - [今週の フランス | 在仏日本商工会議所 – CCIJF](https://www.ccijf.asso.fr/categories/news-france-hebdo/)
 
+### Malaysia(検索日時 / searched at: 2026-11-19)
+
+Tags: `Malaysia` `2026-11`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Bernama](https://en.wikipedia.org/wiki/Bernama)
+- [Sultanah Nur Diana Petra](https://en.wikipedia.org/wiki/Sultanah_Nur_Diana_Petra)
+

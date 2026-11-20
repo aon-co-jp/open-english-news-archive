@@ -944,3 +944,13 @@ Tags: `Thailand (Japanese)` `2026-11`
 - [タイランド ニュース | タイランドハイパーリンクス：Thai Hyper](https://www.thaich.net/news)
 - [時事速報：アジア／バンコク版－時事通信社](https://jijiweb.jiji.com/info/sample/bangkok.html)
 
+### Germany(検索日時 / searched at: 2026-11-19)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+

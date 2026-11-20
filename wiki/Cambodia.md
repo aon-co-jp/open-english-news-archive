@@ -1056,3 +1056,9 @@ Tags: `Japan (English)` `2026-11`
 - [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
 - [News](https://en.wikipedia.org/wiki/News)
 
+### Cambodia(検索日時 / searched at: 2026-11-19)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
