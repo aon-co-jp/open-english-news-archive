@@ -1453,3 +1453,38 @@ Tags: `Thailand (English)` `2026-11`
 - [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
 - [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
 
+### South Africa(検索日時 / searched at: 2026-11-20)
+
+Tags: `South Africa` `2026-11`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [Lara Logan](https://en.wikipedia.org/wiki/Lara_Logan)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+
+
+Tags: `Japan (English)` `2026-11`
+
+- [Margin on a flex item pushes another flex item instead](https://stackoverflow.com/questions/69353901)
+- [How best create parent child relationship in Elasticsearch](https://stackoverflow.com/questions/51523980)
+- [Japanese newspapers](https://en.wikipedia.org/wiki/Japanese_newspapers)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- [ドイツ の最新 ニュース を日本語で毎日お届け -](http://www.newsdigest.de/newsde/news/news/)
+- [ドイツ の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%89%E3%82%A4%E3%83%84.html)
+- [「 ドイツ 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000225)
+- [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
+- [「 ドイツ 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/germany/)
+- [ドイツ - BBC ニュース](https://www.bbc.com/japanese/topics/c7zp51608w0t)
+- [Germany：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Germany)
+- [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
+

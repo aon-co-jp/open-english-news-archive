@@ -1116,3 +1116,15 @@ Tags: `South Korea (English)` `2026-11`
 - [Babymonster](https://en.wikipedia.org/wiki/Babymonster)
 - [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
 
+### Switzerland(検索日時 / searched at: 2026-11-20)
+
+Tags: `Switzerland` `2026-11`
+
+- [Schweiz](https://de.wikipedia.org/wiki/Schweiz)
+- [Freiburger Nachrichten](https://de.wikipedia.org/wiki/Freiburger_Nachrichten)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Neue Zürcher Nachrichten](https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Nachrichten)
+- [Basler Zeitung](https://de.wikipedia.org/wiki/Basler_Zeitung)
+- [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
+- [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
+
