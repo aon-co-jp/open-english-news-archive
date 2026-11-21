@@ -1049,3 +1049,14 @@ Tags: `Italy` `2026-11`
 - [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
 - [Notizia](https://it.wikipedia.org/wiki/Notizia)
 
+### Italy(検索日時 / searched at: 2026-11-20)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+- [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
+

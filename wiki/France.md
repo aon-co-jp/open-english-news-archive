@@ -1023,3 +1023,16 @@ Tags: `France` `2026-11`
 - [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
 - [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
 
+### France(検索日時 / searched at: 2026-11-20)
+
+Tags: `France` `2026-11`
+
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
+- [Audrey Célestine](https://fr.wikipedia.org/wiki/Audrey_C%C3%A9lestine)
+

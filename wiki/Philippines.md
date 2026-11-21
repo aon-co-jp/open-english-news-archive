@@ -1013,3 +1013,16 @@ Tags: `Philippines` `2026-11`
 - [List of longest-running Philippine television series](https://en.wikipedia.org/wiki/List_of_longest-running_Philippine_television_series)
 - [1987 in Philippine television](https://en.wikipedia.org/wiki/1987_in_Philippine_television)
 
+### Philippines(検索日時 / searched at: 2026-11-20)
+
+Tags: `Philippines` `2026-11`
+
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita Pilipinas Ngayon - Wikipedia](https://en.wikipedia.org/wiki/Balita_Pilipinas_Ngayon)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+- [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
+- [Balita - National](https://balita.mb.com.ph/national/)
+- [Daniel Razon](https://en.wikipedia.org/wiki/Daniel_Razon)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
+
