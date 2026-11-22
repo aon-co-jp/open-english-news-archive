@@ -1060,3 +1060,34 @@ Tags: `Italy` `2026-11`
 - [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
 - [Storia d'Italia](https://it.wikipedia.org/wiki/Storia_d%27Italia)
 
+### Italy(検索日時 / searched at: 2026-11-21)
+
+Tags: `Italy` `2026-11`
+
+- [Italia Oggi](https://it.wikipedia.org/wiki/Italia_Oggi)
+- [Pagina principale](https://it.wikipedia.org/wiki/Pagina_principale)
+- [Striscia la notizia](https://it.wikipedia.org/wiki/Striscia_la_notizia)
+- [Italia](https://it.wikipedia.org/wiki/Italia)
+- [Notizia](https://it.wikipedia.org/wiki/Notizia)
+- [Italia 1](https://it.wikipedia.org/wiki/Italia_1)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [BBC News](https://en.wikipedia.org/wiki/BBC_News)
+- [Meitei people in Assam](https://en.wikipedia.org/wiki/Meitei_people_in_Assam)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- [Rai News 24](https://en.wikipedia.org/wiki/Rai_News_24)
+- [News](https://en.wikipedia.org/wiki/News)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+

@@ -1036,3 +1036,60 @@ Tags: `France` `2026-11`
 - [Mouvement lycéen et étudiant de 2026 en France](https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France)
 - [Audrey Célestine](https://fr.wikipedia.org/wiki/Audrey_C%C3%A9lestine)
 
+### France(検索日時 / searched at: 2026-11-21)
+
+Tags: `France` `2026-11`
+
+- [Île-de-France](https://fr.wikipedia.org/wiki/%C3%8Ele-de-France)
+- [Le Parisien](https://fr.wikipedia.org/wiki/Le_Parisien)
+- [Liste des guerres de la France](https://fr.wikipedia.org/wiki/Liste_des_guerres_de_la_France)
+- [Sam Zirah](https://fr.wikipedia.org/wiki/Sam_Zirah)
+- [Franche Culture](https://fr.wikipedia.org/wiki/Franche_Culture)
+- [Sophia Chikirou](https://fr.wikipedia.org/wiki/Sophia_Chikirou)
+- [Thomas Snégaroff](https://fr.wikipedia.org/wiki/Thomas_Sn%C3%A9garoff)
+- [Pascal Praud](https://fr.wikipedia.org/wiki/Pascal_Praud)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- [Taiwanization](https://en.wikipedia.org/wiki/Taiwanization)
+- [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
+- [News](https://en.wikipedia.org/wiki/News)
+- [Taiwan Pride](https://en.wikipedia.org/wiki/Taiwan_Pride)
+- [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [Ting Hsin International Group](https://en.wikipedia.org/wiki/Ting_Hsin_International_Group)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- [Heute](https://en.wikipedia.org/wiki/Heute)
+- [Headline](https://en.wikipedia.org/wiki/Headline)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [News](https://en.wikipedia.org/wiki/News)
+- [News ticker](https://en.wikipedia.org/wiki/News_ticker)
+- [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [News](https://en.wikipedia.org/wiki/News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+
+
+Tags: `Egypt (Japanese)` `2026-11`
+
+- [エジプト の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88.html)
+- [「 エジプト 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/egypt/)
+- [「 エジプト 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/30182)
+- [「 エジプト 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000425)
+- [エジプト の ニュース ・記事一覧 - Business Insider Japan](https://www.businessinsider.jp/tag/egypt/)
+- [エジプト の ニュース ・速報 - 47NEWS](https://www.47news.jp/topic/egypt/page2)
+- [「 エジプト 」の検索結果 - Yahoo! ニュース](https://news.yahoo.co.jp/search?p=%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88)
+- [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
+

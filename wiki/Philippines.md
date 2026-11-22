@@ -1026,3 +1026,16 @@ Tags: `Philippines` `2026-11`
 - [Balita - Balita](https://balita.mb.com.ph/balita/)
 - [List of Philippine television shows](https://en.wikipedia.org/wiki/List_of_Philippine_television_shows)
 
+### Philippines(検索日時 / searched at: 2026-11-21)
+
+Tags: `Philippines` `2026-11`
+
+- [Pinakamuling Balita sa Pilipinas Ngayon (Tagalog News Headlines)](https://www.randall-travel-award.missouri.edu/latest-news-in-the-philippines-today-tagalog-1326637427.html)
+- [Abante News Online | Una sa Balita](https://www.abante.com.ph/)
+- [Balita Pilipinas Ngayon - Wikipedia](https://en.wikipedia.org/wiki/Balita_Pilipinas_Ngayon)
+- [Balita Ngayon | Philstar.com](https://www.philstar.com/pilipino-star-ngayon/balita-ngayon)
+- [Balita - Balita](https://balita.mb.com.ph/balita/)
+- [Balita | Bandera - Inquirer.net](https://bandera.inquirer.net/balita)
+- [Balita - Philippine News](https://balita.mb.com.ph/)
+- [Balitambayan - Balita, Kuwento, at Talakayan Mula Sa ...](https://www.gmanetwork.com/news/balitambayan/)
+

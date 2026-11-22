@@ -1318,3 +1318,31 @@ Tags: `Ukraine (English)` `2026-11`
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 - [USA Today](https://en.wikipedia.org/wiki/USA_Today)
 
+### Myanmar(検索日時 / searched at: 2026-11-21)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- [ミャンマー 最新 ニュース ・情報誌－MYANMAR JAPON](https://myanmarjapon.com/)
+- [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
+- [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
+- [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
+- [「 ミャンマー 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/10101)
+- [ミャンマー 連邦の関連情報 - フォロー - Yahoo! JAPAN](https://follow.yahoo.co.jp/themes/0b2a6a8f9979b8202346/)
+- [「 ミャンマー 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000207)
+- [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
+
+
+Tags: `Thailand (English)` `2026-11`
+
+- [Thailand](https://en.wikipedia.org/wiki/Thailand)
+- [Bhumibol Adulyadej](https://en.wikipedia.org/wiki/Bhumibol_Adulyadej)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
+- [Horse racing in Thailand](https://en.wikipedia.org/wiki/Horse_racing_in_Thailand)
+- [NBC News](https://en.wikipedia.org/wiki/NBC_News)
+

@@ -1068,3 +1068,29 @@ Tags: `Cambodia` `2026-11`
 
 - [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
 
+### Cambodia(検索日時 / searched at: 2026-11-21)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
+
+Tags: `Brazil (English)` `2026-11`
+
+- [Toutiao](https://en.wikipedia.org/wiki/Toutiao)
+- [News](https://en.wikipedia.org/wiki/News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- [Elections in Afghanistan](https://en.wikipedia.org/wiki/Elections_in_Afghanistan)
+- [Fox News](https://en.wikipedia.org/wiki/Fox_News)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+- [List of current BBC newsreaders and reporters](https://en.wikipedia.org/wiki/List_of_current_BBC_newsreaders_and_reporters)
+- [The News Agents](https://en.wikipedia.org/wiki/The_News_Agents)
+- [PBS News Hour](https://en.wikipedia.org/wiki/PBS_News_Hour)
+- [David Muir](https://en.wikipedia.org/wiki/David_Muir)
+

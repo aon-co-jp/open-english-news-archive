@@ -1322,3 +1322,39 @@ Tags: `Ukraine (Japanese)` `2026-11`
 - [ウクライナ 情勢 特集サイト - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000296)
 - [Ukrain：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Ukrain)
 
+### Brazil(検索日時 / searched at: 2026-11-21)
+
+Tags: `Brazil` `2026-11`
+
+- [Notícias falsas no Brasil](https://pt.wikipedia.org/wiki/Not%C3%ADcias_falsas_no_Brasil)
+- [Brasil](https://pt.wikipedia.org/wiki/Brasil)
+- [Renata Vasconcellos](https://pt.wikipedia.org/wiki/Renata_Vasconcellos)
+- [Notícia falsa](https://pt.wikipedia.org/wiki/Not%C3%ADcia_falsa)
+- [Agência Nacional](https://pt.wikipedia.org/wiki/Ag%C3%AAncia_Nacional)
+- [Região Nordeste do Brasil](https://pt.wikipedia.org/wiki/Regi%C3%A3o_Nordeste_do_Brasil)
+- [Maju Coutinho](https://pt.wikipedia.org/wiki/Maju_Coutinho)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- [「 ブラジル 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/40282)
+- [ブラジル 日報の記事一覧 - Yahoo! ニュース](https://news.yahoo.co.jp/media/nikkey)
+- [南米の鼓動をキャッチ！ ブラジル 日報](https://brasilnippou.com/)
+- [「 ブラジル 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000420)
+- [ブラジル の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB.html)
+- [ブラジル - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/cs_america/br/)
+- [Brazil：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Brazil)
+- [「 ブラジル 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/brazil/)
+
+
+Tags: `Italy (Japanese)` `2026-11`
+
+- [「 イタリア 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/italy/)
+- [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
+- [イタリア の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.html)
+- [イタリア - BBC ニュース](https://www.bbc.com/japanese/topics/cr50ykzg072t)
+- [Italy：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Italy)
+- [「 イタリア 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000517)
+- [イタリア 関連 ニュース ｜dメニュー ニュース （NTTドコモ）](https://topics.smt.docomo.ne.jp/latestnews/keywords/6a23dcecdbb44001d0f00f92fade3287eef9989efa2f4b2782f701dceb20e638)
+- [イタリア - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/it/)
+

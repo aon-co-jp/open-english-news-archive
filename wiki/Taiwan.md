@@ -1295,3 +1295,39 @@ Tags: `Taiwan` `2026-11`
 - [台湾新闻 滚动--台湾频道--人民网](http://tw.people.com.cn/GB/104510/)
 - [中国 台湾 网的微博_微](https://weibo.com/chinataiwan/)
 
+### Taiwan(検索日時 / searched at: 2026-11-21)
+
+Tags: `Taiwan` `2026-11`
+
+- [Yahoo新聞](https://tw.news.yahoo.com/)
+- [李文儀](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%87%E5%84%80)
+- [今日頭條新聞網 | 今日新聞頭條，首屈一指的商業、科技、金融與財經新聞頭條平台](https://headnews.com.tw/)
+- [李晶玉](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%B6%E7%8E%89)
+- [頭條焦點 | NOWnews今日新聞](https://www.nownews.com/cat/column-headline/)
+- [字幕跑馬燈](https://zh.wikipedia.org/wiki/%E5%AD%97%E5%B9%95%E8%B7%91%E9%A6%AC%E7%87%88)
+- [台視新聞網](https://news.ttv.com.tw/)
+- [台灣偶像劇列表](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%81%B6%E5%83%8F%E5%8A%87%E5%88%97%E8%A1%A8)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- [フランス の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.html)
+- [フランス - BBC ニュース](https://www.bbc.com/japanese/topics/cjgn7kqz4jpt)
+- [「 フランス 」 ニュース 一覧 - NHKニュース](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000293)
+- [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
+- [「 フランス 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/france/)
+- [French：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/French)
+- [ニュース ・社会問題 Archives - OVNI| オヴニー・パリの新聞](https://ovninavi.com/category/mieux-connaitre-la-france/actualites/)
+- [今日 の フランス](https://www.parisettoi.fr/news/)
+
+
+Tags: `Ukraine (English)` `2026-11`
+
+- [How do I solve an error with a Python scraping program](https://stackoverflow.com/questions/80009348)
+- [Strana.ua](https://en.wikipedia.org/wiki/Strana.ua)
+- [Korotko Pro](https://en.wikipedia.org/wiki/Korotko_Pro)
+- [Far-right politics in Ukraine](https://en.wikipedia.org/wiki/Far-right_politics_in_Ukraine)
+- [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
+- [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+
