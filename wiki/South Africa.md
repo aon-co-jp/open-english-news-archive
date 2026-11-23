@@ -1547,3 +1547,14 @@ Tags: `Japan (English)` `2026-11`
 - [News](https://en.wikipedia.org/wiki/News)
 - [Cool Japan](https://en.wikipedia.org/wiki/Cool_Japan)
 
+### South Africa(検索日時 / searched at: 2026-11-22)
+
+Tags: `South Africa` `2026-11`
+
+- [My horizontal navigation bar is not horizontal...it's a square](https://stackoverflow.com/questions/34983807)
+- [South Africa national soccer team](https://en.wikipedia.org/wiki/South_Africa_national_soccer_team)
+- [USA Today](https://en.wikipedia.org/wiki/USA_Today)
+- [Australian cricket team in South Africa in 2026–27](https://en.wikipedia.org/wiki/Australian_cricket_team_in_South_Africa_in_2026%E2%80%9327)
+- [Second Boer War](https://en.wikipedia.org/wiki/Second_Boer_War)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+

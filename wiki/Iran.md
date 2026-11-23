@@ -1743,3 +1743,13 @@ Tags: `Iran` `2026-11`
 - [اکازیون](https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A7%D8%B2%DB%8C%D9%88%D9%86)
 - [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
 
+### Iran(検索日時 / searched at: 2026-11-22)
+
+Tags: `Iran` `2026-11`
+
+- [واکنش‌ها به جنگ دوازده‌روزه](https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%E2%80%8C%D9%87%D8%A7_%D8%A8%D9%87_%D8%AC%D9%86%DA%AF_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D9%87)
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [محاصره هوایی ایران توسط آمریکا](https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AA%D9%88%D8%B3%D8%B7_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7)
+- [لیگ برتر والیبال ایران ۰۵–۱۴۰۴](https://fa.wikipedia.org/wiki/%D9%84%DB%8C%DA%AF_%D8%A8%D8%B1%D8%AA%D8%B1_%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%DB%B0%DB%B5%E2%80%93%DB%B1%DB%B4%DB%B0%DB%B4)
+- [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
+
