@@ -1155,3 +1155,9 @@ Tags: `Switzerland (English)` `2026-11`
 - [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
 - [CNN](https://en.wikipedia.org/wiki/CNN)
 
+### Cambodia(検索日時 / searched at: 2026-11-23)
+
+Tags: `Cambodia` `2026-11`
+
+- [Kun Khmer](https://en.wikipedia.org/wiki/Kun_Khmer)
+
