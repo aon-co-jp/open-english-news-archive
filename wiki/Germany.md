@@ -1007,3 +1007,32 @@ Tags: `South Korea (English)` `2026-11`
 - [Korean Americans](https://en.wikipedia.org/wiki/Korean_Americans)
 - [Babymonster](https://en.wikipedia.org/wiki/Babymonster)
 
+### Germany(検索日時 / searched at: 2026-11-23)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+- [BR24](https://de.wikipedia.org/wiki/BR24)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- [Myanmar conflict](https://en.wikipedia.org/wiki/Myanmar_conflict)
+- [Chin theater](https://en.wikipedia.org/wiki/Chin_theater)
+- [Fake news](https://en.wikipedia.org/wiki/Fake_news)
+- [Meitei people in Assam](https://en.wikipedia.org/wiki/Meitei_people_in_Assam)
+- [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [News](https://en.wikipedia.org/wiki/News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+
