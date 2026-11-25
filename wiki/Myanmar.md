@@ -1426,3 +1426,9 @@ Tags: `Brazil (English)` `2026-11`
 - [List of news presenters](https://en.wikipedia.org/wiki/List_of_news_presenters)
 - [List of miscellaneous fake news websites](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 
+### Myanmar(検索日時 / searched at: 2026-11-24)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+

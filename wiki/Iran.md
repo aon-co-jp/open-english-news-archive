@@ -1807,3 +1807,36 @@ Tags: `Thailand (English)` `2026-11`
 - [Jenna Bush Hager](https://en.wikipedia.org/wiki/Jenna_Bush_Hager)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Iran(検索日時 / searched at: 2026-11-24)
+
+Tags: `Iran` `2026-11`
+
+- [جنگ آمریکا و اسرائیل با ایران](https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7_%D9%88_%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84_%D8%A8%D8%A7_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [واکنش‌ها به جنگ دوازده‌روزه](https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%E2%80%8C%D9%87%D8%A7_%D8%A8%D9%87_%D8%AC%D9%86%DA%AF_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D9%87)
+- [تحریف در صدا و سیمای جمهوری اسلامی ایران](https://fa.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B1%DB%8C%D9%81_%D8%AF%D8%B1_%D8%B5%D8%AF%D8%A7_%D9%88_%D8%B3%DB%8C%D9%85%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+- [کارآگاه علوی ۳](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%DB%8C_%DB%B3)
+- [زخم کاری](https://fa.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%DA%A9%D8%A7%D8%B1%DB%8C)
+- [اکازیون](https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A7%D8%B2%DB%8C%D9%88%D9%86)
+
+
+Tags: `Taiwan (Japanese)` `2026-11`
+
+- [「 台湾 」 ニュース 一覧 - NHKニュース - NHK ONE](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000222)
+- [最新 台湾 情勢 ニュース | ロイター - Reuters](https://www.reuters.com/jp/world/taiwan/)
+- [中国・ 台湾 の最新 ニュース ・特集 - 日本経済新聞](https://www.nikkei.com/international/china-taiwan/)
+- [最新 | フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/news)
+- [ニュース - : Taiwan Today](https://jp.taiwantoday.tw/list_news)
+- [台湾 の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/taiwan)
+- [フォーカス 台湾 - 中央社日本語版](https://japan.focustaiwan.tw/)
+- [「 台湾 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/taiwan/)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- [El Koshary Today](https://en.wikipedia.org/wiki/El_Koshary_Today)
+- [Sharm El Sheikh](https://en.wikipedia.org/wiki/Sharm_El_Sheikh)
+- [Hoda Kotb](https://en.wikipedia.org/wiki/Hoda_Kotb)
+- [News](https://en.wikipedia.org/wiki/News)
+- [The Day Today](https://en.wikipedia.org/wiki/The_Day_Today)
+- [List of news television channels](https://en.wikipedia.org/wiki/List_of_news_television_channels)
+

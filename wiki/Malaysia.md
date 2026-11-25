@@ -1165,3 +1165,11 @@ Tags: `France (English)` `2026-11`
 - [New York Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)
 - [NBC News](https://en.wikipedia.org/wiki/NBC_News)
 
+### Malaysia(検索日時 / searched at: 2026-11-24)
+
+Tags: `Malaysia` `2026-11`
+
+- [BeautifulSoup scraping news article](https://stackoverflow.com/questions/60065910)
+- [Media Prima](https://en.wikipedia.org/wiki/Media_Prima)
+- [Sultanah Nur Diana Petra](https://en.wikipedia.org/wiki/Sultanah_Nur_Diana_Petra)
+
