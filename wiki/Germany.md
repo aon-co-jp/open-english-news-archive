@@ -1091,3 +1091,13 @@ Tags: `Austria (English)` `2026-11`
 - [Fake news](https://en.wikipedia.org/wiki/Fake_news)
 - [Santorini International Airport](https://en.wikipedia.org/wiki/Santorini_International_Airport)
 
+### Germany(検索日時 / searched at: 2026-11-25)
+
+Tags: `Germany` `2026-11`
+
+- [Deutschland](https://de.wikipedia.org/wiki/Deutschland)
+- [Heute-journal](https://de.wikipedia.org/wiki/Heute-journal)
+- [Heute-show](https://de.wikipedia.org/wiki/Heute-show)
+- [Nachrichten](https://de.wikipedia.org/wiki/Nachrichten)
+- [Redaktionsnetzwerk Deutschland](https://de.wikipedia.org/wiki/Redaktionsnetzwerk_Deutschland)
+
