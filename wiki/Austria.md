@@ -1073,3 +1073,9 @@ Tags: `Switzerland (English)` `2026-11`
 - [Oded Balilty](https://en.wikipedia.org/wiki/Oded_Balilty)
 - [Prince Philipp of Liechtenstein](https://en.wikipedia.org/wiki/Prince_Philipp_of_Liechtenstein)
 
+### Austria(検索日時 / searched at: 2026-11-26)
+
+Tags: `Austria` `2026-11`
+
+- (no items / 記事なし)
+

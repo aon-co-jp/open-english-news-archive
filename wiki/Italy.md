@@ -1290,3 +1290,9 @@ Tags: `Ukraine (English)` `2026-11`
 - [Veterans Today](https://en.wikipedia.org/wiki/Veterans_Today)
 - [Ask HN: Is this is a new kind of war?](https://news.ycombinator.com/item?id=35979060)
 
+### Italy(検索日時 / searched at: 2026-11-26)
+
+Tags: `Italy` `2026-11`
+
+- (no items / 記事なし)
+

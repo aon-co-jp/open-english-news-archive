@@ -1212,3 +1212,14 @@ Tags: `Philippines` `2026-11`
 - [List of longest-running Philippine television series](https://en.wikipedia.org/wiki/List_of_longest-running_Philippine_television_series)
 - [1987 in Philippine television](https://en.wikipedia.org/wiki/1987_in_Philippine_television)
 
+### Philippines(検索日時 / searched at: 2026-11-26)
+
+Tags: `Philippines` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

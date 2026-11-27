@@ -1537,3 +1537,14 @@ Tags: `Tajikistan` `2026-11`
 - [Бозор](https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%BE%D1%80)
 - [Кӯлоб](https://tg.wikipedia.org/wiki/%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1)
 
+### Tajikistan(検索日時 / searched at: 2026-11-26)
+
+Tags: `Tajikistan` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

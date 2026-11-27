@@ -1666,3 +1666,24 @@ Tags: `Italy (Japanese)` `2026-11`
 - [イタリア - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/it/)
 - [「 イタリア 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20138)
 
+### Egypt(検索日時 / searched at: 2026-11-26)
+
+Tags: `Egypt` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

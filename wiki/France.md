@@ -1202,3 +1202,44 @@ Tags: `Austria (Japanese)` `2026-11`
 - [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
 - [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
 
+### France(検索日時 / searched at: 2026-11-26)
+
+Tags: `France` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

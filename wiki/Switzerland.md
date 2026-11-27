@@ -1244,3 +1244,14 @@ Tags: `Switzerland` `2026-11`
 - [Schweizer Radio DRS](https://de.wikipedia.org/wiki/Schweizer_Radio_DRS)
 - [Verband Schweizer Medien](https://de.wikipedia.org/wiki/Verband_Schweizer_Medien)
 
+### Switzerland(検索日時 / searched at: 2026-11-26)
+
+Tags: `Switzerland` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

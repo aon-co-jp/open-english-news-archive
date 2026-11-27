@@ -1506,3 +1506,19 @@ Tags: `Russia (English)` `2026-11`
 - [Weekend Today](https://en.wikipedia.org/wiki/Weekend_Today)
 - [APEC China 2026](https://en.wikipedia.org/wiki/APEC_China_2026)
 
+### Brazil(検索日時 / searched at: 2026-11-26)
+
+Tags: `Brazil` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Taiwan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (English)` `2026-11`
+
+- (no items / 記事なし)
+

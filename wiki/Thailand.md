@@ -1134,3 +1134,9 @@ Tags: `France (Japanese)` `2026-11`
 - [「 フランス 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20163)
 - [今日 の フランス](https://www.parisettoi.fr/news/)
 
+### Thailand(検索日時 / searched at: 2026-11-26)
+
+Tags: `Thailand` `2026-11`
+
+- (no items / 記事なし)
+

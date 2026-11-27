@@ -1394,3 +1394,14 @@ Tags: `Taiwan (English)` `2026-11`
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 - [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
 
+### Taiwan(検索日時 / searched at: 2026-11-26)
+
+Tags: `Taiwan` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- (no items / 記事なし)
+

@@ -1673,3 +1673,34 @@ Tags: `Germany (Japanese)` `2026-11`
 - [ドイツ - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/europe/de/)
 - [「 ドイツ 」の ニュース 一覧 - 日本経済新聞](https://r.nikkei.com/regions/20157)
 
+### South Africa(検索日時 / searched at: 2026-11-26)
+
+Tags: `South Africa` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `China (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

@@ -1263,3 +1263,19 @@ Tags: `Myanmar (Japanese)` `2026-11`
 - [ミャンマー 最新情報 - GIC](https://gicjp.com/myanmar-information)
 - [ミャンマー の最新 ニュース - 朝日新聞](https://www.asahi.com/topics/word/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC.html)
 
+### Cambodia(検索日時 / searched at: 2026-11-26)
+
+Tags: `Cambodia` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- (no items / 記事なし)
+

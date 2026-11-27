@@ -1492,3 +1492,14 @@ Tags: `Iran (English)` `2026-11`
 - [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
 - [Economic impact of the 2026 Iran war](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
 
+### Myanmar(検索日時 / searched at: 2026-11-26)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

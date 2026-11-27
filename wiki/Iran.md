@@ -1903,3 +1903,19 @@ Tags: `Afghanistan (Japanese)` `2026-11`
 - [「 アフガニスタン 」の ニュース - CNN.co.jp](https://www.cnn.co.jp/topic/afghanistan/)
 - [アフガニスタン の ニュース ・読売新聞の最新記事](https://www.yomiuri.co.jp/keyword/29272/)
 
+### Iran(検索日時 / searched at: 2026-11-26)
+
+Tags: `Iran` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (English)` `2026-11`
+
+- (no items / 記事なし)
+
