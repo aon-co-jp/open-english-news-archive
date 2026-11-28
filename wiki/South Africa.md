@@ -1704,3 +1704,34 @@ Tags: `Russia (Japanese)` `2026-11`
 
 - (no items / 記事なし)
 
+### South Africa(検索日時 / searched at: 2026-11-27)
+
+Tags: `South Africa` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Egypt (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (English)` `2026-11`
+
+- (no items / 記事なし)
+

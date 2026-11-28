@@ -1919,3 +1919,14 @@ Tags: `Ukraine (English)` `2026-11`
 
 - (no items / 記事なし)
 
+### Iran(検索日時 / searched at: 2026-11-27)
+
+Tags: `Iran` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

@@ -1433,3 +1433,94 @@ Tags: `Afghanistan` `2026-11`
 
 - (no items / 記事なし)
 
+### Afghanistan(検索日時 / searched at: 2026-11-27)
+
+Tags: `Afghanistan` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Thailand (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `China (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Taiwan (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Switzerland (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `China (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `France (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Tajikistan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `South Korea (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Taiwan (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Ukraine (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Brazil (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Afghanistan (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Myanmar (English)` `2026-11`
+
+- (no items / 記事なし)
+

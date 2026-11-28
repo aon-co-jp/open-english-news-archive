@@ -658,3 +658,24 @@ Tags: `Egypt (Japanese)` `2026-11`
 - [エジプト - ビジネス短信 - ジェトロ](https://www.jetro.go.jp/biznewstop/biznews/africa/eg/)
 - [Egypt：国際 ニュース ：AFPBB News](https://www.afpbb.com/subcategory/Egypt)
 
+### Israel(検索日時 / searched at: 2026-11-27)
+
+Tags: `Israel` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `France (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Russia (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Italy (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+

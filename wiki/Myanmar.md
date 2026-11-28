@@ -1503,3 +1503,29 @@ Tags: `Iran (Japanese)` `2026-11`
 
 - (no items / 記事なし)
 
+### Myanmar(検索日時 / searched at: 2026-11-27)
+
+Tags: `Myanmar` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Austria (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (Japanese)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Iran (English)` `2026-11`
+
+- (no items / 記事なし)
+
+
+Tags: `Germany (English)` `2026-11`
+
+- (no items / 記事なし)
+
