@@ -688,3 +688,9 @@ Tags: `United States` `2026-11`
 - [U.S. News: Latest news, breaking news, today's news stories updated daily from CBS News](https://www.cbsnews.com/us/)
 - [Headline](https://en.wikipedia.org/wiki/Headline)
 
+### United States(検索日時 / searched at: 2026-11-27)
+
+Tags: `United States` `2026-11`
+
+- (no items / 記事なし)
+

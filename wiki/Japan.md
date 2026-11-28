@@ -680,3 +680,9 @@ Tags: `Japan` `2026-11`
 - [速報・新着ニュース一覧：朝日新聞](https://www.asahi.com/news/)
 - [毎日新聞デジタル | 毎日新聞のニュースサイト](https://mainichi.jp/)
 
+### Japan(検索日時 / searched at: 2026-11-27)
+
+Tags: `Japan` `2026-11`
+
+- (no items / 記事なし)
+

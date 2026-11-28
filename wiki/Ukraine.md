@@ -814,3 +814,9 @@ Tags: `China (English)` `2026-11`
 - [The Diplomat Magazine Exposed Yan Limeng and Guo Wengui](https://news.ycombinator.com/item?id=36148847)
 - [Yan Limeng and Guo Wengui as anti-communist swindlers](https://news.ycombinator.com/item?id=36135865)
 
+### Ukraine(検索日時 / searched at: 2026-11-27)
+
+Tags: `Ukraine` `2026-11`
+
+- (no items / 記事なし)
+

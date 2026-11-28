@@ -857,3 +857,9 @@ Tags: `Myanmar (Japanese)` `2026-11`
 - [ミャンマー の経済 ニュース ・ビジネス情報 - NNA ASIA](https://www.nna.jp/countries/myanmar)
 - [ミャンマー 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202102Myanmar)
 
+### Russia(検索日時 / searched at: 2026-11-27)
+
+Tags: `Russia` `2026-11`
+
+- (no items / 記事なし)
+

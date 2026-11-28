@@ -840,3 +840,9 @@ Tags: `South Korea (Japanese)` `2026-11`
 - [朝鮮日報オンライン：Chosunonline.com](https://www.chosunonline.com/)
 - [韓国 の ニュース ・速報 - 47NEWS](https://www.47news.jp/world/south-korea)
 
+### India(検索日時 / searched at: 2026-11-27)
+
+Tags: `India` `2026-11`
+
+- (no items / 記事なし)
+

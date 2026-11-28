@@ -792,3 +792,9 @@ Tags: `Ukraine (Japanese)` `2026-11`
 - [ウクライナ 情勢 関連 ニュース ：時事ドットコム](https://www.jiji.com/jc/v7?id=202112ukraine)
 - [ウクルインフォルム通信](https://www.ukrinform.jp/)
 
+### United Kingdom(検索日時 / searched at: 2026-11-27)
+
+Tags: `United Kingdom` `2026-11`
+
+- (no items / 記事なし)
+
